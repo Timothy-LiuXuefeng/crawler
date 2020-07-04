@@ -159,7 +159,7 @@ string ToFileName(const string& url)						//½«µØÖ·×ª»»ÎªÎÄ¼şÃû
 
 
 //Ã»ÎÊÌâ
-void HTMLParse(const string& response, vector<string>& imgurls)		//½âÎöHTML£¬Ñ°ÕÒ³¬Á´½ÓºÍÍ¼Æ¬Á´½Ó
+void HTMLParse(const string& response, vector<string>& imgurls, const string& url)		//½âÎöHTML£¬Ñ°ÕÒ³¬Á´½ÓºÍÍ¼Æ¬Á´½Ó
 {
 	string tagHref = "href=\"";
 	size_t pos = response.find(tagHref);
@@ -171,6 +171,7 @@ void HTMLParse(const string& response, vector<string>& imgurls)		//½âÎöHTML£¬Ñ°Õ
 		size_t nextQ = response.find('\"', pos);
 		if (nextQ == string::npos) break;
 		string urlTmp = response.substr(pos, nextQ - pos);
+		if (urlTmp[0] == '/') urlTmp = url + urlTmp; 
 		if (visitedUrl.find(urlTmp) == visitedUrl.end())			//Ã»ÓĞ·ÃÎÊ¹ı´ËÍøÕ¾
 		{
 			urlQue.push(response.substr(pos, nextQ - pos));
@@ -202,6 +203,7 @@ void HTMLParse(const string& response, vector<string>& imgurls)		//½âÎöHTML£¬Ñ°Õ
 		size_t nextQ = response.find('\"', pos);
 		if (nextQ == string::npos) break;
 		string imgUrlTmp = response.substr(pos, nextQ - pos);
+		if (imgUrlTmp[0] == '/') imgUrlTmp = url + imgUrlTmp; 
 		if (visitedImg.find(imgUrlTmp) == visitedImg.end())			//Ã»ÓĞ´ËÍ¼Æ¬
 		{
 			visitedImg.insert(imgUrlTmp);
@@ -278,7 +280,7 @@ void BFS(const string& url)									//´¦ÀíÒ»¸öurl
 
 	vector<string> imgUrls;									//´æ´¢Í¼Æ¬url
 	cout << "Parsing url: " << url << "..." << endl;
-	HTMLParse(response, imgUrls);							//½âÎöHTML£¬Ñ°ÕÒ³¬Á´½ÓºÍÍ¼Æ¬Á´½Ó
+	HTMLParse(response, imgUrls, url);							//½âÎöHTML£¬Ñ°ÕÒ³¬Á´½ÓºÍÍ¼Æ¬Á´½Ó
 
 	cout << "DownLoading image..." << endl;
 	DownLoadImg(imgUrls, url);								//ÏÂÔØÍ¼Æ¬
