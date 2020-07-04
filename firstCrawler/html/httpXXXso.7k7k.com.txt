@@ -1,0 +1,203 @@
+HTTP/1.1 200 OK
+Server: nProxy
+Date: Sat, 04 Jul 2020 22:13:31 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Vary: Accept-Encoding
+Content-Language: en-US
+Set-Cookie: SERVER_ID=035976d2-83354c82; path=/
+Cache-control: private
+
+1f72
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="7k7k是中国最大的小游戏专业网站,免费为你提供各种绿色、安全、健康的小游戏,包括双人小游戏,动作小游戏,小游戏大全,冒险小游戏,赛车游戏,拳皇游戏等最新小游戏。" />
+<meta name="keywords" content="小游戏,7k7k小游戏大全,在线小游戏" /><title>游戏搜索-7k7k小游戏</title>
+<link type="text/css" rel="stylesheet" href="http://www.7k7kjs.cn/css/so/201201131551/css/jquery-ui-1.8.16.custom-min.css" />
+<link type="text/css" rel="stylesheet" href="http://www.7k7kjs.cn/css/so/201201131551/css/search-min.css" />
+<!--[if lt IE 9]><script src="http://www.7k7kjs.cn/js/lib/html5/html5.js"></script><![endif]-->
+<script src="http://www.7k7kjs.cn/js/lib/jquery/1.6.2/jquery.min.js"></script>
+<script src="http://www.7k7kjs.cn/js/so/201112281723/base-min.js"></script>
+</head>
+
+<body>
+<!--start header-->
+<div class="header">
+    <div class="crumb">
+        <h1 class="logo"><a title="小游戏" alt="小游戏" target="_blank" href="http://www.7k7k.com">小游戏</a></h1>
+        <div class="crumbnav">
+            <ul>
+                <li><a target="_blank" href="http://www.7k7k.com/index.htm">首页</a></li>
+                <li><a target="_blank" href="http://www.7k7k.com/flash_fl/485_1.htm">休闲</a></li>
+                <li><a target="_blank" href="http://www.7k7k.com/flash_fl/478_1.htm">动作</a></li>
+                <li><a target="_blank" href="http://www.7k7k.com/flash_fl/461_1.htm">冒险</a></li>
+                <li><a target="_blank" href="http://www.7k7k.com/flash_fl/499_1.htm">换装</a></li>
+                <li><a target="_blank" href="http://www.7k7k.com/flash_fl/459_1.htm">射击</a></li>
+                <li><a target="_blank" href="http://www.7k7k.com/flash_fl/491_1.htm">战争</a></li>
+                <li><a target="_blank" href="http://www.7k7k.com/tag/62/">双人</a></li>
+                <li><a target="_blank" href="http://www.7k7k.com/flash_fl/456_1.htm">益智</a></li>
+                <li><a target="_blank" href="http://www.7k7k.com/flash_fl/489_1.htm">儿童</a></li>
+                <li><a target="_blank" href="http://www.7k7k.com/flash_fl/458_1.htm">体育</a></li>
+                <li><a target="_blank" href="http://www.7k7k.com/flash_fl/484_1.htm">解谜</a></li>
+                <li><a target="_blank" href="http://www.7k7k.com/flash_fl/457_1.htm">敏捷</a></li>
+                <li><a target="_blank" href="http://www.7k7k.com/top/hot.htm">热门</a></li>
+                <li><a target="_blank" href="http://web.7k7k.com/">网页游戏</a></li>
+            </ul>
+        </div>
+        
+        <!--div class="so">
+            <form method="get" action="/game/" name="searchTop">
+                <div class="ipt"><input type="text" title="请输入小游戏名称" value="" name="k"></div>
+                <input type="submit" value="搜 索" class="btn" name="sobtn" />
+            </form>
+        </div-->
+    </div>
+</div>
+<!--end header-->
+
+<!--start main-->
+<div class="main">
+
+	<!--start logo-->
+	<div class="logo7k7k">
+		<img src="/img/7k7klogo.png" align="7k7k小游戏" width="298" height="75" title="7k7k小游戏" />
+	</div><!--end logo-->
+    
+    <!--start search_form-->
+    <div class="search_form">
+<!--start gSearchForm-->
+<script>
+function doSearch(form){
+	var a = form.action, e = form.elements, v = e['k'].value, b = e['a'].value;
+	
+	if(!b) {
+		if(v.length > 0) location.href = '/game/' + encodeURIComponent(v) + '.htm';
+		return false;
+	} else {
+		form.action = b;
+		e['a'].value = '';
+		return true;
+	}
+}
+</script>
+<form id="gSearchForm" name="search" method="post" action="/game/" target="_blank"
+onsubmit="return doSearch(this);">
+	<div class="s_text">
+		<input type="hidden" name="a" value="" />
+    	<input type="text" value="" id="gSearchKey" name="k" autocomplete="off" accesskey="s" autofocus="true" />
+    </div>
+    <div class="s_btn"><input type="submit" value="" /></div>
+</form>
+<script>if(window.gKey){$('#gSearchKey').val(gKey)}</script>
+<!--end gSearchForm-->
+    </div><!--end search_form-->
+    
+    <!--start hot_search-->
+    <div class="hot_search">
+    	<div class="hot_search_cont">
+            <h3><i></i>热门游戏搜索</h3>
+            <ul>
+                <li><a title="特战英雄" href="/game/%E7%89%B9%E6%88%98%E8%8B%B1%E9%9B%84.htm">特战英雄</a></li>
+                <li><a title="无敌版" href="/game/%E6%97%A0%E6%95%8C%E7%89%88.htm">无敌版</a></li>
+                <li><a title="touch" href="/game/touch.htm">touch</a></li>
+                <li><a title="英魂之刃" href="/game/%E8%8B%B1%E9%AD%82%E4%B9%8B%E5%88%83.htm">英魂之刃</a></li>
+                <li><a title="樱桃公主" href="/game/%E6%A8%B1%E6%A1%83%E5%85%AC%E4%B8%BB.htm">樱桃公主</a></li>
+                <li><a title="连连看" href="/game/%E8%BF%9E%E8%BF%9E%E7%9C%8B.htm">连连看</a></li>
+                <li><a title="火柴人" href="/game/%E7%81%AB%E6%9F%B4%E4%BA%BA.htm">火柴人</a></li>
+                <li><a title="恐怖密室逃脱" href="/game/%E6%81%90%E6%80%96%E5%AF%86%E5%AE%A4%E9%80%83%E8%84%B1.htm">恐怖密室逃脱</a></li>
+                <li><a title="测试" href="/game/%E6%B5%8B%E8%AF%95.htm">测试</a></li>
+                <li><a title="橙光游戏" href="/game/%E6%A9%99%E5%85%89%E6%B8%B8%E6%88%8F.htm">橙光游戏</a></li>
+                <li><a title="植物大战僵尸" href="/game/%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B8.htm">植物大战僵尸</a></li>
+                <li><a title="我的世界" href="/game/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C.htm">我的世界</a></li>
+                <li><a title="皮卡堂" href="/game/%E7%9A%AE%E5%8D%A1%E5%A0%82.htm">皮卡堂</a></li>
+                <li><a title="坦克联盟" href="/game/%E5%9D%A6%E5%85%8B%E8%81%94%E7%9B%9F.htm">坦克联盟</a></li>
+                <li><a title="拳皇" href="/game/%E6%8B%B3%E7%9A%87.htm">拳皇</a></li>
+                <li><a title="天天酷跑" href="/game/%E5%A4%A9%E5%A4%A9%E9%85%B7%E8%B7%91.htm">天天酷跑</a></li>
+                <li><a title="保卫萝卜" href="/game/%E4%BF%9D%E5%8D%AB%E8%90%9D%E5%8D%9C.htm">保卫萝卜</a></li>
+                <li><a title="老爹" href="/game/%E8%80%81%E7%88%B9.htm">老爹</a></li>
+                <li><a title="冒险王" href="/game/%E5%86%92%E9%99%A9%E7%8E%8B.htm">冒险王</a></li>
+                <li><a title="完美漂移" href="/game/%E5%AE%8C%E7%BE%8E%E6%BC%82%E7%A7%BB.htm">完美漂移</a></li>
+            </ul>
+        </div>
+    </div>
+    <!--end hot_search-->
+    
+ 
+    <div style="height:1px; overflow:hidden;">
+    <ul>
+                <li><a title="夏日炎炎" href="/game/%E5%A4%8F%E6%97%A5%E7%82%8E%E7%82%8E.htm">夏日炎炎</a></li>
+                <li><a title="大佐的战斗" href="/game/%E5%A4%A7%E4%BD%90%E7%9A%84%E6%88%98%E6%96%97.htm">大佐的战斗</a></li>
+                <li><a title="HUANLENONGCHAN" href="/game/HUANLENONGCHAN.htm">HUANLENONGCHAN</a></li>
+                <li><a title="蓝精灵换装" href="/game/%E8%93%9D%E7%B2%BE%E7%81%B5%E6%8D%A2%E8%A3%85.htm">蓝精灵换装</a></li>
+                <li><a title="狙杀僵尸" href="/game/%E7%8B%99%E6%9D%80%E5%83%B5%E5%B0%B8.htm">狙杀僵尸</a></li>
+                <li><a title="现舞" href="/game/%E7%8E%B0%E8%88%9E.htm">现舞</a></li>
+                <li><a title="阿sue接汉堡" href="/game/%E9%98%BFsue%E6%8E%A5%E6%B1%89%E5%A0%A1.htm">阿sue接汉堡</a></li>
+                <li><a title="甲虫拼图" href="/game/%E7%94%B2%E8%99%AB%E6%8B%BC%E5%9B%BE.htm">甲虫拼图</a></li>
+                <li><a title="妈妈的" href="/game/%E5%A6%88%E5%A6%88%E7%9A%84.htm">妈妈的</a></li>
+                <li><a title="神庙消消看" href="/game/%E7%A5%9E%E5%BA%99%E6%B6%88%E6%B6%88%E7%9C%8B.htm">神庙消消看</a></li>
+                <li><a title="浪漫之吻" href="
+1000
+/game/%E6%B5%AA%E6%BC%AB%E4%B9%8B%E5%90%BB.htm">浪漫之吻</a></li>
+                <li><a title="拜金小球闯关" href="/game/%E6%8B%9C%E9%87%91%E5%B0%8F%E7%90%83%E9%97%AF%E5%85%B3.htm">拜金小球闯关</a></li>
+                <li><a title="调出" href="/game/%E8%B0%83%E5%87%BA.htm">调出</a></li>
+                <li><a title="驱逐生物" href="/game/%E9%A9%B1%E9%80%90%E7%94%9F%E7%89%A9.htm">驱逐生物</a></li>
+                <li><a title="少年骇客摧毁部队" href="/game/%E5%B0%91%E5%B9%B4%E9%AA%87%E5%AE%A2%E6%91%A7%E6%AF%81%E9%83%A8%E9%98%9F.htm">少年骇客摧毁部队</a></li>
+                <li><a title="彩块消除" href="/game/%E5%BD%A9%E5%9D%97%E6%B6%88%E9%99%A4.htm">彩块消除</a></li>
+                <li><a title="挖掘机挖" href="/game/%E6%8C%96%E6%8E%98%E6%9C%BA%E6%8C%96.htm">挖掘机挖</a></li>
+                <li><a title="后卫防守" href="/game/%E5%90%8E%E5%8D%AB%E9%98%B2%E5%AE%88.htm">后卫防守</a></li>
+                <li><a title="cs之快靶高手" href="/game/cs%E4%B9%8B%E5%BF%AB%E9%9D%B6%E9%AB%98%E6%89%8B.htm">cs之快靶高手</a></li>
+                <li><a title="小矮人TD防守" href="/game/%E5%B0%8F%E7%9F%AE%E4%BA%BATD%E9%98%B2%E5%AE%88.htm">小矮人TD防守</a></li>
+                <li><a title="猫里" href="/game/%E7%8C%AB%E9%87%8C.htm">猫里</a></li>
+                <li><a title="战争19" href="/game/%E6%88%98%E4%BA%8919.htm">战争19</a></li>
+                <li><a title="电力" href="/game/%E7%94%B5%E5%8A%9B.htm">电力</a></li>
+                <li><a title="拉拉队美少女" href="/game/%E6%8B%89%E6%8B%89%E9%98%9F%E7%BE%8E%E5%B0%91%E5%A5%B3.htm">拉拉队美少女</a></li>
+                <li><a title="H海" href="/game/H%E6%B5%B7.htm">H海</a></li>
+                <li><a title="单圈摩托比赛" href="/game/%E5%8D%95%E5%9C%88%E6%91%A9%E6%89%98%E6%AF%94%E8%B5%9B.htm">单圈摩托比赛</a></li>
+                <li><a title="色女色男" href="/game/%E8%89%B2%E5%A5%B3%E8%89%B2%E7%94%B7.htm">色女色男</a></li>
+                <li><a title="学做黄瓜汤" href="/game/%E5%AD%A6%E5%81%9A%E9%BB%84%E7%93%9C%E6%B1%A4.htm">学做黄瓜汤</a></li>
+                <li><a title="BAODAHUOCHAIREN" href="/game/BAODAHUOCHAIREN.htm">BAODAHUOCHAIREN</a></li>
+                <li><a title="琥珀" href="/game/%E7%90%A5%E7%8F%80.htm">琥珀</a></li>
+                <li><a title="瘟" href="/game/%E7%98%9F.htm">瘟</a></li>
+                <li><a title="火柴危机" href="/game/%E7%81%AB%E6%9F%B4%E5%8D%B1%E6%9C%BA.htm">火柴危机</a></li>
+                <li><a title="美女发型师" href="/game/%E7%BE%8E%E5%A5%B3%E5%8F%91%E5%9E%8B%E5%B8%88.htm">美女发型师</a></li>
+                <li><a title="合金弹头超级玛丽" href="/game/%E5%90%88%E9%87%91%E5%BC%B9%E5%A4%B4%E8%B6%85%E7%BA%A7%E7%8E%9B%E4%B8%BD.htm">合金弹头超级玛丽</a></li>
+                <li><a title="寻宝者" href="/game/%E5%AF%BB%E5%AE%9D%E8%80%85.htm">寻宝者</a></li>
+                <li><a title="星之卡比" href="/game/%E6%98%9F%E4%B9%8B%E5%8D%A1%E6%AF%94.htm">星之卡比</a></li>
+                <li><a title="古龙" href="/game/%E5%8F%A4%E9%BE%99.htm">古龙</a></li>
+                <li><a title="相" href="/game/%E7%9B%B8.htm">相</a></li>
+                <li><a title="天晨DNF1" href="/game/%E5%A4%A9%E6%99%A8DNF1.htm">天晨DNF1</a></li>
+                <li><a title="台球炸弹" href="/game/%E5%8F%B0%E7%90%83%E7%82%B8%E5%BC%B9.htm">台球炸弹</a></li>
+                <li><a title="直" href="/game/%E7%9B%B4.htm">直</a></li>
+                <li><a title="调制" href="/game/%E8%B0%83%E5%88%B6.htm">调制</a></li>
+                <li><a title="考驾驶证" href="/game/%E8%80%83%E9%A9%BE%E9%A9%B6%E8%AF%81.htm">考驾驶证</a></li>
+                <li><a title="画动" href="/game/%E7%94%BB%E5%8A%A8.htm">画动</a></li>
+                <li><a title="弹跳流星大闯关" href="/game/%E5%BC%B9%E8%B7%B3%E6%B5%81%E6%98%9F%E5%A4%A7%E9%97%AF%E5%85%B3.htm">弹跳流星大闯关</a></li>
+                <li><a title="音乐俄罗�
+503
+��" href="/game/%E9%9F%B3%E4%B9%90%E4%BF%84%E7%BD%97%E6%96%AF.htm">音乐俄罗斯</a></li>
+                <li><a title="海洋公园管理员" href="/game/%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9B%AD%E7%AE%A1%E7%90%86%E5%91%98.htm">海洋公园管理员</a></li>
+                <li><a title="目" href="/game/%E7%9B%AE.htm">目</a></li>
+                <li><a title="芭比娃娃魅力" href="/game/%E8%8A%AD%E6%AF%94%E5%A8%83%E5%A8%83%E9%AD%85%E5%8A%9B.htm">芭比娃娃魅力</a></li>
+                <li><a title="吃鱼" href="/game/%E5%90%83%E9%B1%BC.htm">吃鱼</a></li>
+    </ul>
+    </div>
+    
+<!--start copyright-->
+<div class="copyright">   	
+    <p>Copyright &copy; 2012 7k7k小游戏 All Rights Reserved 京icp证080634号    </p>
+</div>
+<!--end copyright-->
+    
+</div><!--end main-->
+
+<!--start stat-->
+<div style="display:none;"><script type="text/javascript">var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F4f1beaf39805550dd06b5cac412cd19b' type='text/javascript'%3E%3C/script%3E"));</script><script src='http://w.cnzz.com/c.php?id=30008588' language='JavaScript' charset='gb2312'></script></div>
+<!--end stat-->
+</body>
+</html>
+0
+
+ 

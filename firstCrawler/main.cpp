@@ -19,7 +19,7 @@ using namespace std;
 queue<string> urlQue;
 set<string> visitedUrl;
 set<string> visitedImg;
-string urlStart = "http://www.4399.com";										//遍历起始地址
+string urlStart = "http://www.7k7k.com/tag/72/"; 								//遍历起始地址
 
 
 
@@ -151,7 +151,8 @@ string ToFileName(const string& url)						//将地址转换为文件名
 		switch (url[i])
 		{
 		case '\\': case '/': case ':': case '*': case '?': case '\"': case '<': case '>': case '|':
-			fileName += ' ';
+			//不能用空格，win文件夹最后的空格会自动被取消导致搜索文件夹失败
+			fileName += 'X';
 			break;
 		default:
 			fileName += url[i];
@@ -192,8 +193,9 @@ void HTMLParse(const string& response, vector<string>& imgurls, const string& ur
 		relativePath(urlTmp, url); 
 		if (visitedUrl.find(urlTmp) == visitedUrl.end())			//没有访问过此网站
 		{
-			urlQue.push(response.substr(pos, nextQ - pos));
-			fout << response.substr(pos, nextQ - pos) << endl;
+			urlQue.push(urlTmp);
+			visitedUrl.insert(urlTmp); 
+			fout << urlTmp << endl;
 		}
 		pos = response.find(tagHref, nextQ);
 	}
@@ -232,11 +234,8 @@ void HTMLParse(const string& response, vector<string>& imgurls, const string& ur
 }
 void DownLoadImg(const vector<string>& imgUrls, const string& url) //下载图片
 {
-	string foldName = ".\\img\\" + ToFileName(url);
-	if (!CreateDirectory(foldName.c_str(), NULL))
-	{
-		cout << "Fail to create directory: " << foldName << '!' << endl;
-	}
+	string foldName = ".\\img\\" + ToFileName(url); 
+	bool hasCreated = false; 
 	string image;
 	size_t byteRead;
 	for (size_t i = 0; i < imgUrls.size(); ++i)
@@ -255,9 +254,24 @@ void DownLoadImg(const vector<string>& imgUrls, const string& url) //下载图片
 			size_t index = imgUrls[i].find_last_of('/');
 			if (index != string::npos)
 			{
-				string imgName = imgUrls[i].substr(index + 1);
-				ofstream fout(foldName + '\\' + imgName, ios::binary);
-				if (!fout) continue;
+				string imgName = ToFileName(imgUrls[i].substr(index + 1));
+				if (!hasCreated)
+				{
+					if (!CreateDirectory(foldName.c_str(), NULL))
+					{
+						cout << "Fail to create directory: " << foldName << '!' << endl;
+					}
+					hasCreated = true; 
+				}
+				ofstream fout((foldName + "\\" + imgName).c_str(), ios::binary | ios::out);
+				if (!fout)
+				{
+					fout.clear(); 
+					fout.close(); 
+					cout << (foldName + "\\" + imgName).c_str() << endl; 
+					MessageBox(NULL, (string(foldName + '\\' + imgName + ": File cannot open!")).c_str(), NULL, 0);
+					continue; 
+				}
 				fout.write(image.c_str() + pos, byteRead - pos);
 				fout.close();
 			}
@@ -288,13 +302,18 @@ void BFS(const string& url)									//处理一个url
 		return;
 	}
 
-	ofstream fout(string(".\\html\\") + ToFileName(url), ios::out);
+	ofstream fout(string(".\\html\\") + ToFileName(url) + string(".txt"), ios::out);
 	if (fout)												//把网页源代码写入文件并保存
 	{
 		fout << response << endl;
 		fout.close();
 	}
-	else cout << "Cannot open the file: " << string(".\\html") + ToFileName(url) << endl;
+	else
+	{
+		cout << "Cannot open the file: " << string(".\\html") + ToFileName(url) << endl;
+		fout.clear();
+		fout.close();
+	}
 
 	vector<string> imgUrls;									//存储图片url
 	cout << "Parsing url: " << url << "..." << endl;
@@ -311,14 +330,12 @@ int main()
 
 	if (!CreateDirectory(".\\img", NULL))					//创建img文件夹，存储爬出来的img
 	{
-		cout << "Directory img create failed!" << endl;
-		return 1;
+		cout << "Warning: Directory img create failed!" << endl;
 	}
 
 	if (!CreateDirectory(".\\html", NULL))					//创建html文件夹，存储经过的url的网页内容
 	{
-		cout << "Directory html create failed!" << endl;
-		return 1;
+		cout << "Warning: Directory html create failed!" << endl;
 	}
 
 	if (WSAStartup(MAKEWORD(2, 2), &wsaData))				//初始化SOCKET

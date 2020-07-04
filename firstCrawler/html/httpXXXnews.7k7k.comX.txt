@@ -1,0 +1,1412 @@
+HTTP/1.1 200 OK
+Date: Sat, 04 Jul 2020 22:13:38 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Server: nProxy
+Cache-Control: max-age=600, private
+Pragma: private
+Expires: Sat, 04 Jul 2020 22:23:38 GMT
+Set-Cookie: XSRF-TOKEN=eyJpdiI6IkJOZDh1T3pxUWREQklOXC9OZGFGZG1nPT0iLCJ2YWx1ZSI6IndyTVJYRDdiTXVHYWhyVzM1Q1FydUVDNXoxMmY4cVZoSEtlUWhqanpETWYxdWttb3hodUVTQlwvcnU5akNaUU51IiwibWFjIjoiOWJmNzIxMmI5MWQ2MTYxNTIwODE1ZWEzODk1ODBmOTgzMzRjODA1M2U3ODU4ZTQyMTI0ZGEzMDAyNjdhODdhOCJ9; expires=Sun, 05-Jul-2020 00:13:38 GMT; Max-Age=7200; path=/
+Set-Cookie: 7k7k_session=eyJpdiI6IllaVWZiZ2xDQjJOVGVnSDFEMGhnb3c9PSIsInZhbHVlIjoib2FLRWd1c3lQZExFTGo2OEd4cFIxZWVGQngzb1FqUExGUVpvQ1I4SDF0Y25uRHhaZXhWb08ycDZDNjRqZ0JLeiIsIm1hYyI6ImQ0OWE5ZWYxYmYxYWU1MTFjOWM1Mzc3ZTNjMzQ2NDc2MWYzNTVmNGI2NTNmZWQ5M2Y4YjA0NDQ0YjM0YTEyMjUifQ%3D%3D; expires=Sun, 05-Jul-2020 00:13:38 GMT; Max-Age=7200; path=/; httponly
+Set-Cookie: BUSER=8452509e73bac055206ef746585f3a5d; expires=Sun, 04-Jul-2021 22:13:38 GMT; Max-Age=31536000; path=/; domain=.7k7k.com; httponly
+Set-Cookie: SERVER_ID=bcb28184-ed45ff39; path=/
+Cache-Control: private
+X-Cache-Spec: Yes
+X-Via: 1.1 PSsdzbwt5he22:9 (Cdn Cache Server V2.0), 1.1 PS-000-01P6Q18:2 (Cdn Cache Server V2.0)
+X-Ws-Request-Id: 5f00ff12_wangt17_40887-47943
+
+b63
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>7k7k游戏新闻资讯-最新游戏资讯攻略专题-7k7k游戏</title>
+<meta name="description" content="7k7k游戏新闻资讯频道，为您提供最新游戏资讯、游戏攻略、科技资讯、电竞资讯、小程序资讯攻略、游戏专题，专业信息、内容丰富、注重品质。" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="mobile-agent" content="format=html5;url=http://m.7k7k.com/" />
+<meta name="mobile-agent" content="format=xhtml;url=http://m.7k7k.com/" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+<script type="text/javascript" src="http://www.7k7kjs.cn/v2/lib/js/uaredirect.js?v=2019082802"></script>
+<script type="text/javascript">uaredirect('http://m.7k7k.com/');</script>
+<link href="http://www.7k7kjs.cn/v2/images/favicon.ico" rel="icon" type="image/x-icon" />
+<link href="http://www.7k7kjs.cn/v2/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+<link href="http://www.7k7kjs.cn/v2/pc/css/common.css?v=2019082802" type="text/css" rel="stylesheet" />
+<link href="http://www.7k7kjs.cn/v2/pc/css/global.css?v=2019082802" type="text/css" rel="stylesheet" />
+<link href="http://www.7k7kjs.cn/v2/pc/css/index.css?v=2019082802" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="http://www.7k7kjs.cn/v2/lib/js/jquery-1.7.2.min.js?v=2019082802"></script>
+<script type="text/javascript" src="http://www.7k7kjs.cn/v2/pc/js/common.js?v=2019082802"></script>
+<script type="text/javascript" src="http://www.7k7kjs.cn/v2/js/global.js?v=2019082802"></script>
+</head>
+<body>
+<div class="headMenu">
+    <div class="wrap1200 cl"> 
+        
+        
+        <a href="http://news.7k7k.com/" class="menu-logo"><img src="http://www.7k7kjs.cn/v2/pc/images/logo.jpg" alt="7k7k游戏"></a>
+        <div class="menu_right">
+            <ul>
+                <li  class="current" ><a href="http://news.7k7k.com/">首页</a><span>Home</span></li>
+                <li ><a href="http://news.7k7k.com/doc/">资讯</a><span>News</span></li>
+                <li ><a href="http://news.7k7k.com/content/">攻略</a><span>Stratagy</span></li>
+                <li ><a href="http://news.7k7k.com/zhuanti/">专题</a><span>Special</span></li>
+                <li ><a href="http://shouji.7k7k.com/tag/" target="_blank">合集</a><span>Subject</span></li>
+                <li ><a href="http://shouji.7k7k.com/" target="_blank">手游</a><span>Mobile</span></li>
+                <li ><a href="http://www.7k7k.com/" target="_blank">小游戏</a><span>Flashgame</span></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<ul class="gametuji wrap1200 cl mt20">
+        <li class="img1">
+        <a href="http://news.7k7k.com/doc/1520100.html" target="_blank" class="pic"><img src="http://n.7k7kimg.cn/m00/6f/29/ccb0bf7384ef456920a2becfc
+b60
+d018328.jpg" alt="《宅男的人间冒险》"></a>
+        <div class="masktwo"><a href="http://news.7k7k.com/doc/1520100.html" target="_blank" class="text">《宅男的人间冒险》</a></div>
+    </li>
+        <li class="img2">
+        <a href="http://news.7k7k.com/doc/1519356.html" target="_blank" class="pic"><img src="http://n.7k7kimg.cn/m00/79/49/701b3a84e4bcb76b1ea07da2f455b439.jpg" alt="《剑网三》全门派技改"></a>
+        <div class="masktwo"><a href="http://news.7k7k.com/doc/1519356.html" target="_blank" class="text">《剑网三》全门派技改</a></div>
+    </li>
+        <li class="img3">
+        <a href="http://news.7k7k.com/doc/1517658.html" target="_blank" class="pic"><img src="http://n.7k7kimg.cn/m00/05/74/2adc462e114950db49d0294f7e6e1fe6.jpg" alt="2019LPL夏季赛"></a>
+        <div class="masktwo"><a href="http://news.7k7k.com/doc/1517658.html" target="_blank" class="text">2019LPL夏季赛</a></div>
+    </li>
+        <li class="img4">
+        <a href="http://news.7k7k.com/shanyaonuannuan/" target="_blank" class="pic"><img src="http://n.7k7kimg.cn/m00/2a/b7/5319f24dbe8e054f68f6ede705b5315a.jpg" alt="闪耀暖暖"></a>
+        <div class="masktwo"><a href="http://news.7k7k.com/shanyaonuannuan/" target="_blank" class="text">闪耀暖暖</a></div>
+    </li>
+        <li class="img5">
+        <a href="http://2019.chinajoy.net/News/Detail?Id=2218" target="_blank" class="pic"><img src="http://n.7k7kimg.cn/m00/23/b1/4a0ef08db780a62e57552d282b1eb488.jpg" alt="“CJ魔方”新版本上线啦！"></a>
+        <div class="masktwo"><a href="http://2019.chinajoy.net/News/Detail?Id=2218" target="_blank" class="text">“CJ魔方”新版本上线啦！</a></div>
+    </li>
+        <li class="img6">
+        <a href="http://news.7k7k.com/doc/1519028.html" target="_blank" class="pic"><img src="http://n.7k7kimg.cn/m00/f0/55/c75260bfb4d4164bd7b76cea8a37d8aa.jpg" alt="epic游戏推荐排行榜"></a>
+        <div class="masktwo"><a href="http://news.7k7k.com/doc/1519028.html" target="_blank" class="text">epic游戏推荐排行榜</a></div>
+    </li>
+        <li class="img7">
+        <a href="http://news.7k7k.com/quanmianzhanzhengsanguo/" target="_blank" class="pic"><img src="http://n.7k7kimg.cn/m00/fe/6c/239f7f0adbaac3e18a4965e17bacb565.jpg" alt="《全面战争：三国》"></a>
+        <div class="masktwo"><a href="http://news.7k7k.com/quanmianzhanzhengsanguo/" target="_blank" class="text">《全面战争：三国》</a></div>
+    </li>
+    </ul>
+
+<div class="wrap1200">
+    <ul class="tjtop">
+        <li>
+            <span>热门</span>
+            <div>
+                                <a href="http://www.7k7k.com/special/51seer/" target="_blank" >赛尔号</a>
+                                <a href="http://www.7k7k.com/special/roco/" target="_blank" >洛克王国</a>
+                                <a href="http://www.7k7k.com/special/aola/?lt" target
+5b4
+="_blank" >奥拉星</a>
+                                <a href="http://news.7k7k.com/mhlw/?lt" target="_blank" >梦幻恋舞</a>
+                                <a href="http://news.7k7k.com/aoqi/?lt" target="_blank" >奥奇传说</a>
+                                <a href="http://news.7k7k.com/tzyx/?lt" target="_blank" >特战英雄</a>
+                                <a href="http://www.7k7k.com/special/xiaohuaxian/" target="_blank" >小花仙</a>
+                                <a href="http://news.7k7k.com/lskg/?lt" target="_blank" >恋上K歌</a>
+                                <a href="http://news.7k7k.com/wmpy/?lt" target="_blank" >完美漂移</a>
+                                <a href="http://news.7k7k.com/pkt/?lt" target="_blank" >皮卡堂</a>
+                                <a href="http://www.7k7k.com/tag/1819/" target="_blank" >朵拉</a>
+                                <a href="http://www.7k7k.com/tag/1819/" target="_blank" >坦克联盟</a>
+                                <a href="http://www.7k7k.com/2018/gm263/" target="_blank" >闺蜜悄悄话</a>
+                                <a href="http://news.7k7k.com/ybgc/?lt" target="_blank" >妖不怪城</a>
+                                <a href="http://web.7k7k.com/games/hlw/399454/399454-hlw12312312.html" target="_blank" >葫芦娃</a>
+                            </div>
+        </li>
+        <li>
+            <span>手游</span>
+            <div>
+                      
+5b4
+          <a href="http://www.7k7k.com/flash/191977.htm" target="_blank"  class="pos hot" >亚当玩高尔夫</a>
+                                <a href="http://www.7k7k.com/flash/197897.htm" target="_blank" >完美切片</a>
+                                <a href="http://www.7k7k.com/flash/197851.htm" target="_blank"  class="pos hot" >暴怒龙卷风</a>
+                                <a href="http://www.7k7k.com/flash/197805.htm" target="_blank" >滚动的天空</a>
+                                <a href="http://www.7k7k.com/flash/197481.htm" target="_blank"  class="pos hot" >装满水杯2</a>
+                                <a href="http://www.7k7k.com/flash/197740.htm" target="_blank" >撸玉米</a>
+                                <a href="http://www.7k7k.com/flash/132298.htm" target="_blank" >喵里奥</a>
+                                <a href="http://www.7k7k.com/flash/195282.htm" target="_blank" >滚你个球</a>
+                                <a href="http://www.7k7k.com/flash/197038.htm" target="_blank" >翻转的香肠</a>
+                                <a href="http://www.7k7k.com/flash/197732.htm" target="_blank"  class="pos hot" >百变果冻</a>
+                                <a href="http://www.7k7k.com/flash/173212.htm" target="_blank" >蛇蛇大作战</a>
+                                <a href="http://www.7k7k.com/flash/167223.htm" target="_blank" >逃离方块：剧院</a>
+                                <a h
+5b4
+ref="http://www.7k7k.com/flash/181554.htm" target="_blank" >火柴人打羽毛球3</a>
+                            </div>
+        </li>
+        <li>
+            <span>页游</span>
+            <div>
+                                <a href="http://web.7k7k.com/games/xmry/9223112/9223112-5484313123.html" target="_blank" >血盟荣耀</a>
+                                <a href="http://web.7k7k.com/games/dmbj/9223112/9223112-8776766.html" target="_blank" >盗墓笔记</a>
+                                <a href="http://web.7k7k.com/games/hdx/9223112/9223112-22212.html" target="_blank" >寒刀行</a>
+                                <a href="http://web.7k7k.com/games/cqsj/9223112/9223112-3875853.html" target="_blank" >传奇世界</a>
+                                <a href="http://web.7k7k.com/games/cqby/9223112/9223112-112233.html" target="_blank" >传奇霸业</a>
+                                <a href="http://web.7k7k.com/games/jzcq/9223112/9223112-545454.html" target="_blank" >金装传奇</a>
+                                <a href="http://web.7k7k.com/games/jsxw/9223112/9223112-3123213123123.html" target="_blank" >绝世仙王</a>
+                                <a href="http://web.7k7k.com/games/dts/9223112/9223112-31314124124.html" target="_blank" >大天神</a>
+                                <a href="http://web.7k7k.com/games/hycs/9223112/9223112-64323412.html" target="_blank" >红月传说</a>
+                                <a 
+5b4
+href="http://web.7k7k.com/games/lycq/9223112/9223112-222323.html" target="_blank" >蓝月传奇</a>
+                                <a href="http://web.7k7k.com/stat/trygame.php?target=zsfy_753" target="_blank" >战神风云</a>
+                                <a href="http://web.7k7k.com/games/ldj/9223112/9223112-3214124313.html" target="_blank" >鹿鼎记</a>
+                                <a href="http://web.7k7k.com/games/mjtx/9223112/9223112-mjtxwz.html" target="_blank" >猛将天下</a>
+                                <a href="http://web.7k7k.com/games/yhjx/9223112/9223112-78978721.html" target="_blank" >御魂九霄</a>
+                            </div>
+        </li>
+        <li>
+            <span>小游戏</span>
+            <div>
+                                <a href="http://www.7k7k.com/flash/142380.htm" target="_blank"  class="pos hot" >我要当国王</a>
+                                <a href="http://www.7k7k.com/flash/194857.htm" target="_blank" >智械守望危机</a>
+                                <a href="http://www.7k7k.com/flash/155315.htm" target="_blank" >激光男孩2</a>
+                                <a href="http://www.7k7k.com/flash/61953.htm" target="_blank" >刚出生的男孩</a>
+                                <a href="http://www.7k7k.com/flash/196399.htm" target="_blank" >是男人就上一百层</a>
+                                <a href="http://www.7k7k.com/flash/187323.htm" target="_blank" >摩�
+4e3
+��障碍挑战4</a>
+                                <a href="http://www.7k7k.com/flash/173309.htm" target="_blank" >泡泡大叔升空记太空版</a>
+                                <a href="http://www.7k7k.com/flash/173214.htm" target="_blank" >火柴人大决斗</a>
+                                <a href="http://www.7k7k.com/flash/98413.htm" target="_blank" >冒险王之神兵传奇幸运无敌版</a>
+                            </div>
+        </li>
+    </ul>
+    <ul class="tjbot cl">
+                <li>
+            <a href="http://news.7k7k.com/content/20190712/930566.html" target="_blank">
+                <img src="http://n.7k7kimg.cn/m00/75/b7/b577cf3b806ed9336f9f960d105c0a7e.jpg" alt="小花仙 梦幻失乐园">
+                <p>小花仙 梦幻失乐园</p>
+            </a>
+        </li>
+                <li>
+            <a href="http://www.7k7k.com/special/roco/" target="_blank">
+                <img src="http://n.7k7kimg.cn/m00/d6/85/5d782826863695c1d854453c351899d8.jpg" alt="洛克王国">
+                <p>洛克王国</p>
+            </a>
+        </li>
+                <li>
+            <a href="http://www.7k7k.com/special/aola/" target="_blank">
+                <img src="http://n.7k7kimg.cn/m00/b0/3f/13fd95badc4bc95
+b62
+2dd4f9d08920a8672.jpg" alt="奥拉星">
+                <p>奥拉星</p>
+            </a>
+        </li>
+                <li>
+            <a href="http://news.7k7k.com/xiaoyouxifenlei/" target="_blank">
+                <img src="http://n.7k7kimg.cn/m00/42/94/1a4b269289137e784e0b61616258483c.jpg" alt="小游戏分类精选">
+                <p>小游戏分类精选</p>
+            </a>
+        </li>
+                <li>
+            <a href="http://news.7k7k.com/tzyx/?news" target="_blank">
+                <img src="http://n.7k7kimg.cn/m00/5d/d7/5f750af664520238fcd289c72a51b159.jpg" alt="特战英雄">
+                <p>特战英雄</p>
+            </a>
+        </li>
+                <li>
+            <a href="http://news.7k7k.com/mhlw/" target="_blank">
+                <img src="http://n.7k7kimg.cn/m00/ea/f0/c3781e668a610ea07e8c533c2309719b.jpg" alt="梦幻恋舞">
+                <p>梦幻恋舞</p>
+            </a>
+        </li>
+                <li>
+            <a href="http://g.7k7k.com/games/W01996/?news" target="_blank">
+                <img src="http://n.7k7kimg.cn/m00/bd/28/42974b92e7b2d8c470c21658af3884fe.jpg" alt="生死狙击HD">
+                <p>生死狙击HD</p>
+            </a>
+        </li>
+                <li>
+            <a href="http://news.7k7k.com/lskg/" target="_blank">
+                <img src="http://n.7k7kimg.cn/m00/be/7d/3992c94d1b96d2e8a2d9a4e8a6396c9c.jpg" alt="恋上K歌">
+                <p>恋上K歌</p>
+            </a>
+        </li>
+                <li>
+            <a href="http://news.7k7k.com/pkt/?ss" target="_blank">
+                <img src="http://n.7k7kimg.cn/m00/bf/78/040701412a863d9a13835eef0835c761.jpg" alt="皮卡堂">
+                <p>皮卡堂</p>
+            </a>
+        </li>
+            </ul>
+</div>
+
+<div class="wrap1200 mt20 cl">
+    <div class="colum1-lf">
+        <div id="column1_slide" class="column1_slide">
+            <div class="bd">
+                <ul>
+                                        <li>
+                        <a href="http://news.7k7k.com/doc/1525399.html" target="_blank"><img src="http://n.7k7kimg.cn/m00/59/61/b26b3816a2ac7364aae18b16ffc4fc67.jpg" alt="2019年CJ新闻发布会召开在即！"></a>
+                        <p><a href="http://news.7k7k.com/doc/1525399.html" target="_blank">2019年CJ新闻发布会召开在即！</a></p>
+                    </li>
+                                        <li>
+                        <a href="http://news.7k7k.com/7k7ksaierhaohuodong/" target="_blank"><img src="http://n.7k7kimg.cn/m00/43/30/cb06c3cc066753ac7ab56cc0a1d0ad19.jpg" alt="赛尔号 十周年庆活动"></a>
+                        <p><a href="http://news.7k7k.com/7k7ksaierhaohuodong/" target="_blank">赛尔号 十周年庆活动</a></p>
+                    </li>
+                                        <li>
+                        <a href="http://news.7k7k.com/doc/1525392.html" target="_blank"
+5b4
+><img src="http://n.7k7kimg.cn/m00/43/46/866b3dfd865cee3ff838fa48452f2eea.jpg" alt="赛尔号十周年玩家视频曝光"></a>
+                        <p><a href="http://news.7k7k.com/doc/1525392.html" target="_blank">赛尔号十周年玩家视频曝光</a></p>
+                    </li>
+                                        <li>
+                        <a href="http://news.7k7k.com/doc/1536110.html" target="_blank"><img src="http://n.7k7kimg.cn/m00/3d/3f/89168d75a85d4785d907909e426ff82e.jpg" alt="十周年限定赛尔号十周年纪念徽章预售今日开启"></a>
+                        <p><a href="http://news.7k7k.com/doc/1536110.html" target="_blank">十周年限定赛尔号十周年纪念徽章预售今日开启</a></p>
+                    </li>
+                                    </ul>
+            </div>
+            <div class="hd">
+                <ul>
+                                        <li  class="on" ><img src="http://n.7k7kimg.cn/m00/59/61/b26b3816a2ac7364aae18b16ffc4fc67.jpg?imageView2/1/w/126/h/72" alt="2019年CJ新闻发布会召开在即！" /></li>
+                                        <li ><img src="http://n.7k7kimg.cn/m00/43/30/cb06c3cc066753ac7ab56cc0a1d0ad19.jpg?imageView2/1/w/126/h/72" alt="赛尔号 十周年庆活动" /></li>
+                                        <li ><img src="http://n.7k7kimg.cn/m00/43/46/866b3dfd865cee3ff838fa48452f2eea.jpg?imageView2/1/w/126/h/72" alt="赛尔号十周年玩家视频
+5b4
+曝光" /></li>
+                                        <li ><img src="http://n.7k7kimg.cn/m00/3d/3f/89168d75a85d4785d907909e426ff82e.jpg?imageView2/1/w/126/h/72" alt="十周年限定赛尔号十周年纪念徽章预售今日开启" /></li>
+                                    </ul>
+            </div>
+        </div>
+        
+        <h3 class="yuanchuang-tit">7k7k原创精品</h3>
+        <div class="yc-tabbox mt10 cl" id="yc-tabbox">
+            <div class="hd">
+                                <span  class="active" >07-04</span>
+                                <span >07-03</span>
+                                <span >07-02</span>
+                                <span >07-01</span>
+                                <span >06-30</span>
+                                <span >06-29</span>
+                                <span >06-28</span>
+                            </div>
+            <div class="bd">
+                                <div class="cont block">
+                                        <dl class="tuwen cl">
+                        <dt><a href="http://news.7k7k.com/content/1537681.html" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/08/3a/898301b58ae9b6b28fa66c1be401d447.jpg?imageView2/1/w/240/h/130" alt="《奥拉星手游》金币获取方式大全，金币怎么获得" /></a></dt>
+                        <dd>
+                            <h3><a href="http://news.7k7k.com/cont
+b68
+ent/1537681.html" target="_blank">《奥拉星手游》金币获取方式大全，金币怎么获得 </a></h3>
+                            <p>奥拉星手游|33801.农场农场是我们赚钱的好地方这是真穷你就只能来农场发家致富了种种菜偷 ...</p>
+                        </dd>
+                    </dl>
+                                        <dl class="pbtext-list">
+                                                <dd><a href="http://news.7k7k.com/content/1536249.html" target="_blank">炉石传说奥丹姆防战卡组搭配</a></dd>
+                                                <dd><a href="http://news.7k7k.com/content/1519178.html" target="_blank">《怪物猎人：世界》古代鹿首精联机打法</a></dd>
+                                                <dd><a href="http://news.7k7k.com/content/1505227.html" target="_blank">LOLS9上单符文加点大全</a></dd>
+                                                <dd><a href="http://news.7k7k.com/content/1517749.html" target="_blank">粘粘世界免费领取教程</a></dd>
+                                                <dd><a href="http://news.7k7k.com/content/1517744.html" target="_blank">Epic商店注册方法</a></dd>
+                                            </dl>
+                </div>
+                                <div class="cont none">
+                                        <dl class="tuwen cl">
+                        <dt><a href="http://news.7k7k.com/content/1517690.html" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/ef/53/0dc495e391f7fd340a863c8f860f5634.jpg?imageView2/1/w/240/h/130" alt="凯南上单符文出装介绍" /></a></dt>
+                        <dd>
+                            <h3><a href="http://news.7k7k.com/content/1517690.html" target="_blank">凯南上单符文出装介绍 </a></h3>
+                            <p>近日，LOL进行了9.9版本的更新，其中就有不少英雄进行了改动，其中就有蒸汽机器人布里茨， ...</p>
+                        </dd>
+                    </dl>
+                                        <dl class="pbtext-list">
+                                                <dd><a href="http://news.7k7k.com/content/1515435.html" target="_blank">《自走棋手游》4月29日维护更新内容汇总</a></dd>
+                                                <dd><a href="http://news.7k7k.com/content/1514798.html" target="_blank">DNF小魔女BUFF换装</a></dd>
+                                                <dd><a href="http://news.7k7k.com/content/1508502.html" target="_blank">《火影忍者OL》手游解锁通行证 海量奖励等你拿</a></dd>
+                                                <dd><a href="http://news.7k7k.com/content/1507275.html" target="_blank">《闪耀暖暖》港服注册教程</a></dd>
+                                                <dd><a href="htt
+b68
+p://news.7k7k.com/content/1507189.html" target="_blank">《绝地求生：刺激战场》S6赛季切换常见问题解答</a></dd>
+                                            </dl>
+                </div>
+                                <div class="cont none">
+                                        <dl class="tuwen cl">
+                        <dt><a href="http://news.7k7k.com/content/1505107.html" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/d3/5f/886c07798720dffba51b73395720f30a.jpg?imageView2/1/w/240/h/130" alt="LOLS9赛恩上单符文推荐" /></a></dt>
+                        <dd>
+                            <h3><a href="http://news.7k7k.com/content/1505107.html" target="_blank">LOLS9赛恩上单符文推荐 </a></h3>
+                            <p>2019赛季赛恩是目前上单T1选位英雄，很多玩家对于塞恩这个可能不太了解，目前塞恩在上单这 ...</p>
+                        </dd>
+                    </dl>
+                                        <dl class="pbtext-list">
+                                                <dd><a href="http://news.7k7k.com/content/1502937.html" target="_blank">LOL殇之木乃伊阿木木英雄介绍</a></dd>
+                                                <dd><a href="http://news.7k7k.com/content/1501198.html" target="_blank">《王者荣耀》圣诞贺卡做法介绍</a></dd>
+                                                <dd><a href="http://news.7k7k.com/content/1501033.html" target="_blank">《梦幻西游》押镖任务攻略</a></dd>
+                                                <dd><a href="http://news.7k7k.com/content/1500919.html" target="_blank">拉比克至宝魔导师密钥更新 技能好像有点绿</a></dd>
+                                                <dd><a href="http://news.7k7k.com/content/1500239.html" target="_blank">《侍魂胧月传说》邪灵位置介绍攻略</a></dd>
+                                            </dl>
+                </div>
+                                <div class="cont none">
+                                        <dl class="tuwen cl">
+                        <dt><a href="http://news.7k7k.com/content/1500568.html" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/74/14/15211d6156c7a969c88668f753a85dc7.png?imageView2/1/w/240/h/130" alt="LOL8.24机器人符文对线技巧" /></a></dt>
+                        <dd>
+                            <h3><a href="http://news.7k7k.com/content/1500568.html" target="_blank">LOL8.24机器人符文对线技巧 </a></h3>
+                            <p>在8.24版本中，大量的AP法师涌入下路，凭借黑暗收割这个符文，在下路可以说是呼风唤雨，伤 ...</p>
+                        </dd>
+                    </dl>
+                                        <dl class="pbtext-list">
+                      
+5b4
+                          <dd><a href="http://news.7k7k.com/content/1500482.html" target="_blank">《FGO》圣诞羽蛇神属性介绍</a></dd>
+                                                <dd><a href="http://news.7k7k.com/content/1500477.html" target="_blank">《FGO》圣诞羽蛇神攻击模组</a></dd>
+                                                <dd><a href="http://news.7k7k.com/content/1500475.html" target="_blank">《FGO》圣诞羽蛇神宝具动画</a></dd>
+                                                <dd><a href="http://news.7k7k.com/content/1500474.html" target="_blank">《FGO》圣诞新从者布拉达曼特立绘图鉴一览</a></dd>
+                                                <dd><a href="http://news.7k7k.com/content/1500473.html" target="_blank">《FGO》圣诞新从者布拉达曼特攻击模组演示</a></dd>
+                                            </dl>
+                </div>
+                                <div class="cont none">
+                                        <dl class="tuwen cl">
+                        <dt><a href="http://news.7k7k.com/content/1500471.html" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/57/dd/9a7819808e35baf3c49ef42f4b65dba1.jpg?imageView2/1/w/240/h/130" alt="《FGO》圣诞新从者布拉达曼特宝具和技能介绍" /></a></dt>
+                        <dd>
+                            <h3><a href="http://news.7k7k.com
+5b4
+/content/1500471.html" target="_blank">《FGO》圣诞新从者布拉达曼特宝具和技能介绍 </a></h3>
+                            <p>《FGO》日服已于2018年12月12日开启了期间限定活动「圣诞节2018神圣桑巴之夜～飘雪的遗迹 ...</p>
+                        </dd>
+                    </dl>
+                                        <dl class="pbtext-list">
+                                                <dd><a href="http://news.7k7k.com/content/1500469.html" target="_blank">《FGO》圣诞新从者布拉达曼特属性介绍</a></dd>
+                                                <dd><a href="http://news.7k7k.com/content/1500468.html" target="_blank">《FGO》圣诞新从者布拉达曼特羁绊语音翻译</a></dd>
+                                                <dd><a href="http://news.7k7k.com/content/1500466.html" target="_blank">《FGO》圣诞新从者布拉达曼特会话语音翻译</a></dd>
+                                                <dd><a href="http://news.7k7k.com/content/1500464.html" target="_blank">《FGO》圣诞新从者布拉达曼特宝具动画</a></dd>
+                                                <dd><a href="http://news.7k7k.com/content/1500451.html" target="_blank">《三国 全面战争》袁绍技能效果</a></dd>
+                                            </dl>
+                </div>
+                                <div class="cont none">
+                                  
+5b4
+      <dl class="tuwen cl">
+                        <dt><a href="http://news.7k7k.com/content/1500448.html" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/a7/b6/d014e62a7773d0c6f45d13e6d6a55a81.jpg?imageView2/1/w/240/h/130" alt="《剑侠情缘2:剑歌行》少林经脉加点推荐" /></a></dt>
+                        <dd>
+                            <h3><a href="http://news.7k7k.com/content/1500448.html" target="_blank">《剑侠情缘2:剑歌行》少林经脉加点推荐 </a></h3>
+                            <p>剑侠情缘2:剑歌行今年12.25开启了预约模式，珑华是游戏中比较给力的暴力单体输出。有不少 ...</p>
+                        </dd>
+                    </dl>
+                                        <dl class="pbtext-list">
+                                                <dd><a href="http://news.7k7k.com/content/1500447.html" target="_blank">《剑侠情缘2:剑歌行》珑华副本连招技巧详解</a></dd>
+                                                <dd><a href="http://news.7k7k.com/content/1500446.html" target="_blank">《剑侠情缘2:剑歌行》虞弦加点搭配推荐</a></dd>
+                                                <dd><a href="http://news.7k7k.com/content/1500445.html" target="_blank">《剑侠情缘2:剑歌行》手游推荐手机配置介绍</a></dd>
+                                                <dd><a href="http://news.7
+5ac
+k7k.com/content/1500437.html" target="_blank">LOL新版AD加强改动</a></dd>
+                                                <dd><a href="http://news.7k7k.com/content/1500436.html" target="_blank">精灵宝可梦Let‘s Go各类套装获取方法</a></dd>
+                                            </dl>
+                </div>
+                                <div class="cont none">
+                                        <dl class="tuwen cl">
+                        <dt><a href="http://news.7k7k.com/content/1500412.html" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/b0/41/372b5a489a89da381117360b68628330.png?imageView2/1/w/240/h/130" alt="《电击文库零境交错》司波深雪介绍" /></a></dt>
+                        <dd>
+                            <h3><a href="http://news.7k7k.com/content/1500412.html" target="_blank">《电击文库零境交错》司波深雪介绍 </a></h3>
+                            <p>《电击文库零境交错》是腾讯旗下的一款二次元角色扮演手游，游戏中包含了大量电击文库中的 ...</p>
+                        </dd>
+                    </dl>
+                                        <dl class="pbtext-list">
+                                                <dd><a href="http://news.7k7k.com/content/1500375.html" target="_blank">《数码宝贝:相遇》巴达兽图鉴</a></dd>
+                                         
+b68
+       <dd><a href="http://news.7k7k.com/content/1500372.html" target="_blank">《数码宝贝:相遇》比丘兽图鉴</a></dd>
+                                                <dd><a href="http://news.7k7k.com/content/1500371.html" target="_blank">《数码宝贝:相遇》V仔兽图鉴</a></dd>
+                                                <dd><a href="http://news.7k7k.com/content/1500369.html" target="_blank">《崩坏3rd》问题解答攻略第一期</a></dd>
+                                                <dd><a href="http://news.7k7k.com/content/1500364.html" target="_blank">《数码宝贝:相遇》梗犬兽图鉴</a></dd>
+                                            </dl>
+                </div>
+                            </div>
+        </div>
+    </div>
+    
+    <div class="hotnews">
+        <div class="headlines">
+                        <h3><a href="http://news.7k7k.com/doc/1537691.html" target="_blank">《小花仙》手游超级玩家团首个成员曝光</a></h3>
+                        <p>
+                                <a href="http://news.7k7k.com/doc/1531749.html" target="_blank">云顶之弈9.14更新</a>
+                                <a href="http://news.7k7k.com/content/1525305.html" target="_blank">刀塔霸业装备大全</a>
+                            </p>
+                        <h3><a href="http://news.7k7k.com/doc/1537687.html" target="_blank">《空岛幻想》今日震撼首发！</a></h3>
+                        <p>
+                                <a href="http://news.7k7k.com/doc/1531357.html" target="_blank">7月阿卡丽的黑金商店</a>
+                                <a href="http://news.7k7k.com/doc/1517658.html" target="_blank">2019LPL夏季赛</a>
+                 
+            </p>
+        </div>
+                <a href="http://news.7k7k.com/weekly1923/" target="_blank" class="pbtuwen">
+            <i></i>
+            <p>7K游戏周刊 第 23 期 LOL9.12版本曝光</p>
+          <img src="http://n.7k7kimg.cn/m00/75/62/dda8b385ef11547e90f2f5451c9f8ec5.jpg" alt="7K游戏周刊 第 23 期 LOL9.12版本曝光">
+        </a>
+                
+        <dl class="dotlist">
+                        <dd><a href="http://news.7k7k.com/doc/1537689.html" target="_blank">王者荣耀：父亲买V8账号，重金悬赏万元做局，儿子20连败崩溃大哭，含泪退游</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1537686.html" target="_blank">好怀念在坑里一起洗澡的日子啊​！</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1537685.html" target="_blank">震惊！！！一网友直呼想当鸭</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1537684.html" target="_blank">这国王谁爱当谁当，反正我是不当了</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1537683.html" target="_blank">等了10年的英雄联盟手游，
+5b4
+它终于来了！</a></dd>
+                    </dl>
+        <dl class="dotlist">
+                        <dd><a href="http://news.7k7k.com/doc/1537682.html" target="_blank">《英雄联盟手游》2019最新精彩视频抢先看</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1537680.html" target="_blank">《奥拉星手游》10月10日更新公告</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1505104.html" target="_blank">《奥拉星手游》手游正式版PV降临</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1504994.html" target="_blank">《奥拉星手游》新场景机甲森林首曝</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1505016.html" target="_blank">《奥拉星手游》惊现捕捉玩法 请给我来一打大师亚比球</a></dd>
+                    </dl>
+        <dl class="dotlist">
+                        <dd><a href="http://news.7k7k.com/doc/1504984.html" target="_blank">《奥拉星手游》亚比曝光</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1504988.html" target="_blank">《奥拉星手游》光与暗的宿命双生 伊撒尔形象大曝光</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1505005.html" target="_blank">《奥拉星手游》魔焰吉拉新形象 百兽之王霸气归来</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1537678.htm
+5b4
+l" target="_blank">精致猪猪男孩《姬魔恋战纪》孙权时装介绍​</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1537677.html" target="_blank">《空岛幻想》全新斯特尔研究院由你来装潢</a></dd>
+                    </dl>
+    </div>
+    
+    <div class="colum1-rt">
+        <h3 class="guanzhu-tit">最新关注</h3>
+                <a href="http://news.7k7k.com/2019saishi/" target="_blank" class="colum1-rt-pic"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/7f/d8/ce7d8df29ff52be49126ba1594178a47.jpg" alt="2019年赛事展会"><i></i><p>2019年赛事展会</p></a>
+                <dl class="pbtext-list">
+                        <dd><a href="http://news.7k7k.com/2019lplxjs/" target="_blank">2019LPL夏季赛(2019.6.1-8.18)</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1519109.html" target="_blank">2019LCK夏季赛(2019.6.5-8.18）</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1523246.html" target="_blank">2019LEC夏季赛（2019.6.8-8.13）</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1523026.html" target="_blank">2019LCS夏季赛（2019.6.2-8.6）</a></dd>
+                    </dl>
+                <a href="http://news.7k7k.com/2019PS4youxifashou/" target="_blank" class="colum1-rt-pic"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/70/41/9f5
+b68
+668c7b9196abd270184a65636697c.jpg" alt="2019 PS4游戏发售"><i></i><p>2019 PS4游戏发售</p></a>
+                <dl class="pbtext-list">
+                        <dd><a href="http://news.7k7k.com/doc/1502797.html" target="_blank">Epic免费游戏大全</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1500634.html" target="_blank">steam免费领取游戏</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1517772.html" target="_blank">Epic免费领取《未诉之事》活动开放</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1513699.html" target="_blank">Steam免费游戏推荐《Himno》</a></dd>
+                    </dl>
+                <a href="http://news.7k7k.com/2019steamyouxituijian/" target="_blank" class="colum1-rt-pic"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/1a/3b/9d30e55ba134dc9fb40990a79fa182ce.jpg" alt="2019Steam游戏推荐"><i></i><p>2019Steam游戏推荐</p></a>
+            </div>
+</div>
+
+<div class="wrap1200 mt20">
+    <div class="subtit cl">
+        
+        <h2 class="fwn">今日精选</h2>
+    </div>
+    <div class="todayselect-box cl">
+        <div class="hd"><a href="javascript:;" class="next">更多</a></div>
+        <div class="bd">
+            <ul class="todayselect cl">
+                                <li>
+                    <a href="http://news.7k7k.com/doc/1512567.html" target="_blank"><img src="http://n.7k7kimg.cn/m00/d3/83/609d86bebe7674bddd64d348013b958a.jpg" alt="Feather" />
+                        <h3 class="mobile">Feather</h3>
+                    </a>
+                    <p>Feather是一个宁静的游戏，你将化身一只小鸟。</p>
+                </li>
+                                <li>
+                    <a href="http://news.7k7k.com/zhilang/" target="_blank"><img src="http://n.7k7kimg.cn/m00/03/99/6e7c7d1c31af9d00bb380234922179ed.jpg" alt="只狼：影逝二度" />
+                        <h3 class="mobile">只狼：影逝二度</h3>
+                    </a>
+                    <p>个名誉不再、伤痕累累的忍者，一个从死亡边缘捡回一命的战士。</p>
+                </li>
+                                <li>
+                    <a href="http://news.7k7k.com/doc/1514574.html" target="_blank"><img src="http://n.7k7kimg.cn/m00/19/53/e8274b945eb712125f2a341bf120c7a0.jpg" alt="武士 零" />
+                        <h3 class="mobile">武士 零</h3>
+                    </a>
+                    <p>《武士零（Katana ZERO）》是一款新黑色电影风格的华丽平台动作游戏</p>
+                </li>
+                                <li>
+                    <a href="http://news.7k7k.com/doc/1516247.html" target="_blank"><img src="http://n.7k7kimg.cn/m00/7b/7d/5b16840e46b5c511011e6050c7357c8e.jpg" alt="4004-022" />
+                        <h3 class="mobile">4004-022</h3>
+            
+5b4
+        </a>
+                    <p>2040年，你们和地球上120亿居民在受到外星人攻击后逃离地球</p>
+                </li>
+                                <li>
+                    <a href="http://news.7k7k.com/doc/1516863.html" target="_blank"><img src="http://n.7k7kimg.cn/m00/01/42/327b2838b5ddb52a9865129f7eeb3df9.jpg" alt="山羊的使命" />
+                        <h3 class="mobile">山羊的使命</h3>
+                    </a>
+                    <p>山羊们手持号角，在一场残酷的死亡竞赛中面对面地咩咩叫。</p>
+                </li>
+                            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="wrap1200 cl mt15">
+    <div class="subtit bordbot4">
+        <h2>手游频道</h2>
+    </div>
+    <div class="column4-l">
+        <p class="tj mt15">
+                        <a href="http://shouji.7k7k.com/tag/804.html" target="_blank">精选合集</a>
+                        <a href="http://shouji.7k7k.com/tag/406.html" target="_blank">女性向游戏合集</a>
+                        <a href="http://shouji.7k7k.com/tag/393.html" target="_blank">恋爱手游合集</a>
+                        <a href="http://shouji.7k7k.com/tag/895.html" target="_blank">腾讯手游精选</a>
+                        <a href="http://shouji.7k7k.com/tag/903.html" target="_blank">网易手游精选</a>
+                        <a href="http://shouji.7k7k.com/tag/843.html" target="_blank">双人游戏合�
+5b4
+��</a>
+                        <a href="http://shouji.7k7k.com/tag/352.html" target="_blank">格斗游戏合集</a>
+                    </p>
+        <div class="subtit cl">
+            <a href="http://shouji.7k7k.com/" target="_blank" class="more">更多</a>
+            <h3 class="fwn">最新手游</h3>
+        </div>
+        <ul class="mobilegame cl">
+                    </ul>
+    </div>
+    <div class="column4-m">
+        <div class="subtit cl">
+            <a href="http://news.7k7k.com/doc/list-20038-0-1.html" target="_blank" class="more">更多</a>
+            <h3 class="fwn">最新资讯</h3>
+        </div>
+                <a href="http://news.7k7k.com/paopaokadingcheguanfang/" target="_blank" class="pbtuwen">
+            <i></i>
+            <p>《跑跑卡丁车官方竞速版》经典漂移 燃擎归来</p>
+            <img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/12/64/b6d0a3361c4adb2961bb6bbfedfadfbf.png" alt="《跑跑卡丁车官方竞速版》经典漂移 燃擎归来">
+        </a>
+                <dl class="pbtext-list mt15">
+                        <dd><a href="http://news.7k7k.com/doc/1537692.html" target="_blank">《小花仙》大电影预告片超燃曝光！手游超玩团醋醋加盟配音</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1537691.html" target="_blank">《小花仙》手游超级玩家团首个成员曝光</a></dd>
+                        <d
+5b4
+d><a href="http://news.7k7k.com/doc/1537683.html" target="_blank">等了10年的英雄联盟手游，它终于来了！</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1537682.html" target="_blank">《英雄联盟手游》2019最新精彩视频抢先看</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1537680.html" target="_blank">《奥拉星手游》10月10日更新公告</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1505104.html" target="_blank">《奥拉星手游》手游正式版PV降临</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1504994.html" target="_blank">《奥拉星手游》新场景机甲森林首曝</a></dd>
+                    </dl>
+        <dl class="pbtext-list mt10">
+                        <dd><a href="http://news.7k7k.com/doc/1505016.html" target="_blank">《奥拉星手游》惊现捕捉玩法 请给我来一打大师亚比球</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1504984.html" target="_blank">《奥拉星手游》亚比曝光</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1504988.html" target="_blank">《奥拉星手游》光与暗的宿命双生 伊撒尔形象大曝光</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1505005.html" target="_blank">《奥拉星手游》魔焰吉拉新形象 百兽之王霸气归来</a></dd>
+                  
+5b4
+      <dd><a href="http://news.7k7k.com/doc/1537679.html" target="_blank">奥拉星手游恶魔之子凯撒</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1537678.html" target="_blank">精致猪猪男孩《姬魔恋战纪》孙权时装介绍​</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1537677.html" target="_blank">《空岛幻想》全新斯特尔研究院由你来装潢</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1537676.html" target="_blank">《道友请留步》新资料片 首次推出紫金女仙</a></dd>
+                    </dl>
+    </div>
+    <div class="column4-r">
+        <div class="subtit cl">
+            
+            <h3 class="fwn">热门专题</h3>
+        </div>
+        <div class="column4-r-slide">
+            <div class="bd">
+                <ul>
+                                        <li><a href="http://news.7k7k.com/content/1500667.html" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/5e/84/4b95c855302b09a4c9958bce2b8efe24.jpg" alt="崩坏3rd" /></a></li>
+                                        <li><a href="http://news.7k7k.com/content/1500666.html" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/e9/d2/3b7f8efa53b56eb89857337d76189c50.jpg" alt="Fate Grand Order" /></a></li>
+                                        <li><a href="http:
+5b4
+//shouji.7k7k.com/android/689.html" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/8e/6e/cb415b07d853e5c071ca50b7d4f4c67a.jpg" alt="约战：精灵再临" /></a></li>
+                                    </ul>
+            </div>
+            <div class="hd">
+                <ul>
+                                        <li></li>
+                                        <li></li>
+                                        <li></li>
+                                    </ul>
+            </div>
+        </div>
+        <dl class="column4-r-zt cl">
+            <dt>
+                                <a href="http://news.7k7k.com/7k7ksaierhaohuodong/" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/ed/53/a34b69d26aa3317d77a7c43e0c78e03c.jpg" alt="赛尔号 十周年庆活动" /><i></i><p>赛尔号 十周年庆活动</p></a>
+                                <a href="http://news.7k7k.com/content/1500762.html" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/14/fe/e056beb73a8a852bbaf1a54caf2f415e.jpg" alt="《绝地求生：刺激战场》" /><i></i><p>《绝地求生：刺激战场》</p></a>
+                            </dt>
+            <dd>
+                                <a href="http://news.7k7k.com/doc/list-20038-20044-1.html" target="_blank">手游评测</a>
+                                <a hr
+5b4
+ef="http://news.7k7k.com/doc/list-20038-20055-1.html" target="_blank">手游视频</a>
+                                <a href="http://shouji.7k7k.com/tag/" target="_blank">手游合集</a>
+                            </dd>
+        </dl>
+    </div>
+</div>
+
+<div class="wrap1200 cl mt20">
+    <div class="subtit cl">
+        
+        <h2 class="fwn">电子竞技</h2>
+    </div>
+    <div class="column3-lf">
+                <a href="http://news.7k7k.com/2019lplxjs/" target="_blank" class="pic">
+            <i></i>
+            <p>2019LPL夏季赛专区</p>
+            <img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/fa/5d/475b042d65c445b92b53a350fcf43caf.jpg" alt="2019LPL夏季赛专区">
+        </a>
+                        <a href="http://news.7k7k.com/doc/1537638.html" target="_blank" class="pic2">
+            <img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/9e/ea/c7b983514ef1196158225633fd2eae01.jpg?imageView2/1/w/200/h/150" alt="首届中国移动电子竞技大赛8月战火起燃 全民电竞狂欢正式来袭">
+            <p class="ellipsis">首届中国移动电子竞技大赛8月战火起燃 全民电竞狂欢正式来袭</p>
+        </a>
+                <a href="http://news.7k7k.com/doc/1537574.html" target="_blank" class="pic2">
+            <img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/29/7b/2603215207e574a0ff4ea19e838c95
+b59
+bf.jpg?imageView2/1/w/200/h/150" alt="TI9小组赛：RUA子“水牛”强无敌 ！VG完美拉扯2-0击退VP">
+            <p class="ellipsis">TI9小组赛：RUA子“水牛”强无敌 ！VG完美拉扯2-0击退VP</p>
+        </a>
+                <a href="http://news.7k7k.com/doc/1537572.html" target="_blank" class="pic2">
+            <img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/23/42/20a3d22b533545c63081b47be28cb10c.jpg?imageView2/1/w/200/h/150" alt="TI9小组赛：BP被爆实力碾压，KG 0-2不敌Secret">
+            <p class="ellipsis">TI9小组赛：BP被爆实力碾压，KG 0-2不敌Secret</p>
+        </a>
+                <a href="http://news.7k7k.com/doc/1537571.html" target="_blank" class="pic2">
+            <img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/ef/ff/4456a3a73e0b0f734bf8f733e8a4620d.jpg?imageView2/1/w/200/h/150" alt="TI9小组赛：三路被破all in中路 NB强拆基地逼平LGD">
+            <p class="ellipsis">TI9小组赛：三路被破all in中路 NB强拆基地逼平LGD</p>
+        </a>
+            </div>
+    <div class="column3-rt">
+                <a href="http://news.7k7k.com/doc/1518660.html" target="_blank" class="pbtuwen">
+            <i></i>
+            <p>Rich个人介绍 前风暴英雄第一人</p>
+            <img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/23/d0/6585dda33d4208c2913b51adde8ab0cc.jpg" alt="Rich个人介绍 前风暴英雄第一人">
+        </a>
+                <dl class="pbtext-list mt20">
+                        <dd><a href="http://news.7k7k.com/doc/1537569.html" target="_blank">TI9小组赛：冲圣坛送出所有 VG正面碾压打平INF</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1537567.html" target="_blank">TI9小组赛：敌法阵容遭前期压制 RNG 0-2不敌EG</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1537552.html" target="_blank">2019LEC夏季赛第九周 FNC vs RGE 视频回顾</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1537547.html" target="_blank">2019LEC夏季赛第九周 G2 vs XL 视频回顾</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1537538.html" target="_blank">2019LEC夏季赛第九周 S04 vs VIT 视频回顾</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1537528.html" target="_blank">2019LEC夏季赛第九周 OG vs SK 视频回顾</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1537522.html" target="_blank">2019LEC夏季赛第九周 SPY vs MSF 视频回顾</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1537518.html" target="_blank">2019LEC夏季赛第九周 G2 vs S04 视频回顾</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1537511.html" target="_blank">2019LEC�
+5b4
+��季赛第九周 RGE vs OG 视频回顾</a></dd>
+                    </dl>
+    </div>
+</div>
+
+<div class="wrap1200 cl mt20">
+    <div class="subtit bordbot4">
+        
+        <h2>网游频道</h2>
+    </div>
+    <div class="column5-l">
+        <div class="subtit cl">
+            
+            <h3 class="fwn">热门网游</h3>
+        </div>
+                <dl class="tuwen">
+            <dt><a href="http://news.7k7k.com/juediqiusheng/" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/9b/18/b87a0aa9d63f9037179f71a719a4cf1c.jpg" alt="绝地求生" /></a></dt>
+            <dd>
+                <h3><a href="http://news.7k7k.com/juediqiusheng/" target="_blank">绝地求生</a></h3>
+                <em class="mt20">战术竞技型射击类沙盒游戏</em>
+                <p>雪地地图全新来袭</p>
+            </dd>
+        </dl>
+                <dl class="tuwen">
+            <dt><a href="http://www.7k7k.com/special/cf/" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/ec/f8/3db78b48bc28de8cfe5dd67b800f9f9d.png" alt="穿越火线" /></a></dt>
+            <dd>
+                <h3><a href="http://www.7k7k.com/special/cf/" target="_blank">穿越火线</a></h3>
+                <em class="mt20">三亿鼠标的枪战梦想</em>
+                <p>全新外服 永久神器</p>
+            </dd>
+        </dl>
+                <dl class="tuwen">
+5b4
+
+            <dt><a href="http://www.7k7k.com/special/dnf/" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/a1/c2/e8b1e5bcf68da2e71f0f67240307d193.jpg" alt="地下城与勇士" /></a></dt>
+            <dd>
+                <h3><a href="http://www.7k7k.com/special/dnf/" target="_blank">地下城与勇士</a></h3>
+                <em class="mt20">2D横版格斗网络游戏先行者</em>
+                <p>史诗之路：超越征程</p>
+            </dd>
+        </dl>
+            </div>
+    <div class="column5-m">
+        <div class="subtit cl">
+            <a href="http://news.7k7k.com/doc/list-20040-0-1.html"  target="_blank" class="more">更多</a>
+            <h3 class="fwn">网游资讯</h3>
+        </div>
+                <dl class="tuwen cl">
+            <dt><a href="http://news.7k7k.com/doc/1537441.html" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/c0/22/70d01caa0380cab5ccb366c35573b7c4.jpg?imageView2/1/w/160/h/120" alt="魔兽世界怀旧服萨满任务大全"></a></dt>
+            <dd>
+                <h3><a href="http://news.7k7k.com/doc/1537441.html" target="_blank">魔兽世界怀旧服萨满任务大全</a></h3>
+                <p class="cl">《魔兽世界》怀旧服已经开放了，其中不同的职业都有自己相应的任务链，那么下面就来介绍一下萨满玩家会遇到 ...<a href="http://news.7k7k.c
+5b4
+om/doc/1537441.html" target="_blank">阅读全文></a></p>
+            </dd>
+        </dl>
+                <dl class="tuwen cl">
+            <dt><a href="http://news.7k7k.com/doc/1537304.html" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/dd/c4/1203354e6062e22059959a5cb4ce3447.jpg?imageView2/1/w/160/h/120" alt="魔兽世界怀旧服德鲁伊任务"></a></dt>
+            <dd>
+                <h3><a href="http://news.7k7k.com/doc/1537304.html" target="_blank">魔兽世界怀旧服德鲁伊任务</a></h3>
+                <p class="cl">《魔兽世界》怀旧服开放了，那么其中德鲁伊的任务有哪些呢？小编来和大家一起了解一下德鲁伊的任务吧。魔兽 ...<a href="http://news.7k7k.com/doc/1537304.html" target="_blank">阅读全文></a></p>
+            </dd>
+        </dl>
+                <dl class="pbtext-list">
+                        <dd><a href="http://news.7k7k.com/doc/1537413.html" target="_blank">神秘代理降临长白天境 这个暑假有礼更有料</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1537409.html" target="_blank">《问道》经典版新服今日开启  福利不停歇</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1537407.html" target="_blank">动起来！《热血江湖》自己动手就能让装备提升</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1537037.h
+5b4
+tml" target="_blank">魔兽怀旧服法师任务大全</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1536740.html" target="_blank">魔兽怀旧服术士任务大全</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1536852.html" target="_blank">《问道》八仙献宝福利多  精彩好礼开不停</a></dd>
+                        <dd><a href="http://news.7k7k.com/doc/1536849.html" target="_blank">《热血江湖》这里才是获得极品装备的首选地？</a></dd>
+                    </dl>
+    </div>
+    <div class="column5-r">
+        <div class="subtit cl">
+            
+            <h3 class="fwn">热门专区</h3>
+        </div>
+                <dl class="tuwen">
+            <dt><a href="http://news.7k7k.com/dnfgaiban/" target="_blank"><img src="http://n.7k7kimg.cn/m00/41/82/72c84156c59d3d27a92a9789c5473f58.jpg" alt="DNF改版" /></a></dt>
+            <dd>
+                <h3><a href="http://news.7k7k.com/dnfgaiban/" target="_blank">DNF改版</a></h3>
+                <p>dnf所有改版内容</p>
+                <a href="http://news.7k7k.com/dnfgaiban/" target="_blank" class="zq-btn">进入专区</a>
+            </dd>
+        </dl>
+                <dl class="tuwen">
+            <dt><a href="http://news.7k7k.com/lols9fuwenjiadian/" target="_blank"><img src="http://n.7k7kimg.cn/m00/58/73/06578a98925f709690bd958b8dfbb25d.jpg" alt="S9符文加点" /></a></dt>
+            <dd>
+          
+5b4
+      <h3><a href="http://news.7k7k.com/lols9fuwenjiadian/" target="_blank">S9符文加点</a></h3>
+                <p>2019英雄联盟加点内容</p>
+                <a href="http://news.7k7k.com/lols9fuwenjiadian/" target="_blank" class="zq-btn">进入专区</a>
+            </dd>
+        </dl>
+                <dl class="tuwen">
+            <dt><a href="http://news.7k7k.com/lolhuodong/" target="_blank"><img src="http://n.7k7kimg.cn/m00/70/d7/71e6ac279ecc5cddeb3e7622c2a44d32.jpg" alt="LOL活动" /></a></dt>
+            <dd>
+                <h3><a href="http://news.7k7k.com/lolhuodong/" target="_blank">LOL活动</a></h3>
+                <p>多人在线</p>
+                <a href="http://news.7k7k.com/lolhuodong/" target="_blank" class="zq-btn">进入专区</a>
+            </dd>
+        </dl>
+                <dl class="tuwen">
+            <dt><a href="http://news.7k7k.com/dnfhuodong/" target="_blank"><img src="http://n.7k7kimg.cn/m00/b9/f9/a4e276087b49a87bbfb0d477f9e66981.jpg" alt="DNF活动" /></a></dt>
+            <dd>
+                <h3><a href="http://news.7k7k.com/dnfhuodong/" target="_blank">DNF活动</a></h3>
+                <p>PC /网络游戏</p>
+                <a href="http://news.7k7k.com/dnfhuodong/" target="_blank" class="zq-btn">进入专区</a>
+            </dd>
+        </dl>
+            </div>
+</div>
+
+<div class="wrap1200 cl">
+    <div class="subtit bordbot4">
+        <h2>页游频道</h2>
+    </div>
+    <div class="co
+5ac
+lumn6-l">
+        <div class="subtit cl">
+            
+            <h3 class="fwn">热门页游</h3>
+        </div>
+        <div class="column6-l-slide">
+            <div class="bd">
+                <ul>
+                                        <li>
+                        <a href="http://web.7k7k.com/games/mywyb/52136471/52136471-5214341.html?k=100897" target="_blank">
+                            <img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/20/ef/64238732c7e7a64bcc45c5351d60240f.jpg" alt="魔域网页版">
+                            <p>魔域网页版</p>
+                            <i></i>
+                        </a>
+                        <div class="date"></div>
+                    </li>
+                                        <li>
+                        <a href="http://web.7k7k.com/games/sdyxz/52136471/52136471-5214341.html?k=100898" target="_blank">
+                            <img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/66/6d/e8625d49b018ef43fa4b8f7e879c1175.jpg" alt="射雕英雄传">
+                            <p>射雕英雄传</p>
+                            <i></i>
+                        </a>
+                        <div class="date"></div>
+                    </li>
+                                        <li>
+                        <a href="http://web.7k7k.com/games/hycs/52136471/52136471-5214341.html?k=100899" target="_blank">
+   
+b68
+                         <img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/6f/3d/637691674d9217a985968596d8bb6803.jpg" alt="红月传说">
+                            <p>红月传说</p>
+                            <i></i>
+                        </a>
+                        <div class="date"></div>
+                    </li>
+                                        <li>
+                        <a href="http://web.7k7k.com/games/cqby/52136471/52136471-5214341.html?k=100901" target="_blank">
+                            <img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/9b/08/0b75055e8604526f6a77464453149fd4.jpg" alt="传奇霸业">
+                            <p>传奇霸业</p>
+                            <i></i>
+                        </a>
+                        <div class="date"></div>
+                    </li>
+                                    </ul>
+            </div>
+            <div class="hd">
+                <ul>
+                                        <li></li>
+                                        <li></li>
+                                        <li></li>
+                                        <li></li>
+                                    </ul>
+            </div>
+        </div>
+    </div>
+    <div class="column6-r">
+        <div class="subtit cl">
+            
+            <h3 class="fwn">推荐页游</h3>
+        </div>
+        <ul>
+                        <li>
+                <a href="http://web.7k7k.com/games/ms/52136471/52136471-521341.html?k=100902" target="_blank">
+                    <img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/e0/f7/10af65bf300306ca9fb884a5106754c3.jpg" alt="灭神" />
+                </a>
+                <div class="cont cl">
+                    <p><a href="http://web.7k7k.com/games/ms/52136471/52136471-521341.html?k=100902" target="_blank">灭神</a></p>
+                    <span>人气单职业！开局一只虎！</span>
+                </div>
+            </li>
+                        <li>
+                <a href="http://web.7k7k.com/games/lycq/52136471/52136471-521341.html?k=100903" target="_blank">
+                    <img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/d4/33/e509f291fae7a8ba5576df036d4167a7.jpg" alt="蓝月传奇" />
+                </a>
+                <div class="cont cl">
+                    <p><a href="http://web.7k7k.com/games/lycq/52136471/52136471-521341.html?k=100903" target="_blank">蓝月传奇</a></p>
+                    <span>画质绚丽 PK绿色传奇！</span>
+                </div>
+            </li>
+                        <li>
+                <a href="http://web.7k7k.com/games/jsxw/52136471/52136471-521341.html?k=100904" target="_blank">
+                    <img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/30/50/561d
+5b4
+96036ec905fc70a02a8f091f8542.jpg" alt="绝世仙王" />
+                </a>
+                <div class="cont cl">
+                    <p><a href="http://web.7k7k.com/games/jsxw/52136471/52136471-521341.html?k=100904" target="_blank">绝世仙王</a></p>
+                    <span>最耐玩修仙页游 没有之一</span>
+                </div>
+            </li>
+                        <li>
+                <a href="http://web.7k7k.com/games/zsfy/52136471/52136471-521341.html?k=100905" target="_blank">
+                    <img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/f7/8c/80d470f03d533d55f34cea202ba0502d.jpg" alt="战神风云" />
+                </a>
+                <div class="cont cl">
+                    <p><a href="http://web.7k7k.com/games/zsfy/52136471/52136471-521341.html?k=100905" target="_blank">战神风云</a></p>
+                    <span>三大职业走进武侠世界！</span>
+                </div>
+            </li>
+                        <li>
+                <a href="http://web.7k7k.com/games/mjtx/52136471/52136471-521341.html?k=100906" target="_blank">
+                    <img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/47/22/0425611cb54ab563e700a9881950b088.jpg" alt="猛将天下" />
+                </a>
+                <div class="cont cl">
+                    <p><a href="http://web.7k7k.com/games/mjtx/52136471/52136471-521341.html?k=100906" t
+5b4
+arget="_blank">猛将天下</a></p>
+                    <span>重燃兄弟情 剑圣定乾坤</span>
+                </div>
+            </li>
+                        <li>
+                <a href="http://web.7k7k.com/games/xmry/52136471/52136471-521341.html?k=100907" target="_blank">
+                    <img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/f2/a2/9d7b5ebee8e37c2cfa3b352a2431f17c.jpg" alt="血盟荣耀" />
+                </a>
+                <div class="cont cl">
+                    <p><a href="http://web.7k7k.com/games/xmry/52136471/52136471-521341.html?k=100907" target="_blank">血盟荣耀</a></p>
+                    <span>《天堂2》正版授权的3D页游</span>
+                </div>
+            </li>
+                        <li>
+                <a href="http://web.7k7k.com/games/hhzz/52136471/52136471-521341.html?k=100908" target="_blank">
+                    <img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/d2/cb/fa96d55b1dcedff8dae89ad291daefed.jpg" alt="武动苍穹" />
+                </a>
+                <div class="cont cl">
+                    <p><a href="http://web.7k7k.com/games/hhzz/52136471/52136471-521341.html?k=100908" target="_blank">武动苍穹</a></p>
+                    <span>劲爽PK带来热血体验！</span>
+                </div>
+            </li>
+                        <li>
+                <a href="http://web.7k7k.com/games
+3ff
+/cqsj/52136471/52136471-521341.html?k=100909" target="_blank">
+                    <img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/8e/9b/4df7c45c0ca3ff7d6bbed788da38b1b0.jpg" alt="传奇世界" />
+                </a>
+                <div class="cont cl">
+                    <p><a href="http://web.7k7k.com/games/cqsj/52136471/52136471-521341.html?k=100909" target="_blank">传奇世界</a></p>
+                    <span>万人乱战 血染沙城！</span>
+                </div>
+            </li>
+                    </ul>
+    </div>
+</div>
+
+<div class="wrap1200 mt20">
+    <div class="cl">
+        <div class="column2-tabbox ">
+            <div class="hd">
+                                                                <a href="javascript:;"  class="active" ><s class="as"></s>资讯</a>
+                                                <a href="javascript:;" ><s class="as"></s>单机</a>
+                                                <a href="javascript:;" ><s class="as"></s>�
+10de
+�程序</a>
+                            </div>
+            <div class="bd">
+                                                                <div class="cont cl block">
+                                        <dl class="tuwen">
+                        <dt><a href="http://news.7k7k.com/doc/1537690.html" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/97/74/3e37557749126ed05084d3c190d13f03.jpg?imageView2/1/w/170/h/100" alt="腾讯认证主播计划新突破：助力主播“量”与“质”全方位提升" /></a></dt>
+                        <dd>
+                            <h3><a href="http://news.7k7k.com/doc/1537690.html" target="_blank">腾讯认证主播计划新突破：助力主播“量”与“质”全方位提升</a></h3>
+                            <p><i>01/17</i>资讯</p>
+                        </dd>
+                    </dl>
+                                        <dl class="tuwen">
+                        <dt><a href="http://news.7k7k.com/doc/1537689.html" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/49/7a/d6dfb5f4658547381a96bd6a712f1729.jpg?imageView2/1/w/170/h/100" alt="王者荣耀：父亲买V8账号，重金悬赏万元做局，儿子20连败崩溃大哭，含泪退游" /></a></dt>
+                        <dd>
+                            <h3><a href="http://news.7k7k.com/doc/1537689.html" target="_blank">王者荣耀：父亲买V8账号，重金悬赏万元做局，儿子20连败崩溃大哭，含泪退游</a></h3>
+                            <p><i>12/19</i>资讯</p>
+                        </dd>
+                    </dl>
+                                        <dl class="tuwen">
+                        <dt><a href="http://news.7k7k.com/doc/1537688.html" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/46/dc/fd6f598e6a2a0b73c8b6a47e2c38f215.jpg?imageView2/1/w/170/h/100" alt="腾讯音乐娱乐盛典“惊艳”全场的男团到底什么来头？" /></a></dt>
+                        <dd>
+                            <h3><a href="http://news.7k7k.com/doc/1537688.html" target="_blank">腾讯音乐娱乐盛典“惊艳”全场的男团到底什么来头？</a></h3>
+                            <p><i>12/09</i>资讯</p>
+                        </dd>
+                    </dl>
+                                        <dl class="tuwen">
+                        <dt><a href="http://news.7k7k.com/doc/1537686.html" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/51/29/d360f2ca645b0c2592b570f566124f76.jpg?imageView2/1/w/170/h/100" alt="好怀念在坑里一起洗澡的日子啊​！" /></a></dt>
+                        <dd>
+                            <h3><a href="http://news.7k7k.com/doc/1537686.html" target="_blank">好怀念在坑里一起洗澡的日子啊​！</a></h3>
+                            <p><i>11/09</i>资讯</p>
+                        </dd>
+                    </dl>
+                                        <dl class="tuwen">
+                        <dt><a href="http://news.7k7k.com/doc/1537685.html" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/80/9d/5c28ebf5fadffccc7ffc049687e1d554.jpg?imageView2/1/w/170/h/100" alt="震惊！！！一网友直呼想当鸭" /></a></dt>
+                        <dd>
+                            <h3><a href="http://news.7k7k.com/doc/1537685.html" target="_blank">震惊！！！一网友直呼想当鸭</a></h3>
+                            <p><i>11/09</i>资讯</p>
+                        </dd>
+                    </dl>
+                                        <dl class="tuwen">
+                        <dt><a href="http://news.7k7k.com/doc/1537684.html" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/aa/4f/1ece4cbed29419edda16595bde8fe9ec.jpg?imageView2/1/w/170/h/100" alt="这国王谁爱当谁当，反正我是不当了" /></a></dt>
+                        <dd>
+                            <h3><a href="http://news.7k7k.com/doc/1537684.html" target="_blank">这国王谁爱当谁当，反正我是不当了</a></h3>
+                            <p><i>11/08</i>资讯</p>
+    
+b68
+                    </dd>
+                    </dl>
+                                        <dl class="tuwen">
+                        <dt><a href="http://news.7k7k.com/doc/1537303.html" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/e0/4a/cc61a15b46e99917d02e98b179162aee.jpg?imageView2/1/w/170/h/100" alt="AESF e-Masters亚洲电子竞技大师杯·中国赛启动仪式在深圳召开" /></a></dt>
+                        <dd>
+                            <h3><a href="http://news.7k7k.com/doc/1537303.html" target="_blank">AESF e-Masters亚洲电子竞技大师杯·中国赛启动仪式在深圳召开</a></h3>
+                            <p><i>08/15</i>资讯</p>
+                        </dd>
+                    </dl>
+                                        <dl class="tuwen">
+                        <dt><a href="http://news.7k7k.com/doc/1536347.html" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/e7/19/6fd1958d04750af6e642929ee0b83335.jpg?imageView2/1/w/170/h/100" alt="统一老坛&amp;ChinaJoy丨正宗酸爽，我站原创！" /></a></dt>
+                        <dd>
+                            <h3><a href="http://news.7k7k.com/doc/1536347.html" target="_blank">统一老坛&amp;ChinaJoy丨正宗酸爽，我站原创！</a></h3>
+                            <p><i>08/12</i>资讯</p>
+                        </dd>
+                    </dl>
+                                    </div>
+                                                <div class="cont cl none">
+                                        <dl class="tuwen">
+                        <dt><a href="http://news.7k7k.com/doc/1527574.html" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/37/22/fe14d558622f2d0a6cc51570cd95489d.jpg?imageView2/1/w/170/h/100" alt="《胡闹厨房》点击即送 Epic喜加一更新" /></a></dt>
+                        <dd>
+                            <h3><a href="http://news.7k7k.com/doc/1527574.html" target="_blank">《胡闹厨房》点击即送 Epic喜加一更新</a></h3>
+                            <p><i>07/05</i>单机</p>
+                        </dd>
+                    </dl>
+                                        <dl class="tuwen">
+                        <dt><a href="http://news.7k7k.com/doc/1527549.html" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/16/7f/fdfa921e2aeaeae0d6d9e289984db7d5.png?imageView2/1/w/170/h/100" alt="《外部世界》Epic平台已开启预售 国区为低价区" /></a></dt>
+                        <dd>
+                            <h3><a href="http://news.7k7k.com/doc/1527549.html" target="_blank">《外部世界》Epic平台已开启预售 国区为低价区</a></h3>
+                            <p><i>07/05</i>单机</p>
+                        </dd>
+  
+b68
+                  </dl>
+                                        <dl class="tuwen">
+                        <dt><a href="http://news.7k7k.com/doc/1527520.html" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/6d/2d/2926291167db4afeb75f43ec52bdbd45.jpg?imageView2/1/w/170/h/100" alt="育碧认为各种字幕非常关键 将影响游戏体验" /></a></dt>
+                        <dd>
+                            <h3><a href="http://news.7k7k.com/doc/1527520.html" target="_blank">育碧认为各种字幕非常关键 将影响游戏体验</a></h3>
+                            <p><i>07/05</i>单机</p>
+                        </dd>
+                    </dl>
+                                        <dl class="tuwen">
+                        <dt><a href="http://news.7k7k.com/doc/1527502.html" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/9f/c7/31626fc96ae91a93f53f44f31b53529a.jpg?imageView2/1/w/170/h/100" alt="《怪物猎人世界：冰原》将同步更新新内容" /></a></dt>
+                        <dd>
+                            <h3><a href="http://news.7k7k.com/doc/1527502.html" target="_blank">《怪物猎人世界：冰原》将同步更新新内容</a></h3>
+                            <p><i>07/05</i>单机</p>
+                        </dd>
+                    </dl>
+                                        <dl class="tuwen">
+                        <dt><a href="http://news.7k7k.com/doc/1527481.html" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/5d/72/7f8207b73f63892de9a5972599de9725.jpg?imageView2/1/w/170/h/100" alt="《帝国时代2：决定版》确定更新更多内容 但不会有新阵营" /></a></dt>
+                        <dd>
+                            <h3><a href="http://news.7k7k.com/doc/1527481.html" target="_blank">《帝国时代2：决定版》确定更新更多内容 但不会有新阵营</a></h3>
+                            <p><i>07/05</i>单机</p>
+                        </dd>
+                    </dl>
+                                        <dl class="tuwen">
+                        <dt><a href="http://news.7k7k.com/doc/1527477.html" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/21/96/d9bb7ff9372abe992642396d840c33d4.jpg?imageView2/1/w/170/h/100" alt="《莎木3》评级已公布 有部分色情内容" /></a></dt>
+                        <dd>
+                            <h3><a href="http://news.7k7k.com/doc/1527477.html" target="_blank">《莎木3》评级已公布 有部分色情内容</a></h3>
+                            <p><i>07/05</i>单机</p>
+                        </dd>
+                    </dl>
+                                        <dl class="tuwen">
+                        <dt><a href="http://news.7k7k.com/doc/1526805.html" t
+5b4
+arget="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/5c/c6/3ea9546184e475dcf710d0aa67378535.jpg?imageView2/1/w/170/h/100" alt="《伊拉特斯:死神降临》7月24日登陆STEAM抢先体验" /></a></dt>
+                        <dd>
+                            <h3><a href="http://news.7k7k.com/doc/1526805.html" target="_blank">《伊拉特斯:死神降临》7月24日登陆STEAM抢先体验</a></h3>
+                            <p><i>07/03</i>单机</p>
+                        </dd>
+                    </dl>
+                                        <dl class="tuwen">
+                        <dt><a href="http://news.7k7k.com/doc/1523480.html" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/4b/de/119883430ccb311eb673300ee16992c4.jpg?imageView2/1/w/170/h/100" alt="《漫威复仇者联盟》游戏包含微交易 可为英雄替换外观" /></a></dt>
+                        <dd>
+                            <h3><a href="http://news.7k7k.com/doc/1523480.html" target="_blank">《漫威复仇者联盟》游戏包含微交易 可为英雄替换外观</a></h3>
+                            <p><i>06/14</i>单机</p>
+                        </dd>
+                    </dl>
+                                    </div>
+                                                <div class="cont cl none">
+                                        <dl class="tuwen">
+         
+5b4
+               <dt><a href="http://news.7k7k.com/doc/1508027.html" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/de/66/6da5e5b7ce77cfd774cd196ecf3b9806.png?imageView2/1/w/170/h/100" alt="微信小程序注销功能将上线" /></a></dt>
+                        <dd>
+                            <h3><a href="http://news.7k7k.com/doc/1508027.html" target="_blank">微信小程序注销功能将上线</a></h3>
+                            <p><i>02/28</i>小程序</p>
+                        </dd>
+                    </dl>
+                                        <dl class="tuwen">
+                        <dt><a href="http://news.7k7k.com/doc/1503136.html" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/f2/25/6bc5e9a62e85e2e47d3c14deb7d8360e.png?imageView2/1/w/170/h/100" alt="《2019祝福语大全》小程序 欢欢喜喜过新年" /></a></dt>
+                        <dd>
+                            <h3><a href="http://news.7k7k.com/doc/1503136.html" target="_blank">《2019祝福语大全》小程序 欢欢喜喜过新年</a></h3>
+                            <p><i>01/07</i>小程序</p>
+                        </dd>
+                    </dl>
+                                        <dl class="tuwen">
+                        <dt><a href="http://news.7k7k.com/doc/1503056.html" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif
+b68
+" data-src="http://n.7k7kimg.cn/m00/da/20/1052553efc13854852d059306f0fef5e.png?imageView2/1/w/170/h/100" alt="《7天时间清单》小程序 时间管理提高个人工作效率" /></a></dt>
+                        <dd>
+                            <h3><a href="http://news.7k7k.com/doc/1503056.html" target="_blank">《7天时间清单》小程序 时间管理提高个人工作效率</a></h3>
+                            <p><i>01/05</i>小程序</p>
+                        </dd>
+                    </dl>
+                                        <dl class="tuwen">
+                        <dt><a href="http://news.7k7k.com/doc/1503052.html" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/c3/61/523cbd8e371a5d06a9173c91e5442df6.png?imageView2/1/w/170/h/100" alt="《天天爱走步》小程序 来看看你每天走了多少路" /></a></dt>
+                        <dd>
+                            <h3><a href="http://news.7k7k.com/doc/1503052.html" target="_blank">《天天爱走步》小程序 来看看你每天走了多少路</a></h3>
+                            <p><i>01/05</i>小程序</p>
+                        </dd>
+                    </dl>
+                                        <dl class="tuwen">
+                        <dt><a href="http://news.7k7k.com/doc/1503051.html" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/9b/0f/127378801b5ffbf59110467c1371b7bc.png?imageView2/1/w/170/h/100" alt="《斗图王者》小程序 妈妈再也不用担心我斗不过别人了" /></a></dt>
+                        <dd>
+                            <h3><a href="http://news.7k7k.com/doc/1503051.html" target="_blank">《斗图王者》小程序 妈妈再也不用担心我斗不过别人了</a></h3>
+                            <p><i>01/05</i>小程序</p>
+                        </dd>
+                    </dl>
+                                        <dl class="tuwen">
+                        <dt><a href="http://news.7k7k.com/doc/1503049.html" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/81/33/1a0d1522f62aacc4a8ac054f4e85ad48.png?imageView2/1/w/170/h/100" alt="《汇率换算极速版》小程序 世界主要货币的最新汇率换算" /></a></dt>
+                        <dd>
+                            <h3><a href="http://news.7k7k.com/doc/1503049.html" target="_blank">《汇率换算极速版》小程序 世界主要货币的最新汇率换算</a></h3>
+                            <p><i>01/05</i>小程序</p>
+                        </dd>
+                    </dl>
+                                        <dl class="tuwen">
+                        <dt><a href="http://news.7k7k.com/doc/1503048.html" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/ac/87/49c2bda5b3d0236653a0d586b9a8
+5b4
+f575.png?imageView2/1/w/170/h/100" alt="《区块截图神器》小程序 好用的币圈装逼神器" /></a></dt>
+                        <dd>
+                            <h3><a href="http://news.7k7k.com/doc/1503048.html" target="_blank">《区块截图神器》小程序 好用的币圈装逼神器</a></h3>
+                            <p><i>01/05</i>小程序</p>
+                        </dd>
+                    </dl>
+                                        <dl class="tuwen">
+                        <dt><a href="http://news.7k7k.com/doc/1503043.html" target="_blank"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/3c/33/c81a13e6983c156f61fe4903ddfaa3e0.png?imageView2/1/w/170/h/100" alt="《账本小精灵》小程序 一款便捷记账小程序" /></a></dt>
+                        <dd>
+                            <h3><a href="http://news.7k7k.com/doc/1503043.html" target="_blank">《账本小精灵》小程序 一款便捷记账小程序</a></h3>
+                            <p><i>01/05</i>小程序</p>
+                        </dd>
+                    </dl>
+                                    </div>
+                            </div>
+        </div>
+        
+        <div class="newgameph">
+            <div class="subtit cl">
+                <a href="http://shouji.7k7k.com/rank/" target="_blank" class="more">更多上榜游戏</a>
+                <h2 class="fwn">新游热榜</h2>
+            </div>
+  
+5b4
+          <dl class="cont">
+                <dt><span class="game">游戏</span><span class="qidai">期待</span><span class="operation">操作</span></dt>
+                                                <dd class="num1">
+                    <i class="Num">1</i>
+                    <a href="http://shouji.7k7k.com/android/12818.html" target="_blank" class="Img"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/7b/91/983295b46b964a26cd64c249859090b0.jpg" alt="我的小家"></a>
+                    <div class="Text"><a href="http://shouji.7k7k.com/android/12818.html">我的小家</a><span>模拟经营手游</span></div>
+                    <span class="zhi">100</span><a href="http://shouji.7k7k.com/android/12818.html" target="_blank" class="Btn">下载</a>
+                </dd>
+                                                                <dd class="num2">
+                    <i class="Num">2</i>
+                    <a href="http://shouji.7k7k.com/android/21610.html" target="_blank" class="Img"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/b1/6a/2f11cce58436a193d2d0928d96f49b36.jpg" alt="贪吃蛇大作战®"></a>
+                    <div class="Text"><a href="http://shouji.7k7k.com/android/21610.html">贪吃蛇大作战®</a><span>竞技对战</span></div>
+                    <span class="zhi">99</span><a href="http://shouji.7k7k.com/android/21610.html" target="_b
+16c1
+lank" class="Btn">下载</a>
+                </dd>
+                                                                <dd class="num3">
+                    <i class="Num">3</i>
+                    <a href="http://shouji.7k7k.com/android/2050.html" target="_blank" class="Img"><img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/ce/ff/bb7ab515c3b8beab89b12c872cc5937b.jpg" alt="植物大战僵尸2"></a>
+                    <div class="Text"><a href="http://shouji.7k7k.com/android/2050.html">植物大战僵尸2</a><span>塔防策略</span></div>
+                    <span class="zhi">98</span><a href="http://shouji.7k7k.com/android/2050.html" target="_blank" class="Btn">下载</a>
+                </dd>
+                                                                <dd>
+                    <i class="Num">4</i>
+                    <div class="Text2"><a href="http://shouji.7k7k.com/android/5846.html" target="_blank">闪耀暖暖</a></div>
+                    <span class="zhi">96</span><a href="http://shouji.7k7k.com/android/5846.html" target="_blank" class="Btn">下载</a></dd>
+                                                                <dd>
+                    <i class="Num">5</i>
+                    <div class="Text2"><a href="http://shouji.7k7k.com/android/549.html" target="_blank">荒野行动</a></div>
+                    <span class="zhi">95</span><a href="http://shouji.7k7k.com/android/549.html" target="_blank" class="Btn">下载</a></dd>
+                                                                <dd>
+                    <i class="Num">6</i>
+                    <div class="Text2"><a href="http://shouji.7k7k.com/android/700.html" target="_blank">崩坏3rd</a></div>
+                    <span class="zhi">94</span><a href="http://shouji.7k7k.com/android/700.html" target="_blank" class="Btn">下载</a></dd>
+                                                                <dd>
+                    <i class="Num">7</i>
+                    <div class="Text2"><a href="http://shouji.7k7k.com/android/2675.html" target="_blank">龙族幻想</a></div>
+                    <span class="zhi">93</span><a href="http://shouji.7k7k.com/android/2675.html" target="_blank" class="Btn">下载</a></dd>
+                                                                <dd>
+                    <i class="Num">8</i>
+                    <div class="Text2"><a href="http://shouji.7k7k.com/android/484.html" target="_blank">王者荣耀</a></div>
+                    <span class="zhi">92</span><a href="http://shouji.7k7k.com/android/484.html" target="_blank" class="Btn">下载</a></dd>
+                                            </dl>
+        </div>
+    </div>
+</div>
+
+<div class="wrap1200 mt10 cl">
+    <div class="subtit cl">
+        
+        <h2 class="fwn">游戏视频</h2>
+    </div>
+    <div class="w-360">
+                <a href="http://news.7k7k.com/doc/1534041.html" target="_blank" class="pic">
+            <i></i>
+            <p>九年经典质造小花仙手游，首部宣传片震撼发布</p>
+            <img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/28/85/943ebb850b8f917dbc79bcadaafab188.jpg" alt="九年经典质造小花仙手游，首部宣传片震撼发布">
+        </a>
+            </div>
+    <div class="w-820">
+        <ul class="video-list">
+                        <li>
+                <a href="http://news.7k7k.com/doc/1537682.html" target="_blank" class="pic">
+                    <i></i><em></em>
+                    <p></p>
+                    <img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/24/9e/d23ba524ce977a7c03e66d957b2819fc.jpg?imageView2/1/w/193/h/107" alt="《英雄联盟手游》2019最新精彩视频抢先看" />
+                </a>
+                <p><a href="http://news.7k7k.com/doc/1537682.html" target="_blank">《英雄联盟手游》2019最新精彩视频抢先看</a></p>
+            </li>
+                        <li>
+                <a href="http://news.7k7k.com/doc/1505104.html" target="_blank" class="pic">
+                    <i></i><em></em>
+                    <p></p>
+                    <img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/41/c6/a231375b371c2b7b1d208ff56c0bac05.jpg?imageView2/1/w/193/h/107" alt="《奥拉星手游》手游正式版PV降临" />
+                </a>
+                <p><a href="http://news.7k7k.com/doc/1505104.html" target="_blank">《奥拉星手游》手游正式版PV降临</a></p>
+            </li>
+                        <li>
+                <a href="http://news.7k7k.com/content/1537557.html" target="_blank" class="pic">
+                    <i></i><em></em>
+                    <p></p>
+                    <img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/70/06/f02783142e015c7df6bbf4d8b7f3d5c9.jpg?imageView2/1/w/193/h/107" alt="和平精英国际服航天基地遁地BUG攻略" />
+                </a>
+                <p><a href="http://news.7k7k.com/content/1537557.html" target="_blank">和平精英国际服航天基地遁地BUG攻略</a></p>
+            </li>
+                        <li>
+                <a href="http://news.7k7k.com/content/1537555.html" target="_blank" class="pic">
+                    <i></i><em></em>
+                    <p></p>
+                    <img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/de/13/2426ab4715d4bd165fa3f704fb60889a.jpg?imageView2/1/w/193/h/107" alt="和平精英野区防空洞穿墙BUG技巧" />
+                </a>
+                <p><a href="http://news.7k7k.com/content/1537555.html" target="_blank">和平精英野区防空洞穿墙BUG技巧</a></p>
+            </li>
+                        <li>
+                <a href="http://news.
+b68
+7k7k.com/content/1537010.html" target="_blank" class="pic">
+                    <i></i><em></em>
+                    <p></p>
+                    <img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/3c/1a/24785a03e6ead9272977876125bb7bae.jpg?imageView2/1/w/193/h/107" alt="和平精英同时投掷多个投掷物BUG攻略" />
+                </a>
+                <p><a href="http://news.7k7k.com/content/1537010.html" target="_blank">和平精英同时投掷多个投掷物BUG攻略</a></p>
+            </li>
+                        <li>
+                <a href="http://news.7k7k.com/content/1536718.html" target="_blank" class="pic">
+                    <i></i><em></em>
+                    <p></p>
+                    <img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/28/9d/7d1bd6a4259be9ab4f28fad1dcd0b6a4.jpg?imageView2/1/w/193/h/107" alt="和平精英4V4敌人老家后面穿墙射击BUG攻略" />
+                </a>
+                <p><a href="http://news.7k7k.com/content/1536718.html" target="_blank">和平精英4V4敌人老家后面穿墙射击BUG攻略</a></p>
+            </li>
+                        <li>
+                <a href="http://news.7k7k.com/content/1536503.html" target="_blank" class="pic">
+                    <i></i><em></em>
+                    <p></p>
+                    <img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/ee/85/9e8cf0f403c0b3b7ac1be3f0702a704b.jpg?imageView2/1/w/193/h/107" alt="和平精英冲浪板上开枪射击技巧" />
+                </a>
+                <p><a href="http://news.7k7k.com/content/1536503.html" target="_blank">和平精英冲浪板上开枪射击技巧</a></p>
+            </li>
+                        <li>
+                <a href="http://news.7k7k.com/content/1536184.html" target="_blank" class="pic">
+                    <i></i><em></em>
+                    <p></p>
+                    <img src="http://www.7k7kjs.cn/v2/images/lazy.gif" data-src="http://n.7k7kimg.cn/m00/a3/d8/89980bfabd4b5fba9acaf51806331656.jpg?imageView2/1/w/193/h/107" alt="和平精英国际服穿墙射击BUG卡法攻略" />
+                </a>
+                <p><a href="http://news.7k7k.com/content/1536184.html" target="_blank">和平精英国际服穿墙射击BUG卡法攻略</a></p>
+            </li>
+                    </ul>
+    </div>
+</div>
+<script type="text/javascript" src="http://www.7k7kjs.cn/v2/lib/js/jquery.SuperSlide.js?v=2019082802"></script>
+<script type="text/javascript" src="http://www.7k7kjs.cn/v2/pc/js/index.js?v=2019082802"></script>
+
+
+
+<div class="footer">
+    <div class="wrap1200 footer-link cf" id="footer-link" style="position: relative">
+        <div class="sl-w1">
+            <h3><span class="fc-orange">7K7K</span>小游戏</h3>
+            <ul class="ui-img-list">
+                <li> <a href="http://www.7k7k.com/mm.htm">女生�
+b68
+�游戏</a> </li>
+                <li> <a href="http://www.7k7k.com/tag/134/">过关小游戏</a> </li>
+                <li> <a href="http://www.7k7k.com/flash_fl/456_1.htm">益智小游戏</a> </li>
+                <li> <a href="http://www.7k7k.com/flash_fl/485_1.htm">休闲小游戏</a> </li>
+                <li> <a href="http://www.7k7k.com/flash_fl/478_1.htm">动作小游戏</a> </li>
+                <li> <a href="http://www.7k7k.com/flash_fl/461_1.htm">冒险小游戏</a> </li>
+                <li> <a href="http://www.7k7k.com/flash_fl/499_1.htm">换装小游戏</a> </li>
+                <li> <a href="http://www.7k7k.com/flash_fl/459_1.htm">射击小游戏</a> </li>
+                <li> <a href="http://www.7k7k.com/flash_fl/491_1.htm">战争小游戏</a> </li>
+                <li> <a href="http://www.7k7k.com/tag/62/">双人小游戏</a> </li>
+                <li> <a href="http://www.7k7k.com/td.html">塔防游戏</a> </li>
+                <li> <a href="http://www.7k7k.com/flash_fl/458_1.htm">赛车游戏</a> </li>
+            </ul>
+        </div>
+        <div class="sl-w4">
+            <h3><span class="fc-blue">7K7K</span>儿童游戏</h3>
+            <ul class="ui-img-list">
+                <li> <a href="http://www.7k7k.com/special/roco/">洛克王国</a> </li>
+                <li> <a href="http://www.7k7k.com/special/xiaohuaxian/">小花仙</a> </li>
+                <li> <a href="http://www.7k7k.com/special/51seer/">赛尔号</a> </li>
+                <li> <a href="http://www.7k7k.com/special/aola/">奥拉星</a> </li>
+                <li> <a href="http://news.7k7k.com/aoqi/">奥奇传说</a> </li>
+                <li> <a href="http://www.7k7k.com/special/aobi/">奥比岛</a> </li>
+                <li> <a href="http://news.7k7k.com/ygsj/">超凡巴迪龙</a> </li>
+                <li> <a href="http://news.7k7k.com/qsdzz/">求生大作战</a> </li>
+                <li> <a href="http://news.7k7k.com/ssol/">推理学院</a> </li>
+                <li> <a href="http://news.7k7k.com/yhzr/">英魂之刃</a> </li>
+                <li> <a href="http://lol.7k7k.com/">英雄联盟</a> </li>
+                <li> <a href="http://news.7k7k.com/pkt/">皮卡堂</a> </li>
+            </ul>
+        </div>
+        <div class="sl-w3">
+            <h3><span class="fc-pink">7K7K</span>网页游戏</h3>
+            <ul class="ui-img-list">
+                <li> <a href="http://web.7k7k.com/games/cqss/">传奇盛世</a> </li>
+                <li> <a href="http://web.7k7k.com/games/ddt/">弹弹堂</a> </li>
+                <li> <a href="http://web.7k7k.com/games/nslm/">女神联盟</a> </li>
+                <li> <a href="http://web.7k7k.com/games/lycq/">蓝月传奇</a> </li>
+                <li> <a href="http://web.7k7k.com/games/tssj/">天书世界</a> </li>
+                <li> <a href="http://web.7k7k.com/games/cqby/">传奇霸业</a> </li>
+            </ul>
+        </div>
+        
+5b4
+<div class="sl-w2">
+            <h3><span class="fc-sy">7K7K</span>手游</h3>
+            <ul class="ui-img-list">
+                <li> <a href="http://shouji.7k7k.com/game/">手机游戏</a> </li>
+                <li> <a href="http://shouji.7k7k.com/app/">手机软件</a> </li>
+                <li> <a href="http://shouji.7k7k.com/tag/">手游合集</a> </li>
+                <li> <a href="http://news.7k7k.com/doc/list-20038-0-1.html">手游资讯</a> </li>
+                <li> <a href="http://news.7k7k.com/content/list-20031-0-1.html">手游攻略</a> </li>
+                <li> <a href="http://shouji.7k7k.com/rank/">手游排行</a> </li>
+            </ul>
+        </div>
+        <div class="sl-w2">
+            <h3><span class="fc-green">7K7K</span>社区</h3>
+            <ul class="ui-img-list">
+                <li> <a href="http://my.7k7k.com">我的首页</a> </li>
+                <li> <a href="http://8.7k7k.com/">K吧</a> </li>
+                <li> <a href="http://www.7k.cn/web/web_index/">手机游戏</a> </li>
+                <li> <a href="http://h.7k7k.com/pc/">H5小游戏</a> </li>
+                <li> <a href="http://g.7k7k.com/">游戏大厅</a> </li>
+                <li> <a href="http://www.7k7k.com/2018/xcx/">游戏盒子</a> </li>
+            </ul>
+        </div>
+        <div class="sl-w2">
+            <h3><span class="fc-brown">7K7K</span>出品</h3>
+            <ul class="ui-img-list">
+                <li> <a href="http:/
+5b4
+/news.7k7k.com/tzyx/">特战英雄</a> </li>
+                <li> <a href="http://news.7k7k.com/wmpy/">完美漂移</a> </li>
+                <li> <a href="http://web.7k7k.com/games/mxw2/">冒险王2</a> </li>
+                <li> <a href="http://www.mxw3.com/">冒险王3</a> </li>
+                <li> <a href="http://www.duole.com/">多乐游戏</a> </li>
+            </ul>
+        </div>
+        <div class="sl-w6">
+            <h3>关注我们</h3>
+            <ul class="ui-img-list">
+                <li> <span class="foot-code"></span>
+                    <p class="foot-weixin"> 腾讯微信love7K7K </p>
+                </li>
+                <li> <a href="http://e.weibo.com/lz7k7k" title="新浪微博" class="icon i-weibo" rel="nofollow">新浪微博</a> <a href="http://e.t.qq.com/zd7k7k" title="腾讯微博" class="icon i-tqq" rel="nofollow">腾讯微博</a> </li>
+            </ul>
+            <div style="position: absolute;left: 98px;top: 98px;"> <a href="https://v.yunaq.com/certificate?domain=web.7k7k.com&amp;from=label&amp;code=90020"><img src="https://aqyzmedia.yunaq.com/labels/label_sm_90020.png" style="width: 72px;height:25px;"></a> </div>
+        </div>
+                <div class="friend-link">
+            <h3>友情链接:</h3>
+            <div class="fr-cont-wrap" id="c-link" style="margin:0px">
+                <ul class="fr-cont">
+                    <li>
+                                                <a href="http://news.
+9ad
+7k7k.com/" target="_blank">7k7k游戏</a>
+                                                <a href="http://news.7k7k.com/hepingjingying/" target="_blank">和平精英</a>
+                                            </li>
+                </ul>
+            </div>
+        </div>
+                <div class="copyright">
+            <div class="a"> <a rel="nofollow" href="http://www.7k7k.com/html/about.htm">关于我们</a> | <a rel="nofollow" href="http://www.7k7k.com/html/lianxi.htm">联系方式</a> | <a rel="nofollow" href="http://www.7k7k.com/html/a.htm">广告服务</a> | <a rel="nofollow" href="http://www.7k7k.com/html/book.htm">建议留言</a> | <a rel="nofollow" href="http://www.7k7k.com/html/upload.htm">上传游戏</a> | <a rel="nofollow" href="http://www.7k7k.com/html/zhaopin.htm">招聘信息</a> | <a rel="nofollow" href="http://www.7k7k.com/html/duty.htm">使用协议</a> | <span> Copyright © 2013-2020 7k7k.com</span> </div>
+            <div class="b"> <span>京公网安备11010802021337</span> <a rel="nofollow" href="http://www.beian.miit.gov.cn/" target="_blank">ICP证京B2-20191377号</a> <a rel="nofollow" href="http://www.beian.miit.gov.cn/" target="_blank">京ICP备18058000号-2</a> <a rel="nofollow" href="http://sq.ccm.gov.cn/ccnt/sczr/service/business/emark/toDetail/7D780FC3F7B6EA77E053010A14ACD91E" target="_blank" class="wen">京网文[2018]11363-1047号</a> <a rel="nofollow" href="http://web.7k7k.com/jiazhang/">家长监护工程</a></div>
+            <div class="b"> <span>违法和不良信息举报电话：010-82602281-805</span>　 <span>举报邮箱：<a target="_self" href="mailto:jubao@7k7k.com">jubao@7k7k.com</a></span> <span>北京迦游网络科技有限公司</span> </div>
+            <div class="c"> 游戏作品版权归原作者享有，如无意之中侵犯了您的版权，请您按照<a href="http://www.7k7k.com/html/copyright.htm">《版权保护投诉指引》</a>来信告知，本网站将应您的要求删除。 </div>
+            <div class="d"> 7k7k小游戏温馨提示：适度游戏娱乐，沉迷游戏伤身，合理安排时间，享受快乐生活…… </div>
+        </div>
+        <span class="foot-cat"></span>
+    </div>
+</div>
+
+<script type="text/javascript" src="http://www.7k7kjs.cn/v2/lib/js/lazyload.min.js?v=2019082802"></script>
+<script type="text/javascript">
+$(function() {
+    var lazy = new LazyLoad({
+        elements_selector: "img[data-src]"
+    });
+});
+</script></body>
+</html>
+0
+
+ 

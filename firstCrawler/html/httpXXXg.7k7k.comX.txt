@@ -1,0 +1,920 @@
+HTTP/1.1 200 OK
+Date: Sat, 04 Jul 2020 22:13:42 GMT
+Content-Type: text/html
+Content-Length: 36402
+Connection: close
+Server: nProxy
+Last-Modified: Mon, 29 Jun 2020 12:41:49 GMT
+ETag: "5ef9e18d-8e32"
+Accept-Ranges: bytes
+X-Cache-Spec: Yes
+Age: 1680
+X-Via: 1.1 PSsdzbwt5he22:9 (Cdn Cache Server V2.0), 1.1 PS-000-01P6Q18:2 (Cdn Cache Server V2.0)
+X-Ws-Request-Id: 5f00ff16_wangt17_39936-30223
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>7k7k游戏_7k7k休闲竞技游戏大厅_7k7k游戏官网_7k7k游戏下载</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	    <meta name="Keywords" content="7k7k游戏，7k7k休闲竞技，7k7k游戏大厅，FPS游戏，网页游戏，moba游戏，休闲游戏，竞技游戏"/>
+	    <meta name="description" content="7k7k休闲竞技游戏大厅，最专业的休闲竞技游戏平台，为玩家们提供最好玩的休闲游戏，最精彩的竞技游戏，数十款只需浏览器即可畅玩的休闲竞技游戏，随时随时畅玩欢乐时光，就在7K7K休闲竞技游戏大厅。">
+	    <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" type="text/css" href="//web.7k7k.com/g/css/index.css?rev=3da80293">
+	</head>
+	<body>
+		<div class="wrap">
+	
+		<!--sidebar-->
+		<div class="Cp_sidebar">
+				<h1><a href="/" title="社区游戏平台"></a></h1>
+				<div class="fn_log">
+					<a href="javascript:;" title="登录">登录</a>
+					<a href="javascript:;" title="注册">注册</a>
+				</div>
+				<div class="fn_ser">
+					<table border="0" cellspacing="0" cellpadding="0" width="100%">
+						<tr>
+							<td rowspan="2" style="padding-right:10px"><img src="//n.7k7kimg.cn/uploads/cdn/web_sq/img/u_photo.png?v3" width="41"/></td>
+							<td><p id="sq_isvip"><span id="user_name"></span><i class="v_year noservice"><a href="./cwgz.html" target="_blank" title="贵族年费会员"></a></i><i class="v_gzhy noservice"><a href="./cwgz.html" target="_blank" title="贵族会员"></a></i></p></td>
+						</tr>
+						<tr>
+							<td><a href="//web.7k7k.com/user/">帐号管理</a>　
+								<a href="javascript:;" class="logout">退出</a>
+							</td>
+						</tr>
+					</table>
+				</div>
+				<ul class="Cp_nav">
+					<li class="navs cur cn_index">
+						<i class="icons home"></i>
+						<a href="./" class="links">首页</a>
+						<div class="clear"></div>
+					</li>
+					<li class="navs cn_magame">
+						<i class="icons mygames"></i>
+						<a href="./mygame.php" class="links">我的游戏</a>
+						<div class="clear"></div>
+						<div class="mg_scroll">
+						<ul class="mygame">
+							<!--<li>
+								<a href="">
+									<img src="//n.7k7kimg.cn/uploads/cdn/web_sq/images/mg_1.jpg" width="150" height="85" alt="特战英雄" />
+									<span>10238人在玩</span>
+								</a>
+								<i class="i_rec"></i>
+								<i class="i_del"></i>
+							</li>-->
+						</ul>
+						</div>
+					</li>
+					<li class="navs cn_allgame">
+						<i class="icons allgame"></i>
+						<a href="./allgame.html" class="links">游戏大全</a>
+						<div class="clear"></div>
+					</li>
+					<li class="navs">
+						<i class="icons charge"></i>
+						<a href="//pay.web.7k7k.com/" class="links" target="_blank">充值</a>
+						<div class="clear"></div>
+					</li>
+					<li class="navs">
+						<i class="icons server"></i>
+						<a href="//web.7k7k.com/kf/" class="links" target="_blank">客服</a>
+						<div class="clear"></div>
+					</li>
+					<li class="navs cn_cwgz">
+						<i class="icons vip"></i>
+						<a href="./cwgz.html" class="links">畅玩贵族</a>
+						<div class="clear"></div>
+					</li>
+				</ul>
+				<div class="Cp_search">
+					<input type="text" name="search" id="search" value="特战英雄" onfocus="if(value=='特战英雄'){value=''}" onblur="if(value==''){value='特战英雄'}" hidefocus="true"/>
+					<a href="javascript:;"></a>
+				</div>
+				<!--<div class="sidebar_ctrl">
+						<a href="javascript:;"></a>
+					</div>-->
+			</div>					<!--sidebar-->
+			<div class="Cp_container">
+				<div class="Cp_banner">
+					
+	                <div class="topic">
+	                    <div class="fla">
+	                        <div class="flash hwslider">
+	                            <ul class="hwslider_content">
+
+									                                <li>
+	                                    <a href="http://news.7k7k.com/mnsj/" target="_blank">
+												<img src="//n.7k7kimg.cn/uploads/gameimg/202006/e860e.jpg" width="680" height="325" alt="" class="current" />
+												<div class="game_info">
+													<h4>迷你世界&ensp;<span>9.7</span></h4>
+													<p class="game_tags">
+													<span>模拟</span><span>3D沙盒</span><span>创造</span>													</p>
+													<div class="small_pic">
+													<div class="small_cell"><div class="mh"></div><img src="//n.7k7kimg.cn/uploads/gameimg/201801/c7841.jpg"></div><div class="small_cell"><div class="mh"></div><img src="
+//n.7k7kimg.cn/uploads/gameimg/201801/73aaf.jpg"></div><div class="small_cell"><div class="mh"></div><img src="
+//n.7k7kimg.cn/uploads/gameimg/201801/6691e.jpg"></div><div class="small_cell"><div class="mh"></div><img src="
+//n.7k7kimg.cn/uploads/gameimg/201801/ddd11.jpg"></div>														</div>														
+													<div class="game_news">
+														<p class="title">最新内容：</p>
+	                                                    <p class="text"><span>迷你世界大逃杀玩法上线！冒险创造无极限！</span></p>
+													</div>
+												</div>
+											</a>
+	                                </li>
+									 	                                <li>
+	                                    <a href="//news.7k7k.com/tzyx" target="_blank">
+												<img src="//n.7k7kimg.cn/uploads/gameimg/201803/55d64.jpg" width="680" height="325" alt="" class="current" />
+												<div class="game_info">
+													<h4>特战英雄&ensp;<span>9.0</span></h4>
+													<p class="game_tags">
+													<span>FPS</span><span>大逃杀</span><span>生化</span>													</p>
+													<div class="small_pic">
+													<div class="small_cell"><div class="mh"></div><img src="//n.7k7kimg.cn/uploads/gameimg/201801/0570b.jpg"></div><div class="small_cell"><div class="mh"></div><img src="
+//n.7k7kimg.cn/uploads/gameimg/201801/a15bf.jpg"></div><div class="small_cell"><div class="mh"></div><img src="
+//n.7k7kimg.cn/uploads/gameimg/201801/01440.jpg"></div><div class="small_cell"><div class="mh"></div><img src="
+//n.7k7kimg.cn/uploads/gameimg/201801/b2801.jpg"></div>														</div>														
+													<div class="game_news">
+														<p class="title">最新内容：</p>
+	                                                    <p class="text"><span>页游绝地求生模式地图人数大升级！一秒吃鸡不等待！</span></p>
+													</div>
+												</div>
+											</a>
+	                                </li>
+									 	                                <li>
+	                                    <a href="//news.7k7k.com/pkt/" target="_blank">
+												<img src="//n.7k7kimg.cn/uploads/gameimg/201801/523db.jpg" width="680" height="325" alt="" class="current" />
+												<div class="game_info">
+													<h4>皮卡堂&ensp;<span>9.6</span></h4>
+													<p class="game_tags">
+													<span>模拟养成</span><span>换装</span><span>恋爱</span>													</p>
+													<div class="small_pic">
+													<div class="small_cell"><div class="mh"></div><img src="//n.7k7kimg.cn/uploads/gameimg/201801/a28d9.jpg"></div><div class="small_cell"><div class="mh"></div><img src="
+//n.7k7kimg.cn/uploads/gameimg/201801/e0b62.jpg"></div><div class="small_cell"><div class="mh"></div><img src="
+//n.7k7kimg.cn/uploads/gameimg/201801/29cb2.jpg"></div><div class="small_cell"><div class="mh"></div><img src="
+//n.7k7kimg.cn/uploads/gameimg/201801/17c9a.jpg"></div>														</div>														
+													<div class="game_news">
+														<p class="title">最新内容：</p>
+	                                                    <p class="text"><span>雪人王国活动火爆开启,可爱萌宠等你领取！</span></p>
+													</div>
+												</div>
+											</a>
+	                                </li>
+									 	                                <li>
+	                                    <a href="//news.7k7k.com/mhlw/?xxjj-s" target="_blank">
+												<img src="//n.7k7kimg.cn/uploads/gameimg/201912/08358.jpg" width="680" height="325" alt="" class="current" />
+												<div class="game_info">
+													<h4>天空之舞&ensp;<span>9.8</span></h4>
+													<p class="game_tags">
+													<span>音乐舞蹈</span><span>恋爱</span><span>宠物</span>													</p>
+													<div class="small_pic">
+													<div class="small_cell"><div class="mh"></div><img src="//n.7k7kimg.cn/uploads/gameimg/201912/0aa11.jpg"></div><div class="small_cell"><div class="mh"></div><img src="
+//n.7k7kimg.cn/uploads/gameimg/201912/36c66.jpg"></div><div class="small_cell"><div class="mh"></div><img src="
+//n.7k7kimg.cn/uploads/gameimg/201912/a3e9b.jpg"></div><div class="small_cell"><div class="mh"></div><img src="
+//n.7k7kimg.cn/uploads/gameimg/201912/3d17b.jpg"></div>														</div>														
+													<div class="game_news">
+														<p class="title">最新内容：</p>
+	                                                    <p class="text"><span>新年雪人大收集，精彩的奖品在等你来拿哦！</span></p>
+													</div>
+												</div>
+											</a>
+	                                </li>
+									 	                                
+	                            </ul>
+	                        </div>
+	                    </div>
+	                </div>
+					
+				
+				</div>
+				<div class="rank">
+					<h3>最多人玩</h3>
+					<ul>
+						
+												
+						<li>
+							<a href="./tosqgw.php?gameid=569" target="_blank" class="mg" data-gid="569" title="迷你世界">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201704/0c7c9.jpg" width="80" height="80" />								
+								<div class="rank_info">
+									<p>迷你世界</p>
+									<span><i>359101</i>人</span>
+								</div>
+							</a>
+						</li>
+												
+						<li>
+							<a href="./tosqgw.php?gameid=430" target="_blank" class="mg" data-gid="430" title="特战英雄">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201703/ec43a.jpg" width="80" height="80" />								
+								<div class="rank_info">
+									<p>特战英雄</p>
+									<span><i>111179</i>人</span>
+								</div>
+							</a>
+						</li>
+												
+						<li>
+							<a href="./tosqgw.php?gameid=780" target="_blank" class="mg" data-gid="780" title="逃跑吧少年">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201901/f26e4.png" width="80" height="80" />								
+								<div class="rank_info">
+									<p>逃跑吧少年</p>
+									<span><i>109048</i>人</span>
+								</div>
+							</a>
+						</li>
+												
+						<li>
+							<a href="./tosqgw.php?gameid=285" target="_blank" class="mg" data-gid="285" title="皮卡堂">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201703/104e7.jpg" width="80" height="80" />								
+								<div class="rank_info">
+									<p>皮卡堂</p>
+									<span><i>85227</i>人</span>
+								</div>
+							</a>
+						</li>
+												
+						<li>
+							<a href="./tosqgw.php?gameid=843" target="_blank" class="mg" data-gid="843" title="生死狙击(移动)">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201907/f2f92.png" width="80" height="80" />								
+								<div class="rank_info">
+									<p>生死狙击(移动)</p>
+									<span><i>50906</i>人</span>
+								</div>
+							</a>
+						</li>
+												
+						<li>
+							<a href="./tosqgw.php?gameid=470" target="_blank" class="mg" data-gid="470" title="完美漂移">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201707/4e257.gif" width="80" height="80" />								
+								<div class="rank_info">
+									<p>完美漂移</p>
+									<span><i>39650</i>人</span>
+								</div>
+							</a>
+						</li>
+																		
+					</ul>
+				
+				</div>
+				<div class="newgame">
+					
+				<div class="ct_tit">
+						
+				<h3>新游戏推荐</h3>
+					<a href="./allgame.html?s=n">更多</a>
+					
+					</div>
+					<ul>					
+												<li>
+							<div class="ng_img">
+								<a href="./tosqgw.php?gameid=852" target="_blank" class="mg" data-gid="852"><img src="//n.7k7kimg.cn/uploads/gameimg/201909/6e919.jpg" width="220" height="280" alt="" /></a>
+								<div class="ng_tit">
+									<a href="./tosqgw.php?gameid=852" target="_blank" class="mg" data-gid="852">策略塔防</a>
+									<span>9.5</span>
+								</div>
+								<div class="ng_link">
+									<div class="nl_link">
+										<a href="./tosqgw.php?gameid=852" target="_blank" class="mg" data-gid="852">游戏官网</a>
+										<a href="./tosqgw.php?gameid=852" target="_blank" class="mg" data-gid="852">开始游戏</a>
+									</div>
+									<p>
+									7526									人在玩</p>
+								</div>
+							</div>
+							<a href="./tosqgw.php?gameid=852" target="_blank" class="mg newgame_tit" data-gid="852">三国群英传</a>
+						</li>
+												<li>
+							<div class="ng_img">
+								<a href="./tosqgw.php?gameid=780" target="_blank" class="mg" data-gid="780"><img src="//n.7k7kimg.cn/uploads/gameimg/201901/56c3b.jpg" width="220" height="280" alt="" /></a>
+								<div class="ng_tit">
+									<a href="./tosqgw.php?gameid=780" target="_blank" class="mg" data-gid="780">动作射击</a>
+									<span>9.7</span>
+								</div>
+								<div class="ng_link">
+									<div class="nl_link">
+										<a href="./tosqgw.php?gameid=780" target="_blank" class="mg" data-gid="780">游戏官网</a>
+										<a href="./tosqgw.php?gameid=780" target="_blank" class="mg" data-gid="780">开始游戏</a>
+									</div>
+									<p>
+									109048									人在玩</p>
+								</div>
+							</div>
+							<a href="./tosqgw.php?gameid=780" target="_blank" class="mg newgame_tit" data-gid="780">逃跑吧少年</a>
+						</li>
+												<li>
+							<div class="ng_img">
+								<a href="./tosqgw.php?gameid=843" target="_blank" class="mg" data-gid="843"><img src="//n.7k7kimg.cn/uploads/gameimg/202006/ea426.png" width="220" height="280" alt="" /></a>
+								<div class="ng_tit">
+									<a href="./tosqgw.php?gameid=843" target="_blank" class="mg" data-gid="843">动作射击</a>
+									<span>9.9</span>
+								</div>
+								<div class="ng_link">
+									<div class="nl_link">
+										<a href="./tosqgw.php?gameid=843" target="_blank" class="mg" data-gid="843">游戏官网</a>
+										<a href="./tosqgw.php?gameid=843" target="_blank" class="mg" data-gid="843">开始游戏</a>
+									</div>
+									<p>
+									50906									人在玩</p>
+								</div>
+							</div>
+							<a href="./tosqgw.php?gameid=843" target="_blank" class="mg newgame_tit" data-gid="843">生死狙击(移动)</a>
+						</li>
+												<li>
+							<div class="ng_img">
+								<a href="./tosqgw.php?gameid=821" target="_blank" class="mg" data-gid="821"><img src="//n.7k7kimg.cn/uploads/gameimg/201905/117c8.jpg" width="220" height="280" alt="" /></a>
+								<div class="ng_tit">
+									<a href="./tosqgw.php?gameid=821" target="_blank" class="mg" data-gid="821">动作射击</a>
+									<span>9.0</span>
+								</div>
+								<div class="ng_link">
+									<div class="nl_link">
+										<a href="./tosqgw.php?gameid=821" target="_blank" class="mg" data-gid="821">游戏官网</a>
+										<a href="./tosqgw.php?gameid=821" target="_blank" class="mg" data-gid="821">开始游戏</a>
+									</div>
+									<p>
+									11141									人在玩</p>
+								</div>
+							</div>
+							<a href="./tosqgw.php?gameid=821" target="_blank" class="mg newgame_tit" data-gid="821">战地联盟</a>
+						</li>
+												<li>
+							<div class="ng_img">
+								<a href="./tosqgw.php?gameid=607" target="_blank" class="mg" data-gid="607"><img src="//n.7k7kimg.cn/uploads/gameimg/201807/a743c.jpg" width="220" height="280" alt="" /></a>
+								<div class="ng_tit">
+									<a href="./tosqgw.php?gameid=607" target="_blank" class="mg" data-gid="607">休闲养成</a>
+									<span>9.0</span>
+								</div>
+								<div class="ng_link">
+									<div class="nl_link">
+										<a href="./tosqgw.php?gameid=607" target="_blank" class="mg" data-gid="607">游戏官网</a>
+										<a href="./tosqgw.php?gameid=607" target="_blank" class="mg" data-gid="607">开始游戏</a>
+									</div>
+									<p>
+									5341									人在玩</p>
+								</div>
+							</div>
+							<a href="./tosqgw.php?gameid=607" target="_blank" class="mg newgame_tit" data-gid="607">皮卡堂3D</a>
+						</li>
+						
+
+				</ul>
+				
+				</div>
+				<!--newgame-->
+				<div class="allgame">
+					
+					<div class="ct_tit">
+						<h3>游戏大全</h3>
+						<ul>
+							
+							<li class="cur">推荐</li>
+							<li>动作射击</li>
+							<li>休闲养成</li>
+							<li>策略塔防</li>
+							<li>角色扮演</li>
+							<li>棋牌其它</li>
+							<li class="k7"><a href="//www.7k7k.com" target="_blank">小游戏</a></li>
+						</ul>
+					</div>
+					<ul class="ag_list">
+											<li class="cls0 cls1" style="display:block">
+							<a href="./tosqgw.php?gameid=430" target="_blank" class="mg" data-gid="430" title="特战英雄">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201703/ec43a.jpg" width="80" height="80"/>
+								<div class="al_info">
+									<p>
+										特战英雄									</p>
+									<span>
+										<i>111179										</i>人在玩</span>
+								</div>
+							</a>
+						</li>
+
+
+											<li class="cls0 cls2" style="display:block">
+							<a href="./tosqgw.php?gameid=470" target="_blank" class="mg" data-gid="470" title="完美漂移">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201707/4e257.gif" width="80" height="80"/>
+								<div class="al_info">
+									<p>
+										完美漂移									</p>
+									<span>
+										<i>39650										</i>人在玩</span>
+								</div>
+							</a>
+						</li>
+
+
+											<li class="cls0 cls2" style="display:block">
+							<a href="./tosqgw.php?gameid=569" target="_blank" class="mg" data-gid="569" title="迷你世界">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201704/0c7c9.jpg" width="80" height="80"/>
+								<div class="al_info">
+									<p>
+										迷你世界									</p>
+									<span>
+										<i>359101										</i>人在玩</span>
+								</div>
+							</a>
+						</li>
+
+
+											<li class="cls0 cls2" style="display:block">
+							<a href="./tosqgw.php?gameid=207" target="_blank" class="mg" data-gid="207" title="touch">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201703/2cc1f.jpg" width="80" height="80"/>
+								<div class="al_info">
+									<p>
+										touch									</p>
+									<span>
+										<i>7278										</i>人在玩</span>
+								</div>
+							</a>
+						</li>
+
+
+											<li class="cls0 cls2" style="display:block">
+							<a href="./tosqgw.php?gameid=285" target="_blank" class="mg" data-gid="285" title="皮卡堂">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201703/104e7.jpg" width="80" height="80"/>
+								<div class="al_info">
+									<p>
+										皮卡堂									</p>
+									<span>
+										<i>85227										</i>人在玩</span>
+								</div>
+							</a>
+						</li>
+
+
+											<li class="cls0 cls1" style="display:block">
+							<a href="./tosqgw.php?gameid=273" target="_blank" class="mg" data-gid="273" title="全民坦克大战">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201703/1eab5.jpg" width="80" height="80"/>
+								<div class="al_info">
+									<p>
+										全民坦克大战									</p>
+									<span>
+										<i>26585										</i>人在玩</span>
+								</div>
+							</a>
+						</li>
+
+
+											<li class="cls0 cls5" style="display:block">
+							<a href="./tosqgw.php?gameid=63" target="_blank" class="mg" data-gid="63" title="三国杀">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201702/a2d2f.jpg" width="80" height="80"/>
+								<div class="al_info">
+									<p>
+										三国杀									</p>
+									<span>
+										<i>11763										</i>人在玩</span>
+								</div>
+							</a>
+						</li>
+
+
+											<li class="cls0 cls3" style="display:block">
+							<a href="./tosqgw.php?gameid=72" target="_blank" class="mg" data-gid="72" title="美食大战老鼠">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201702/605d4.png" width="80" height="80"/>
+								<div class="al_info">
+									<p>
+										美食大战老鼠									</p>
+									<span>
+										<i>8635										</i>人在玩</span>
+								</div>
+							</a>
+						</li>
+
+
+											<li class=" cls1" style="display:none">
+							<a href="./tosqgw.php?gameid=283" target="_blank" class="mg" data-gid="283" title="炮炮兵团">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201702/d7301.jpg" width="80" height="80"/>
+								<div class="al_info">
+									<p>
+										炮炮兵团									</p>
+									<span>
+										<i>5201										</i>人在玩</span>
+								</div>
+							</a>
+						</li>
+
+
+											<li class=" cls1" style="display:none">
+							<a href="./tosqgw.php?gameid=293" target="_blank" class="mg" data-gid="293" title="3D坦克">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201702/e1f17.jpg" width="80" height="80"/>
+								<div class="al_info">
+									<p>
+										3D坦克									</p>
+									<span>
+										<i>3402										</i>人在玩</span>
+								</div>
+							</a>
+						</li>
+
+
+											<li class=" cls3" style="display:none">
+							<a href="./tosqgw.php?gameid=391" target="_blank" class="mg" data-gid="391" title="塔防联盟">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201702/3b655.png" width="80" height="80"/>
+								<div class="al_info">
+									<p>
+										塔防联盟									</p>
+									<span>
+										<i>3473										</i>人在玩</span>
+								</div>
+							</a>
+						</li>
+
+
+											<li class="cls0 cls3" style="display:block">
+							<a href="./tosqgw.php?gameid=457" target="_blank" class="mg" data-gid="457" title="村长征战团">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201702/d221f.jpg" width="80" height="80"/>
+								<div class="al_info">
+									<p>
+										村长征战团									</p>
+									<span>
+										<i>8983										</i>人在玩</span>
+								</div>
+							</a>
+						</li>
+
+
+											<li class=" cls5" style="display:none">
+							<a href="./tosqgw.php?gameid=466" target="_blank" class="mg" data-gid="466" title="推理学院">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/202005/d0de1.png" width="80" height="80"/>
+								<div class="al_info">
+									<p>
+										推理学院									</p>
+									<span>
+										<i>39295										</i>人在玩</span>
+								</div>
+							</a>
+						</li>
+
+
+											<li class="cls0 cls2" style="display:block">
+							<a href="./tosqgw.php?gameid=475" target="_blank" class="mg" data-gid="475" title="天空之舞">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201703/735c8.jpg" width="80" height="80"/>
+								<div class="al_info">
+									<p>
+										天空之舞									</p>
+									<span>
+										<i>22121										</i>人在玩</span>
+								</div>
+							</a>
+						</li>
+
+
+											<li class="cls0 cls2" style="display:block">
+							<a href="./tosqgw.php?gameid=480" target="_blank" class="mg" data-gid="480" title="就要K歌">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201703/0907f.jpg" width="80" height="80"/>
+								<div class="al_info">
+									<p>
+										就要K歌									</p>
+									<span>
+										<i>26953										</i>人在玩</span>
+								</div>
+							</a>
+						</li>
+
+
+											<li class="cls0 cls2" style="display:block">
+							<a href="./tosqgw.php?gameid=504" target="_blank" class="mg" data-gid="504" title="乐乐堂大作战">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201809/d358b.png" width="80" height="80"/>
+								<div class="al_info">
+									<p>
+										乐乐堂大作战									</p>
+									<span>
+										<i>95										</i>人在玩</span>
+								</div>
+							</a>
+						</li>
+
+
+											<li class=" cls2" style="display:none">
+							<a href="./tosqgw.php?gameid=546" target="_blank" class="mg" data-gid="546" title="千炮版捕鱼世纪">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201702/d81d9.jpg" width="80" height="80"/>
+								<div class="al_info">
+									<p>
+										千炮版捕鱼世...									</p>
+									<span>
+										<i>298										</i>人在玩</span>
+								</div>
+							</a>
+						</li>
+
+
+											<li class=" cls4" style="display:none">
+							<a href="./tosqgw.php?gameid=552" target="_blank" class="mg" data-gid="552" title="第一舰队">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201703/79fea.jpg" width="80" height="80"/>
+								<div class="al_info">
+									<p>
+										第一舰队									</p>
+									<span>
+										<i>513										</i>人在玩</span>
+								</div>
+							</a>
+						</li>
+
+
+											<li class="cls0 cls3" style="display:block">
+							<a href="./tosqgw.php?gameid=553" target="_blank" class="mg" data-gid="553" title="三国群雄传">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201704/0735e.jpg" width="80" height="80"/>
+								<div class="al_info">
+									<p>
+										三国群雄传									</p>
+									<span>
+										<i>4415										</i>人在玩</span>
+								</div>
+							</a>
+						</li>
+
+
+											<li class="cls0 cls2" style="display:block">
+							<a href="./tosqgw.php?gameid=607" target="_blank" class="mg" data-gid="607" title="皮卡堂3D">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201709/835bc.jpg" width="80" height="80"/>
+								<div class="al_info">
+									<p>
+										皮卡堂3D									</p>
+									<span>
+										<i>5341										</i>人在玩</span>
+								</div>
+							</a>
+						</li>
+
+
+											<li class=" cls4" style="display:none">
+							<a href="./tosqgw.php?gameid=626" target="_blank" class="mg" data-gid="626" title="贪婪洞窟">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201711/4cae5.png" width="80" height="80"/>
+								<div class="al_info">
+									<p>
+										贪婪洞窟									</p>
+									<span>
+										<i>173										</i>人在玩</span>
+								</div>
+							</a>
+						</li>
+
+
+											<li class="cls0 cls2" style="display:block">
+							<a href="./tosqgw.php?gameid=635" target="_blank" class="mg" data-gid="635" title="宝藏世界">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201712/95eab.jpg" width="80" height="80"/>
+								<div class="al_info">
+									<p>
+										宝藏世界									</p>
+									<span>
+										<i>1881										</i>人在玩</span>
+								</div>
+							</a>
+						</li>
+
+
+											<li class=" cls2" style="display:none">
+							<a href="./tosqgw.php?gameid=490" target="_blank" class="mg" data-gid="490" title="捕鱼大赛">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201703/1fc4f.jpg" width="80" height="80"/>
+								<div class="al_info">
+									<p>
+										捕鱼大赛									</p>
+									<span>
+										<i>47										</i>人在玩</span>
+								</div>
+							</a>
+						</li>
+
+
+											<li class="cls0 cls4" style="display:block">
+							<a href="./tosqgw.php?gameid=646" target="_blank" class="mg" data-gid="646" title="魔霸幻想之全明星">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201805/5ef00.jpg" width="80" height="80"/>
+								<div class="al_info">
+									<p>
+										魔霸幻想之全...									</p>
+									<span>
+										<i>345										</i>人在玩</span>
+								</div>
+							</a>
+						</li>
+
+
+											<li class="cls0 cls3" style="display:block">
+							<a href="./tosqgw.php?gameid=672" target="_blank" class="mg" data-gid="672" title="战就战">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201904/da695.png" width="80" height="80"/>
+								<div class="al_info">
+									<p>
+										战就战									</p>
+									<span>
+										<i>1987										</i>人在玩</span>
+								</div>
+							</a>
+						</li>
+
+
+											<li class="cls0 cls1" style="display:block">
+							<a href="./tosqgw.php?gameid=676" target="_blank" class="mg" data-gid="676" title="警戒风暴">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201904/786ab.png" width="80" height="80"/>
+								<div class="al_info">
+									<p>
+										警戒风暴									</p>
+									<span>
+										<i>205										</i>人在玩</span>
+								</div>
+							</a>
+						</li>
+
+
+											<li class="cls0 cls5" style="display:block">
+							<a href="./tosqgw.php?gameid=761" target="_blank" class="mg" data-gid="761" title="三国杀（新区）">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201812/ebf85.jpg" width="80" height="80"/>
+								<div class="al_info">
+									<p>
+										三国杀（新区...									</p>
+									<span>
+										<i>1350										</i>人在玩</span>
+								</div>
+							</a>
+						</li>
+
+
+											<li class="cls0 cls1" style="display:block">
+							<a href="./tosqgw.php?gameid=780" target="_blank" class="mg" data-gid="780" title="逃跑吧少年">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201901/f26e4.png" width="80" height="80"/>
+								<div class="al_info">
+									<p>
+										逃跑吧少年									</p>
+									<span>
+										<i>109048										</i>人在玩</span>
+								</div>
+							</a>
+						</li>
+
+
+											<li class="cls0 cls1" style="display:block">
+							<a href="./tosqgw.php?gameid=803" target="_blank" class="mg" data-gid="803" title="不朽之城">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201904/b84f7.png" width="80" height="80"/>
+								<div class="al_info">
+									<p>
+										不朽之城									</p>
+									<span>
+										<i>121										</i>人在玩</span>
+								</div>
+							</a>
+						</li>
+
+
+											<li class="cls0 cls1" style="display:block">
+							<a href="./tosqgw.php?gameid=821" target="_blank" class="mg" data-gid="821" title="战地联盟">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201905/c7f23.jpg" width="80" height="80"/>
+								<div class="al_info">
+									<p>
+										战地联盟									</p>
+									<span>
+										<i>11141										</i>人在玩</span>
+								</div>
+							</a>
+						</li>
+
+
+											<li class="cls0 cls1" style="display:block">
+							<a href="./tosqgw.php?gameid=838" target="_blank" class="mg" data-gid="838" title="欢乐块队">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201906/a3c39.png" width="80" height="80"/>
+								<div class="al_info">
+									<p>
+										欢乐块队									</p>
+									<span>
+										<i>22										</i>人在玩</span>
+								</div>
+							</a>
+						</li>
+
+
+											<li class="cls0 cls4" style="display:block">
+							<a href="./tosqgw.php?gameid=841" target="_blank" class="mg" data-gid="841" title="飘渺西游">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201905/12a59.png" width="80" height="80"/>
+								<div class="al_info">
+									<p>
+										飘渺西游									</p>
+									<span>
+										<i>215										</i>人在玩</span>
+								</div>
+							</a>
+						</li>
+
+
+											<li class="cls0 cls1" style="display:block">
+							<a href="./tosqgw.php?gameid=843" target="_blank" class="mg" data-gid="843" title="生死狙击(移动)">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201907/f2f92.png" width="80" height="80"/>
+								<div class="al_info">
+									<p>
+										生死狙击(移...									</p>
+									<span>
+										<i>50906										</i>人在玩</span>
+								</div>
+							</a>
+						</li>
+
+
+											<li class="cls0 cls1" style="display:block">
+							<a href="./tosqgw.php?gameid=845" target="_blank" class="mg" data-gid="845" title="枪魂">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201906/c6bda.png" width="80" height="80"/>
+								<div class="al_info">
+									<p>
+										枪魂									</p>
+									<span>
+										<i>2447										</i>人在玩</span>
+								</div>
+							</a>
+						</li>
+
+
+											<li class=" cls5" style="display:none">
+							<a href="./tosqgw.php?gameid=847" target="_blank" class="mg" data-gid="847" title="部落自走棋">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201906/7e7af.png" width="80" height="80"/>
+								<div class="al_info">
+									<p>
+										部落自走棋									</p>
+									<span>
+										<i>926										</i>人在玩</span>
+								</div>
+							</a>
+						</li>
+
+
+											<li class="cls0 cls3" style="display:block">
+							<a href="./tosqgw.php?gameid=852" target="_blank" class="mg" data-gid="852" title="三国群英传">
+								<img src="//n.7k7kimg.cn/uploads/gameimg/201909/2726e.png" width="80" height="80"/>
+								<div class="al_info">
+									<p>
+										三国群英传									</p>
+									<span>
+										<i>7526										</i>人在玩</span>
+								</div>
+							</a>
+						</li>
+
+
+										
+						<div class="clear"></div>
+					
+						</ul>
+				
+						</div>
+				<!--allgame-->
+				<!--div class="game_tv">
+					<div class="ct_tit">
+						<h3>游戏直播</h3>
+						<a href="http://www.feiyun.tv/" target="_blank">更多</a>
+					</div>
+					<ul>
+						<<li>
+							<a href="">
+								<img src="http://n.7k7kimg.cn/uploads/cdn/web_sq/images/tv/tv_13.jpg" width="220" height="126"/>
+								<img src="http://n.7k7kimg.cn/uploads/cdn/web_sq/images/allgame/ag_13.png" class="photo" width="50" height="50"/>
+							</a>
+							<div class="tv_info">
+								<p>来来来，飞机给房管！</p>
+								<span class="gname">阴阳师</span>
+								<div class="clear"></div>
+								<span class="rname">我叫主席此</span>
+								<span class="view">1.2W</span>
+							</div>
+						</li>>
+					
+					</ul>
+				</div-->
+				<!--game_tv-->
+				<!--footer-->
+				<div class="footer">
+	<p>Copyright © 2003-2019 web.7k7k.com 北京迦游网络科技有限公司版权所有   商务合作QQ：1520915515　投诉邮箱：kefu@7k7k.com</p>
+	<p>
+		京公网安备11010802021337 &nbsp;&nbsp;&nbsp;
+		<a rel="nofollow" target="_blank" href="http://beian.miit.gov.cn/"> 京ICP备18058000号-2</a>&nbsp;&nbsp;&nbsp;
+		<a rel="nofollow" target="_blank" href="http://beian.miit.gov.cn/" class="wen"> ICP证京B2-20191377号</a>&nbsp;&nbsp;&nbsp;
+		<a rel="nofollow" target="_blank" href="http://sq.ccm.gov.cn/ccnt/sczr/service/business/emark/toDetail/7D780FC3F7B6EA77E053010A14ACD91E" class="wen">京网文[2018]11363-1047 号</a>&nbsp;&nbsp;&nbsp;
+		<a target="_blank" href="http://web.7k7k.com/jiazhang/">家长监护工程</a>
+	</p>
+	<p class="tip"> 健康游戏公告：抵制不良游戏，拒绝盗版游戏。 注意自我保护，谨防受骗上当。 适度游戏益脑，沉迷游戏伤身。 合理安排时间，享受健康生活。</p>
+</div>				<!--footer end-->
+			</div>
+			<div class="clear"></div>
+		</div>
+		<script src="//libs.baidu.com/jquery/1.7.2/jquery.min.js"></script>
+		<script src="//n.7k7kimg.cn/uploads/cdn/api/js/hwSlider.min.js" type="text/javascript" charset="utf-8"></script>
+		<script type="text/javascript" src="//n.7k7kimg.cn/uploads/cdn/api/loginPlus/js/logFn_dm.min.js?vv0.2.871593434509"></script>
+		<script type="text/javascript" src="//n.7k7kimg.cn/uploads/cdn/api/layer/layer.js"></script>
+		<script src="//web.7k7k.com/g/js/index.js?rev=e4622737"></script>
+		<script type="text/javascript">
+			SQ.conf({
+				pageType:'index',
+				sitebarColor: "blue",
+			});
+			$(function(){
+				$('.Cp_container .ct_tit .k7').unbind('click')
+			});
+		</script>
+		<script>
+			var _hmt = _hmt || [];
+			(function() {
+			  var hm = document.createElement("script");
+			  hm.src = "https://hm.baidu.com/hm.js?2cc039dda4311ed9739f2308bd58c84e";
+			  var s = document.getElementsByTagName("script")[0]; 
+			  s.parentNode.insertBefore(hm, s);
+			})();
+		</script>
+	</body>
+</html>
+ 

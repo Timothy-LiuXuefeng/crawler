@@ -1,0 +1,2581 @@
+HTTP/1.1 200 OK
+Date: Sat, 04 Jul 2020 22:11:49 GMT
+Content-Type: text/html;charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Expires: Sat, 04 Jul 2020 22:45:26 GMT
+Server: nProxy
+Cache-Control: max-age=3600
+Cache-Control: private
+X-Cache-Spec: Yes
+Age: 1583
+X-Via: 1.1 PSbjwjBGP2ya178:5 (Cdn Cache Server V2.0), 1.1 PShnzssxbe168:10 (Cdn Cache Server V2.0), 1.1 PShnlhwt2rd38:2 (Cdn Cache Server V2.0), 1.1 PS-000-01QeV19:10 (Cdn Cache Server V2.0)
+X-Ws-Request-Id: 5f00fea5_wangt17_40054-24526
+
+3139
+<!doctype html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <title>麻将游戏_麻将_麻将连连看_麻将小游戏</title>
+    <meta name="Description" content="7k7k麻将专题提供麻将游戏单机版,打麻将,二人麻将,麻将移移看,上海麻将连连看,四川麻将,麻将单机版下载,二人麻将小游戏,美女麻将,打麻将小游戏,单机麻将下载,单机麻将,北京麻将,新上海麻将,双人麻将,北京麻将小游戏,上海麻将,美女麻将单机版等精品小游戏，希望您喜欢。"  />
+    <meta name="Keywords" content="麻将游戏,麻将"  />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="mobile-agent" content="format=html5;url=http://m.7k7k.com/flash_tag/72/" />
+    <meta name="mobile-agent" content="format=xhtml;url=http://m.7k7k.com/flash_tag/72/" />
+    <meta http-equiv="Cache-Control" content="no-transform" />
+        <meta property="og:type" content="image"/>
+    <meta property="og:image" content="http://i5.7k7kimg.cn/cms/cms10/20130506/113654_7621.jpg"/ >
+        <base target="_blank"/><!--[if lte IE 6]></base><![endif]-->
+    <link href="/favicon.ico" rel="icon" type="image/x-icon" />
+    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link rel="stylesheet" href="http://www.7k7kjs.cn/mainsite/css/qike.min.018.css">
+    <link rel="stylesheet" href="http://www.7k7kjs.cn/mainsite/css/base.min.013.css">
+    <link rel="stylesheet" href="http://www.7k7kjs.cn/mainsite/css/trans.min.026.css">
+    <link rel="stylesheet" href="http://www.7k7kjs.cn/zixun/2015/indexzeze/css/tag20170704.css">
+    <script>
+var value = new RegExp( "(?:^|; )" + "current_decorate" + "=([^;]*)" ).exec(document.cookie);
+
+value = value ? value[1] : null;
+var dec_id ,
+    passedtime;
+
+if(value){
+    value = value.split('|');
+    dec_id = value[0];
+    passedtime = value[1];
+}
+dec_id = (typeof dec_id === 'undefined' || dec_id === '000') ? 'tag' : dec_id;
+
+document.write('<link id="dec-css" rel="stylesheet" href="http://www.7k7kjs.cn/mainsite/css/skin/'+dec_id+'/skin.css">')
+</script>
+    <script>document.domain = "7k7k.com";
+      var _gamesuit = 2;
+    </script>
+    <style>
+    .span22 li{
+       width: 86px;
+       margin:0 5px 5px；
+
+    }
+    </style>
+</head>
+<body class="theme-blue">
+<script type="text/javascript" src="http://cjhd.mediav.com/js/interactive_plugin.js"></script>
+<script type="text/javascript" src="//www.7k7kjs.cn/js/uaredirect.js"></script>
+<!-- <script>
+INTERACTIVE_PLUGIN.render({
+    showid: 'JzHmVL',
+    w: 80, //w 为宽，媒体可以自主更改
+    h: 80, //h 为高，媒体可以自主更改
+    type: 'hover',
+    placeholderId: 'ad_360', // 必填
+    hoverDefine: {zIndex: 9999}
+});
+</script> -->
+<div id="ad_360" style="position:fixed;left:70px;top:50px;z-index:99;position:fixed;_position:absolute;_top:expression(eval(document.documentElement.scrollTop-50));"></div>
+<div class="ui-top-nav">
+    <div class="ui-top-nav-inner">
+        <div class="wrap" id = "nav-wrap">
+            <div class="site-link">
+                <div class="logo">
+                    <a class="logo-bg" href="/" title="7k7k小游戏" target="_self">7k7k小游戏</a>
+                    <a href="/" target="_self" class="icon i-home"></a>
+                </div>
+                <div class="search">
+                <form target="_blank" method="get" name="header_so" action="http://so.7k7k.com/game/">
+                    <div class="sug-wrap">
+                        <i class="icon i-zoom"></i>
+                        <input type="text" class="s-text" placeholder="" name="k" autocomplete="off">
+                        <span class="s-submit-wrap"><button type="submit" class="s-submit" value="">搜索</button></span>
+						<div class="sug-auto-complete" style="display:none;">
+                            <div class="sug-auto-list">
+                                <dl class="sug-history">
+                                    <dt>最近搜索</dt>
+                                </dl>
+                                <dl class="sug-hot">
+                                    <dt>热门搜索</dt>
+                                </dl>
+                                <div class="s-result" style="display:none;">
+                                    <p><a href="http://so.7k7k.com" target="_blank">搜索：<span class="mywords"></span></a></p>
+                                    <ul class="ui-img-text">
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+                </div>
+            </div>
+            <ul class="site-link">
+                 <li class="nav-list" id="btn-nav-list">
+                     <a href="#" target="_self"> <i class="icon i-nav"></i>导航<i class="css-arrow"></i></a>
+                 </li>
+            </ul>
+
+            <ul class="site-link user-area" id="login-in" style="display:none">
+                 <li class="first user-name">
+                     <a href="http://my.7k7k.com/" target="_blank"> <img class="photo" width="16" height="16" data-align="bc-tc" data-uid="35000354" title="" src=""></a>
+                     <i class="css-arrow"></i>
+                 </li>
+                 <li class="nav-history" id="btn-played" data-recommend="196941|3D坦克|http://web.7k7k.com/games/3dtk/,198167|小小勇士|http://h5.7k7k.com/playGameOnpc/?gid=2d7b8138c4085713e60afa73ae29afa7&tid=15246,196320|战地联盟|http://g.7k7k.com/games/W01953/?tuijian,197405|枪魂|http://g.7k7k.com/games/W02003/?wan,178765|三国杀|http://news.7k7k.com/sgs/?rm,162640|炮炮兵团|http://news.7k7k.com/ppbt/?wan,197188|部落自走棋|http://g.7k7k.com/games/W02007/,179670|天黑请闭眼|http://news.7k7k.com/ssol/?rm,162952|村长征战团|http://news.7k7k.com/czzzt/?wan,179665|三国群雄传|http://news.7k7k.com/sgqxz/?wan,197295|不思议地下城|http://h5.7k7k.com/playGameOnpc/?gid=160d54f3e5e754ccdedac4aa6c1bc509&tid=6399,158867|塔防联盟|http://news.7k7k.com//tflm/?rm,179671|天空之舞|http://news.7k7k.com/mhlw/?wan,197518|飘渺西游|http://g.7k7k.com/games/W01991/,152309|组装金刚侠|/flash/152309.htm,161923|美食大战老鼠|http://news.7k7k.com/msdzls/,188370|皮卡堂洗澡堂|http://news.7k7k.com/pkt/?wan,179674|第一舰队|http://news.7k7k.com/dyjd/?wan,179660|特战英雄|http://news.7k7k.com/tzyx/?wan,168905|完美漂移|http://news.7k7k.com/wmpy/?wan,176452|坦克联盟|http://tklm.7k7k.com/?wan,122751|购物狂进军伦敦|/flash/122751.htm,133469|猜歌王正式版|/flash/133469.htm,141635|千里追女友|/flash/141635.htm,109081|狼牙特种狙击队|/flash/109081.htm,152447|3D超级竞速3|/flash/152447.htm,135115|生化危机行动|/flash/135115.htm,142119|小人冒险4|/flash/142119.htm,148296|幻影车神|/flash/148296.htm,132467|乐高幻影忍者|/flash/132467.htm,64933|植物大战僵尸塔防版|/flash/64933.htm,68962|疯狂过山车2|/flash/68962.htm,197891|火柴人神器之战2|/flash/197891.htm,126321|英勇消防员|/flash/126321.htm,184154|恐龙化石考古挖掘|/flash/184154.htm,199288|画条腿快跑|/flash/199288.htm">
+                     <a href="#"><i class="i-history"></i>我玩过的<i class="css-arrow"></i></a>
+                 </li>
+                 <li class="nav-collection">
+                     <a href="http://my.7k7k.com/game/my/faved" target="_blank"><i class="i-collection"></i>我收藏的</a>
+                 </li>
+                 <!-- <li class="decorate" id="btn-decorate">
+                     <a href="#" target="_self"><i class="icon i-decorate"></i>装扮</a>
+                 </li> -->
+            </ul>
+
+            <ul class="site-link user-area" id="login-out">
+                 <li class="first">
+                     <a href="#bottom" id="login-btn" target="_self"> <i class="icon i-login"></i>登录</a>
+                 </li>
+                 <li>
+                     <a target="_blank" href="http://zc.7k7k.com/">注册</a>
+                 </li>
+                 <li class="nav-history" id="btn-played-unlogin" data-recommend="196941|3D坦克|http://web.7k7k.com/games/3dtk/,198167|小小勇士|http://h5.7k7k.com/playGameOnpc/?gid=2d7b8138c4085713e60afa73ae29afa7&tid=15246,196320|战地联盟|http://g.7k7k.com/games/W01953/?tuijian,197405|枪魂|http://g.7k7k.com/games/W02003/?wan,178765|三国杀|http://news.7k7k.com/sgs/?rm,162640|炮炮兵团|http://news.7k7k.com/ppbt/?wan,197188|部落自走棋|http://g.7k7k.com/games/W02007/,179670|天黑请闭眼|http://news.7k7k.com/ssol/?rm,162952|村长征战团|http://news.7k7k.com/czzzt/?wan,179665|三国群雄传|http://news.7k7k.com/sgqxz/?wan,197295|不思议地下城|http://h5.7k7k.com/playGameOnpc/?gid=160d54f3e5e754ccdedac4aa6c1bc509&tid=6399,158867|塔防联盟|http://news.7k7k.com//tflm/?rm,179671|天空之舞|http://news.7k7k.com/mhlw/?wan,197518|飘渺西游|http://g.7k7k.com/games/W01991/,152309|组装金刚侠|/flash/152309.htm,161923|美食大战老鼠|http://news.7k7k.com/msdzls/,188370|皮卡堂洗澡堂|http://news.7k7k.com/pkt/?wan,179674|第一舰队|http://news.7k7k.com/dyjd/?wan,179660|特战英雄|http://news.7k7k.com/tzyx/?wan,168905|完美漂移|http://news.7k7k.com/wmpy/?wan,176452|坦克联盟|http://tklm.7k7k.com/?wan,122751|购物狂进军伦敦|/flash/122751.htm,133469|猜歌王正式版|/flash/133469.htm,141635|千里追女友|/flash/141635.htm,109081|狼牙特种狙击队|/flash/109081.htm,152447|3D超级竞速3|/flash/152447.htm,135115|生化危机行动|/flash/135115.htm,142119|小人冒险4|/flash/142119.htm,148296|幻影车神|/flash/148296.htm,132467|乐高幻影忍者|/flash/132467.htm,64933|植物大战僵尸塔防版|/flash/64933.htm,68962|疯狂过山车2|/flash/68962.htm,197891|火柴人神器之战2|/flash/197891.htm,126321|英勇消防员|/flash/126321.htm,184154|恐龙化石考古挖掘|/flash/184154.htm,199288|画条腿快跑|/flash/199288.htm">
+                     <a href="#" target="_self"><i class="i-history"></i>我玩过的<i class="css-arrow"></i></a>
+                 </li>
+                 <!-- <li class="decorate" id="btn-decorate">
+                     <a href="#" target="_self"><i class="icon i-decorate"></i>装扮</a>
+                 </li> -->
+            </ul>
+
+            <div class="vip-login-tips">
+                <span class="close" onclick="$(this).parent().hide();"></span>
+            </div>
+
+			<div class="menu-box nav-list-cont" id="cont-nav-list" style="display:none;width:150px;">
+				<dl>
+					<dt>小游戏</dt>
+					<dd><a href="/mm.htm">女生</a> <a href="/tag/134/">过关</a> <a href="/td.html">塔防</a> <a href="/flash_fl/485_1.htm">休闲</a> <a href="/act.html">动作</a> <a href="/flash_fl/461_1.htm">冒险</a> <a href="/flash_fl/499_1.htm">换装</a> <a href="/flash_fl/459_1.htm">射击</a> <a href="/flash_fl/491_1.htm">战争</a> <a href="/tag/62/">双人</a> <a href="/flash_fl/456_1.htm">益智</a> <a href="/flash_fl/458_1.htm">体育</a> <a href="/tag/92/">棋牌</a> <a href="http://www.7k7k.com/chengguang.html" target="_blank">橙光</a></dd>
+
+					<dd class="gray-bg"><a href="http://news.7k7k.com/">儿童游戏</a><a href="http://www.7k.cn/html/download.html?source=pc">手机游戏</a> <a href="http://web.7k7k.com/">网页游戏</a><a href="http://g.7k7k.com/">游戏大厅</a></dd>
+				</dl>
+			 </div><!-- select-content -->
+
+			<div class="menu-box user-name-menu" id="user-name-menu" style="display:none;width:150px;">
+				<ul class="user-nav">
+					<li><a target="_blank" href="http://my.7k7k.com/message/letter/"><i class="i-nav-msg"></i>我的消息<i class="msg-tip">●</i></a></li>
+					<li><a target="_blank" href="http://my.7k7k.com/setting/"><i class="i-nav-set"></i>账号设置</a></li>
+					<li><a target="_blank" href="http://my.7k7k.com/friend/"><i class="i-nav-fri"></i>我的好友</a></li>
+					<li><a href="#" id="login-quit" target="_self">退出</a></li>
+				</ul>
+			 </div><!-- select-content -->
+
+
+
+            <div class="menu-box nav-history-list" id="cont-played" style="display:none;width:307px;top:38px;right:0;">
+                <div class="his-nothing-tip"></div>
+                <ul class="ui-img-list span7">
+                </ul>
+                <div class="func-area">
+                    <div class="ui-slide-trigger3 ui-slide">
+                        <ul class="ui-slide-trigger2">
+                            <li class="current">●</li>
+                            <li class="">●</li>
+
+b68
+                            <li class="">●</li>
+                        </ul>
+                        <i class="ui-slide-btn-left"></i>
+                        <i class="ui-slide-btn-right"></i>
+                    </div>
+                    
+                    <div class="fr">
+                        <a href="http://my.7k7k.com/game/my/played/" target="_blank"><i class="icon i-more"></i>更多</a>
+                        <a style="display:none;" href="#">登录7k7k读取更多记录<i class="icon i-arrow-gray"></i></a>
+                    </div>
+                </div>
+             </div><!-- select-content -->
+
+        </div>
+    </div>
+</div><!-- ui-top-nav -->
+
+<div class="page">
+  <div class="main-box change-width">
+    <div class="main-left-box">
+    <div class="main-menu wrap margin-t mb8"  id="player-body-wrap">
+       
+        <style>
+            /* .sub-nav-cont li .i-hot {
+                position: absolute;
+                right: -5px;
+                top: -17px !important;
+                height: 17px;
+                color: #fff;
+                padding: 1px;
+                text-align: center;
+                width: 80px;
+            } */
+            .sub-nav-cont li .i-hot {
+                position: absolute;
+                right: -5px;
+                top: -17px !important;
+                height: 17px;
+                color: #fff;
+                padding: 1px;
+                text-align: center;
+                padding-right: 4px;
+                width: 79px;
+            }
+            .sub-nav-cont div{
+                position: absolute;
+                right: 0;
+                top: -3px;
+                width:66px;
+                /* width: 54px; */
+                /* border: 1px solid #ffdada; */
+                background: #ff6701;
+                border-radius: 3px;
+                /* padding: 5px; */
+                /* box-sizing: border-box; */
+
+            }
+            .sub-nav-cont li .i-hot .text{
+                position:absolute;
+                left:4px;
+                letter-spacing: 1px;
+            }
+            .sub-nav-cont .sanjiao{
+                position: absolute;
+                right: 20px;
+                bottom: 21px;
+                width: 54px;
+                margin-left: 10px;
+                width: 0;
+                height: 0;
+                border-width: 6px;
+                border-style: solid;
+                border-color: #ff6701 transparent transparent transparent;
+                border-radius: 3px;
+
+          }
+          .main-menu .sub-nav{
+            margin-top:26px !important;
+         }
+
+         /* 0306 修改头部标签小心的样式 */
+        /* heart */
+            :root {
+            --heart-color:#fff;
+            }
+            .sub-nav-cont li .i-hot .heart{
+            display: inline-block;
+            position: absolute;
+            width: 6px;
+            height: 6px;
+           
+3900
+ background-color: var(--heart-color,red);
+            transform: rotate(-45deg);
+            top: 8px;
+            right: 5px;
+            }
+            .sub-nav-cont li .i-hot .heart::before,
+            .sub-nav-cont li .i-hot .heart::after {
+            content: '';
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            border-radius: 50%;
+            background-color: var(--heart-color,red);;
+            }
+            .sub-nav-cont li .i-hot .heart::before{
+            top: -50%;
+            left: 0;
+            }
+        
+       /* heart */
+
+
+     </style>
+        <div class="sub-nav cf">
+            <ul class="sub-nav-cont nav-left">
+                <li><a href="http://www.7k7k.com/" target="_self">首页</a></li>
+                <li><a href="/mm.htm" target="_self">女生</a><b></b></li>
+                <li ><a href="/tag/134/" target="_self">过关</a><b></b></li>
+                <li><a href="/td.html" target="_self">塔防</a><b></b></li>
+                <li ><a href="/flash_fl/485_1.htm" target="_self">休闲</a><b></b></li>
+                <li ><a href="/flash_fl/478_1.htm" target="_self">动作</a><b></b></li>
+                <li ><a href="/flash_fl/461_1.htm" target="_self">冒险</a><b></b></li>
+                <li ><a href="/flash_fl/499_1.htm" target="_self">换装</a><b></b></li>
+				<li><a href="http://www.7k7k.com/chengguang.html" target="_self">橙光</a><b></b></li>
+                <li ><a href="/flash_fl/459_1.htm" target="_self">射击</a><b></b></li>
+                <li ><a href="/flash_fl/491_1.htm" target="_self">战争</a><b></b></li>
+                <li ><a href="/tag/62/" target="_self">双人</a><b></b></li>
+                <li ><a href="/flash_fl/456_1.htm" target="_self">益智</a><b></b></li>
+                <li ><a href="/tag/92/" target="_self">棋牌</a></li>
+            </ul>
+            <ul class="sub-nav-cont nav-right">
+                <!-- <li class="webgame active"><a href="http://news.7k7k.com/" target="_blank">游戏资讯</a><i class="icon i-hot" style="display:none;"></i><b></b></li> -->
+                <li class="webgame active"><a href="http://www.7k7k.com/tag/3271/" target="_blank">H5游戏</a><b></b></li>
+                <li class="webgame active"><a href="http://web.7k7k.com/" target="_blank">网页游戏</a><b></b></li>
+                <li class="webgame active"><a href="http://g.7k7k.com/" target="_blank">游戏大厅<i class="icon"></i></a><b></b></li>
+                <li class="webgame active"><a href="http://www.7k7k.com/avg/#/?daohang" target="_blank">易次元</a><div class="icon i-hot" style="display:block;"><span class="text">做自己的主角</span></div><i class="sanjiao"></i></li>
+                
+            </ul>
+        </div><!-- sub-nav -->
+
+        <div class="crumbs">
+            <a href="http://www.7k7k.com/" target="_blank">7k7k小游戏</a> &gt; <a href="/tag/72/" target="_self">麻将</a>
+        </div><!-- crumbs -->
+         <!-- 标签页顶部---游戏大厅下边的小图-->
+ <div style="height:100px;margin:0 auto;background:#fff; border: 1px solid #f2f2f2;padding:10px;"> 
+      <div class="box-bd">
+          <div class="ui-img-cont index-sp-iframe-ad-wrap">
+          <ul class="ui-img-list span22 " style="margin-bottom:5px !important;">
+                        <li>
+              <a href="http://g.7k7k.com/games/sgqyz/?xxrm-tag" target="_blank">
+                <img lz_src="http://i2.7k7kimg.cn/cms/cms10/20190906/143254_1908.jpg" alt="三国群英传" width="76" height="77" src="http://i2.7k7kimg.cn/cms/cms10/20190906/143254_1908.jpg">
+                <span class="ui-li-name">三国群英传</span>
+              </a>
+            </li>
+                        <li>
+              <a href="http://g.7k7k.com/games/W01996/?xxrm-tag" target="_blank">
+                <img lz_src="http://i5.7k7kimg.cn/cms/cms10/20171018/112113_3588.jpg" alt="生死狙击HD" width="76" height="77" src="http://i5.7k7kimg.cn/cms/cms10/20171018/112113_3588.jpg">
+                <span class="ui-li-name">生死狙击HD</span>
+              </a>
+            </li>
+                        <li>
+              <a href="http://www.7k7k.com/avg/#/?xxrm-tag" target="_blank">
+                <img lz_src="http://i1.7k7kimg.cn/cms/cms10/20200616/195405_7730.jpg" alt="次元妄想症" width="76" height="77" src="http://i1.7k7kimg.cn/cms/cms10/20200616/195405_7730.jpg">
+                <span class="ui-li-name">次元妄想症</span>
+              </a>
+            </li>
+                        <li>
+              <a href="http://news.7k7k.com/lskg/?xxrm-tag" target="_blank">
+                <img lz_src="http://i5.7k7kimg.cn/cms/cms10/20190730/162727_8548.jpg" alt="就要K歌" width="76" height="77" src="http://i5.7k7kimg.cn/cms/cms10/20190730/162727_8548.jpg">
+                <span class="ui-li-name">就要K歌</span>
+              </a>
+            </li>
+                        <li>
+              <a href="http://news.7k7k.com/pkt3d/?xxrm-tag" target="_blank">
+                <img lz_src="http://i2.7k7kimg.cn/cms/cms10/20180704/141135_9225.jpg" alt="恋与家园" width="76" height="77" src="http://i2.7k7kimg.cn/cms/cms10/20180704/141135_9225.jpg">
+                <span class="ui-li-name">恋与家园</span>
+              </a>
+            </li>
+                        <li>
+              <a href="http://news.7k7k.com/mnsj/?xxrm-tag" target="_blank">
+                <img lz_src="http://i3.7k7kimg.cn/cms/cms10/20171016/164431_7640.jpg" alt="迷你世界" width="76" height="77" src="http://i3.7k7kimg.cn/cms/cms10/20171016/164431_7640.jpg">
+                <span class="ui-li-name">迷你世界</span>
+              </a>
+            </li>
+                        <li>
+              <a href="http://news.7k7k.com/wmpy/?xxrm-tag" target="_blank">
+                <img lz_src="http://i1.7k7kimg.cn/cms/cms10/20190605/175316_4227.jpg" alt="完美漂移" width="76" height="77" src="http://i1.7k7kimg.cn/cms/cms10/20190605/175316_4227.jpg">
+                <span class="ui-li-name">完美漂移</span>
+              </a>
+            </li>
+                        <li>
+              <a href="http://g.7k7k.com/games/W01953/?xxrm-tag" target="_blank">
+                <img lz_src="http://i3.7k7kimg.cn/cms/cms10/20190523/154722_8066.jpg" alt="战地联盟" width="76" height="77" src="http://i3.7k7kimg.cn/cms/cms10/20190523/154722_8066.jpg">
+                <span class="ui-li-name">战地联盟</span>
+              </a>
+            </li>
+                        <li>
+              <a href="http://news.7k7k.com/games/tpbsn/?xxrm-tag" target="_blank">
+                <img lz_src="http://i5.7k7kimg.cn/cms/cms10/20190122/144716_3616.jpg" alt="逃跑吧少年" width="76" height="77" src="http://i5.7k7kimg.cn/cms/cms10/20190122/144716_3616.jpg">
+                <span class="ui-li-name">逃跑吧少年</span>
+              </a>
+            </li>
+                        <li>
+              <a href="http://tklm.7k7k.com/?xxrm-tag" target="_blank">
+                <img lz_src="http://i5.7k7kimg.cn/cms/cms10/20170525/115716_8496.jpg" alt="全民坦克大战" width="76" height="77" src="http://i5.7k7kimg.cn/cms/cms10/20170525/115716_8496.jpg">
+                <span class="ui-li-name">全民坦克大战</span>
+              </a>
+            </li>
+                        <li>
+              <a href="http://news.7k7k.com/pkt/?xxrm-tag" target="_blank">
+                <img lz_src="http://i1.7k7kimg.cn/cms/cms10/20190730/163345_8679.jpg" alt="皮卡堂" width="76" height="77" src="http://i1.7k7kimg.cn/cms/cms10/20190730/163345_8679.jpg">
+                <span class="ui-li-name">皮卡堂</span>
+              </a>
+            </li>
+                      </ul>
+          </div>
+      </div>
+</div>
+   <!--标签页顶部---游戏大厅下边的小图--> 
+   
+    </div><!-- main-mod -->
+
+    <div class="wrap tagpage cf">
+      <div class="col-main">
+        <div class="article">
+          <div class="box waterfall">
+            <div class="box-hd">
+              <h2>最新麻将游戏</h2>
+            </div>
+            <div class="box-bd box-bd-s">
+              <div class="ui-slide-cont">
+                <ul class="ui-img-list cf">
+                                                                        <li>
+                    <a href="/flash/193009.htm" class="li-top-a" target="_blank">
+                      <img src="http://i4.7k7kimg.cn/cms/cms10/20190907/205633_6341.jpg" alt="樱花麻将连连看" width="76" height="77">
+                      <span class="ui-li-name">樱花麻将连连看</span>
+                    </a>
+                    <span class="time">2018-09-11</span>
+                  </li>
+                                                                        <li>
+                    <a href="/flash/132145.htm" class="li-top-a" target="_blank">
+                      <img src="http://i1.7k7kimg.cn/cms/cms10/20140509/153626_1171.jpg" alt="麻将游戏单机版" width="76" height="77">
+                      <span class="ui-li-name">麻将游戏单机版</span>
+                    </a>
+                    <span class="time">2014-05-09</span>
+                  </li>
+                                                                        <li>
+                    <a href="/flash/122559.htm" class="li-top-a" target="_blank">
+                      <img src="http://i3.7k7kimg.cn/cms/cms10/20131118/164309_6793.jpg" alt="豪华麻将连连看" width="76" height="77">
+                      <span class="ui-li-name">豪华麻将连连看</span>
+                    </a>
+                    <span class="time">2013-11-18</span>
+                  </li>
+                                                                        <li>
+                    <a href="/flash/118993.htm" class="li-top-a" target="_blank">
+                      <img src="http://i2.7k7kimg.cn/cms/cms10/20130925/190010_9630.jpg" alt="金钻店麻将连连看" width="76" height="77">
+                      <span class="ui-li-name">金钻店麻将连连看</span>
+                    </a>
+                    <span class="time">2013-09-25</span>
+                  </li>
+                                                                        <li>
+                    <a href="/flash/112466.htm" class="li-top-a" target="_blank">
+                      <img src="http://i3.7k7kimg.cn/cms/cms11/1/f/112466_7559.jpg" alt="四人打麻将" width="76" height="77">
+                      <span class="ui-li-name">四人打麻将</span>
+                    </a>
+                    <span class="time">2013-06-13</span>
+                  </li>
+                                                                        <li>
+                    <a href="/flash/112307.htm" class="li-top-a" target="_blank">
+                      <img src="http://i3.7k7kimg.cn/cms/cms11/2/5/112307_8161.jpg" alt="中国麻将连连看" width="76" height="77">
+                      <span class="ui-li-name">中国麻将连连看</span>
+                    </a>
+                    <span class="time">2013-06-08</span>
+                  </li>
+                                                                        <li>
+                    <a href="/flash/110733.htm" class="li-top-a" target="_blank">
+                      <img src="http://i5.7k7kimg.cn/cms/cms11/8/0/110733_4191.jpg" alt="麻将单机版" width="76" height="77">
+                      <span class="ui-li-name">麻将单机版</span>
+                    </a>
+                    <span class="time">2013-05-06</span>
+                  </li>
+                                                                        <li>
+                    <a href="/flash/105436.htm" class="li-top-a" target="_blank">
+                      <img src="http://i1.7k7kimg.cn/cms/cms11/a/b/105436_2070.jpg" alt="3D旋转麻将连连看" width="76" height="77">
+                      <span class="ui-li-name">3D旋转麻将连连看</span>
+                    </a>
+                    <span class="time">2012-12-24</span>
+                  </li>
+                                                                        <li>
+                    <a href="/flash/96364.htm" class="li-top-a" target="_blank">
+                      <img src="http://i5.7k7kimg.cn/cms/cms10/20150407/134541_6301.jpg" alt="阿sue麻将" width="76" height="77">
+                      <span class="ui-li-name">阿sue麻将</span>
+                    </a>
+                    <span class="time">2012-07-20</span>
+                  </li>
+                                                                        <li>
+                    <a href="/flash/92748.htm" class="li-top-a" target="_blank">
+                      <img src="http://i4.7k7kimg.cn/cms/cms11/0/a/92748_8832.jpg" alt="美女麻将v1.002" width="76" height="77">
+                      <span class="ui-li-name">美女麻将v1.002</span>
+                    </a>
+                    <span class="time">2012-05-16</span>
+                  </li>
+                                                                        <li>
+                    <a href="/flash/91154.htm" class="li-top-a" target="_blank">
+                      <img src="http://i3.7k7kimg.cn/cms/cms11/e/2/91154_3444.jpg" alt="麻将连连看" width="76" height="77">
+                      <span class="ui-li-name">麻将连连看</span>
+                    </a>
+                    <span class="time">2012-04-17</span>
+                  </li>
+                                                                        <li>
+                    <a href="/flash/64600.htm" class="li-top-a" target="_blank">
+                      <img src="http://i2.7k7kimg.cn/cms/cms11/d/7/64600_4901.jpg" alt="麻雀连连看v1.11" width="76" height="77">
+                      <span class="ui-li-name">麻雀连连看v1.11</span>
+                    </a>
+                    <span class="time">2011-05-11</span>
+                  </li>
+                                                                        <li>
+                    <a href="/flash/59585.htm" class="li-top-a" target="_blank">
+                      <img src="http://i5.7k7kimg.cn/cms/cms11/b/8/59585_1441.jpg" alt="麻将连接" width="76" height="77">
+                      <span class="ui-li-name">麻将连接</span>
+                    </a>
+                    <span class="time">2011-03-25</span>
+                  </li>
+                                                   
+3eb4
+                     <li>
+                    <a href="/flash/59472.htm" class="li-top-a" target="_blank">
+                      <img src="http://i2.7k7kimg.cn/cms/cms11/8/8/59472_4438.jpg" alt="美女麻将2中文版" width="76" height="77">
+                      <span class="ui-li-name">美女麻将2中文版</span>
+                    </a>
+                    <span class="time">2011-03-24</span>
+                  </li>
+                                                    </ul>
+              </div>
+            </div>
+          </div>
+        </div><!-- article -->
+      </div><!-- col-main -->
+        <div class="col-side">
+          <!-- 百度广告 -->
+          <!-- <div class="tag-start-game main-mod" style="padding: 15px 0;">
+            <script type="text/javascript">
+              (function() {
+                  var s = "_" + Math.random().toString(36).slice(2);
+                  document.write('<div style="" id="' + s + '"></div>');
+                  (window.slotbydup = window.slotbydup || []).push({
+                      id: "u3592126",
+                      container:  s
+                  });
+              })();
+            </script>
+          </div> -->
+          <!-- 百度广告 -->
+
+          <!-- 自己的 -->
+          <div class="tag-start-game main-mod">            
+              <div class="start-game-cont cf yxtj_N">
+                  <div class="info-title">
+                  <h2>热门游戏推荐</h2>
+                  </div>
+                  <div class="start-game-wrap">
+                  <div id="J-start-game-wrap" class="start-game-slide-wrap">
+                      <div class="start-game-slide">
+                                                <div class="start-game-img J-start-game-slide-item">
+                              <img src="http://i5.7k7kimg.cn/cms/cms10/20130506/113654_7621.jpg" alt="麻将单机版" width="250" height="162">
+                              <a href="/flash/110733.htm" target="_blank"></a>
+                          </div>
+                                                    <div class="start-game-img J-start-game-slide-item">
+                              <img _src="http://i3.7k7kimg.cn/cms/zeze/20200219/142405_5950.jpg" alt="生死狙击(移动)" width="250" height="162">
+                              <a href="http://g.7k7k.com/games/W01996/?r-tag" target="_blank"></a>
+                          </div>
+                                                    <div class="start-game-img J-start-game-slide-item">
+                              <img _src="http://i5.7k7kimg.cn/cms/zeze/20200219/142448_6984.jpg" alt="逃跑吧少年" width="250" height="162">
+                              <a href="http://news.7k7k.com/games/tpbsn/?r-tag" target="_blank"></a>
+                          </div>
+                                                    </div>
+                      </div>
+                      <span class="start-game-mask"></span>
+                      <p class="start-game-title" id="J-start-game-title">麻将单机版</p>
+                      <span id="J-start-game-btn-left" class="start-game-btn-left"></span>
+                      <span id="J-start-game-btn-right" class="start-game-btn-right"></span>
+                      <p class="start-game-paging" id="J-start-game-paging"><i class="start-game-page-btn start-game-page-curr"></i><i class="start-game-page-btn"></i><i class="start-game-page-btn"></i></p>
+                  </div>
+              
+                  <div class="start-game-info cf ">
+                      <div class="start-game-share">
+                          分享给同学：
+                          <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare">
+                              <a class="bds_qzone" title="分享到QQ空间" href="#"></a>
+                              <a class="bds_tsina" title="分享到新浪微博" href="#"></a>
+                              <a class="bds_tqq" title="分享到腾讯微博" href="#"></a>
+                              <a class="bds_renren" title="分享到人人网" href="#"></a>
+                              <a class="bds_t163" title="分享到网易微博" href="#"></a>
+                              <a href="#" class="bds_more" ></a>
+                          </div>
+                          <div class="sczt">
+                              <a class="sczt_button shouc" href="javascript:qike.utils.addFavorite(window.location.href,'麻将游戏_麻将_麻将连连看_麻将小游戏');" target="_self" title="收藏专题"></a>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div> 
+          <!-- 自己的 -->
+
+          <!-- <div class="tag-start-game main-mod" style="padding: 15px 0px 16px;" id="targetDomId"> -->
+            <!-- 360广告 -->
+            <!-- <div id="adbox">
+              <script type="text/javascript" language="javascript" charset="utf-8" src="//static.mediav.com/js/mvf_shop_window.js"></script>
+              <script>
+                  SHOP_WINDOW({
+                      // size: 'rect_280_280', //矩形
+                      size: 'custom_280',
+                      // size: 'square_300', //正方形，目前仅支持300尺寸
+                      showid: 'knVk2X',
+                      placeholderId: 'adbox', //渲染位置容器id
+                      onFail: function() { // 兜底内容
+                          console.log(12313);
+                          $('#adbox').hide();
+                          $('#baidu-ad').show();
+                      }
+                  });
+              </script>
+            </div> -->
+            <!-- 360广告 -->
+
+            <!-- 百度广告 -->
+            <!-- <div id="baidu-ad"> -->
+
+              <!-- 百度反屏蔽代码  2021-->
+              <!-- <script type="text/javascript" src="//bdjs.uimg.cn/site/production/bcni3.js?dyqz=gnenn"></script> -->
+              <!-- 百度反屏蔽代码 -->
+
+              <!-- <script type="text/javascript">
+                  (function() {
+                  var s = "_" + Math.random().toString(36).slice(2);
+                  document.write('<div style="" id="' + s + '"></div>');
+                  (window.slotbydup = window.slotbydup || []).push({
+                      id: "u3592126",
+                      container:  s
+                  });
+                  })();
+              </script> -->
+            <!-- </div> -->
+            <!-- 百度广告 -->
+          <!-- </div> -->
+        </div><!-- col-side -->
+      </div>  
+      <!-- 广告位 -->
+
+      <style>
+        .tag-casual-game-box{
+          display:none
+        }
+        .especially-list{
+          overflow: hidden;
+          text-align:center;
+        }
+        .especially-list.big li{
+          overflow: hidden;
+          float: left;
+          margin-left: 25px;
+          width: 166px;
+          height: 134px;
+          margin-bottom: 5px;
+        }
+        .especially-list.small{
+          margin-left: 12px;
+        }
+        .especially-list.small li{
+          float: left;
+          width: 86px;
+          margin: 0 5px 10px;
+        }
+        .especially-list.small li img{
+          display: inline-block;
+          vertical-align: top;
+        }
+        .especially-list li p{
+          font: normal 14px/30px "microsoft yahei",tahoma,arial,"Hiragino Sans GB","\5b8b\4f53",sans-serif;
+          text-align: left;
+          overflow: hidden;
+          height: 30px;
+          position: relative;
+        }
+        .especially-list.big li span{
+          color: #999;
+          position: absolute;
+          right: 0;
+          top: 0;
+          font: normal 14px/30px "microsoft yahei",tahoma,arial,"Hiragino Sans GB","\5b8b\4f53",sans-serif;
+        }
+        .especially-list li .ui-li-name{
+          width: 100%;
+          display: block;
+          overflow: hidden;
+          height: 18px;
+          line-height: 20px;
+          cursor: pointer;
+          font-family: arial,"\5b8b\4f53",sans-serif;
+        }
+        .especially-list li a:hover span{
+          color: #ff6701;
+          text-decoration: underline;
+        }
+      </style>
+      <div class="wrap main-mod box" style="display:none;" >
+        <div class="box-hd">
+          <h2>游戏大厅专区</h2>
+          <div class="box-hd-act" style="margin-top:0">
+            <a href="http://g.7k7k.com/?more" target="_blank"><i class="icon i-more"></i>更多</a>
+          </div>
+        </div>
+        <div>
+          <!-- 大图 -->
+          <ul class="especially-list big" id="big">
+                        <li id="">
+              <a href="http://g.7k7k.com/games/W01996/?xxjj-tag" target="_blank">
+                <img lz_src="http://i2.7k7kimg.cn/cms/cms10/20190806/121818_1524.jpg" alt="生死狙击HD" width="166" height="105" src="http://i2.7k7kimg.cn/cms/cms10/20190806/121818_1524.jpg">
+                <p>生死狙击HD<span></span></p>
+              </a>
+            </li>
+                        <li id="ad0">
+              <a href="http://g.7k7k.com/games/W01996/?xxjj-tag" target="_blank">
+                <img lz_src="http://i2.7k7kimg.cn/cms/cms10/20190806/121818_1524.jpg" alt="生死狙击HD" width="166" height="105" src="http://i2.7k7kimg.cn/cms/cms10/20190806/121818_1524.jpg">
+                <p>生死狙击HD<span></span></p>
+              </a>
+            </li>
+                        <li id="">
+              <a href="http://news.7k7k.com/lskg/?xxjj-tag" target="_blank">
+                <img lz_src="http://i3.7k7kimg.cn/cms/cms10/20191018/151932_5773.jpg" alt="就要K歌" width="166" height="105" src="http://i3.7k7kimg.cn/cms/cms10/20191018/151932_5773.jpg">
+                <p>就要K歌<span>音乐舞蹈</span></p>
+              </a>
+            </li>
+                        <li id="ad1">
+              <a href="http://news.7k7k.com/lskg/?xxjj-tag" target="_blank">
+                <img lz_src="http://i3.7k7kimg.cn/cms/cms10/20191018/151932_5773.jpg" alt="就要K歌" width="166" height="105" src="http://i3.7k7kimg.cn/cms/cms10/20191018/151932_5773.jpg">
+                <p>就要K歌<span>音乐舞蹈</span></p>
+              </a>
+            </li>
+                        <li id="">
+              <a href="http://news.7k7k.com/ssol/?xxjj-tag" target="_blank">
+                <img lz_src="http://i1.7k7kimg.cn/cms/cms10/20170114/172819_5751.jpg" alt="天黑请闭眼" width="166" height="105" src="http://i1.7k7kimg.cn/cms/cms10/20170114/172819_5751.jpg">
+                <p>天黑请闭眼<span>休闲</span></p>
+              </a>
+            </li>
+                        <li id="ad2">
+              <a href="http://news.7k7k.com/ssol/?xxjj-tag" target="_blank">
+                <img lz_src="http://i1.7k7kimg.cn/cms/cms10/20170114/172819_5751.jpg" alt="天黑请闭眼" width="166" height="105" src="http://i1.7k7kimg.cn/cms/cms10/20170114/172819_5751.jpg">
+                <p>天黑请闭眼<span>休闲</span></p>
+              </a>
+            </li>
+                        <li id="">
+              <a href="http://web.7k7k.com/games/lycq/6345454/6345454-5645332.html" target="_blank">
+                <img lz_src="http://i2.7k7kimg.cn/cms/cms10/20170123/122938_1633.jpg" alt="蓝月传奇" width="166" height="105" src="http://i2.7k7kimg.cn/cms/cms10/20170123/122938_1633.jpg">
+                <p>蓝月传奇<span>热血传奇</span></p>
+              </a>
+            </li>
+                        <li id="ad3">
+              <a href="http://web.7k7k.com/games/lycq/6345454/6345454-5645332.html" target="_blank">
+                <img lz_src="http://i2.7k7kimg.cn/cms/cms10/20170123/122938_1633.jpg" alt="蓝月传奇" width="166" height="105" src="http://i2.7k7kimg.cn/cms/cms10/20170123/122938_1633.jpg">
+                <p>蓝月传奇<span>热血传奇</span></p>
+              </a>
+            </li>
+                        <li id="">
+              <a href="http://tklm.7k7k.com/?xxjj-tag" target="_blank">
+                <img lz_src="http://i4.7k7kimg.cn/cms/cms10/20170116/152014_8967.jpg" alt="全民坦克大战" width="166" height="105" src="http://i4.7k7kimg.cn/cms/cms10/20170116/152014_8967.jpg">
+                <p>全民坦克大战<span>射击</span></p>
+              </a>
+            </li>
+                        <li id="">
+              <a href="http://news.7k7k.com/mhlw/?xxjj-tag" target="_blank">
+                <img lz_src="http://i1.7k7kimg.cn/cms/cms10/20191225/180251_8775.jpg" alt="天空之舞" width="166" height="105" src="http://i1.7k7kimg.cn/cms/cms10/20191225/180251_8775.jpg">
+                <p>天空之舞<span>劲舞团</span></p>
+              </a>
+            </li>
+                        <!-- 360广告 -->
+            <script src="//static.mediav.com/js/feed_ts.js"></script>
+            <script>
+                NEWS_FEED({
+                  "w": "166",
+                  "h": "135",
+                  'placeholderId': 'ad0', // 指定插入位置
+                  "inject": "define",
+                  "showid": "iYFlxV",//2019-07-15 change O8oPR7
+                  "displayType": 'singleImage',
+                  "define": {
+                      "displayImage": 1,
+                      "imagePosition": "top",
+                      "imageBorderRadius": 0,
+                      "imageWidth": "166",
+                      "imageHeight": "105",
+                      "imageFill": "clip",
+                      "displayTitle": 1,
+                      "titleFontSize": "14",
+                      "titleFontColor": "#3f3f3f",
+                      "titleFontFamily": "Microsoft Yahei",
+                      "titleFontWeight": "auto",
+                      "titlePaddingTop": "5",
+                      "titlePaddingRight": "0",
+                      "titlePaddingBottom": "0",
+                      "titlePaddingLeft": "0",
+                      "displayDesc": 1,
+                      "descFontSize": 14,
+                      "descFontColor": "#3f3f3f",
+                      "descFontFamily": "Microsoft Yahei",
+                      "paddingTop": "0",
+                      "paddingRight": 0,
+                      "paddingBottom": "0",
+                      "paddingLeft": "0",
+                      'backgroundColor': 'transparent',
+                      "hoverColor": "#ff6701"
+                  }
+                });
+                NEWS_FEED({
+                  "w": "166",
+                  "h": "135",
+                  'placeholderId': 'ad1', // 指定插入位置
+                  "inject": "define",
+                  "showid": "iYFlxV",
+                  "displayType": 'singleImage',
+                  "define": {
+                      "displayImage": 1,
+                      "imagePosition": "top",
+                      "imageBorderRadius": 0,
+                      "imageWidth": "166",
+                      "imageHeight": "105",
+                      "imageFill": "clip",
+                      "displayTitle": 1,
+                      "titleFontSize": "14",
+                      "titleFontColor": "#3f3f3f",
+                      "titleFontFamily": "Microsoft Yahei",
+                      "titleFontWeight": "auto",
+                      "titlePaddingTop": "5",
+                      "titlePaddingRight": "0",
+                      "titlePaddingBottom": "0",
+                      "titlePaddingLeft": "0",
+                      "displayDesc": 1,
+                      "descFontSize": 14,
+                      "descFontColor": "#3f3f3f",
+                      "descFontFamily": "Microsoft Yahei",
+                      "paddingTop": "0",
+                      "paddingRight": 0,
+                      "paddingBottom": "0",
+                      "paddingLeft": "0",
+                      'backgroundColor': 'transparent',
+                      "hoverCo
+3900
+lor": "#ff6701"
+                  }
+                });
+                 NEWS_FEED({
+                  "w": "166",
+                  "h": "135",
+                  'placeholderId': 'ad2', // 指定插入位置
+                  "inject": "define",
+                  "showid": "iYFlxV",
+                  "displayType": 'singleImage',
+                  "define": {
+                      "displayImage": 1,
+                      "imagePosition": "top",
+                      "imageBorderRadius": 0,
+                      "imageWidth": "166",
+                      "imageHeight": "105",
+                      "imageFill": "clip",
+                      "displayTitle": 1,
+                      "titleFontSize": "14",
+                      "titleFontColor": "#3f3f3f",
+                      "titleFontFamily": "Microsoft Yahei",
+                      "titleFontWeight": "auto",
+                      "titlePaddingTop": "5",
+                      "titlePaddingRight": "0",
+                      "titlePaddingBottom": "0",
+                      "titlePaddingLeft": "0",
+                      "displayDesc": 1,
+                      "descFontSize": 14,
+                      "descFontColor": "#3f3f3f",
+                      "descFontFamily": "Microsoft Yahei",
+                      "paddingTop": "0",
+                      "paddingRight": 0,
+                      "paddingBottom": "0",
+                      "paddingLeft": "0",
+                      'backgroundColor': 'transparent',
+                      "hoverColor": "#ff6701"
+                  }
+                });
+                NEWS_FEED({
+                  "w": "166",
+                  "h": "135",
+                  'placeholderId': 'ad3', // 指定插入位置
+                  "inject": "define",
+                  "showid": "iYFlxV",
+                  "displayType": 'singleImage',
+                  "define": {
+                      "displayImage": 1,
+                      "imagePosition": "top",
+                      "imageBorderRadius": 0,
+                      "imageWidth": "166",
+                      "imageHeight": "105",
+                      "imageFill": "clip",
+                      "displayTitle": 1,
+                      "titleFontSize": "14",
+                      "titleFontColor": "#3f3f3f",
+                      "titleFontFamily": "Microsoft Yahei",
+                      "titleFontWeight": "auto",
+                      "titlePaddingTop": "5",
+                      "titlePaddingRight": "0",
+                      "titlePaddingBottom": "0",
+                      "titlePaddingLeft": "0",
+                      "displayDesc": 1,
+                      "descFontSize": 14,
+                      "descFontColor": "#3f3f3f",
+                      "descFontFamily": "Microsoft Yahei",
+                      "paddingTop": "0",
+                      "paddingRight": 0,
+                      "paddingBottom": "0",
+                      "paddingLeft": "0",
+                      'backgroundColor': 'transparent',
+                      "hoverColor": "#ff6701"
+                  }
+                });
+            </script>
+            <!-- 360广告 -->
+          </ul>
+
+          <!-- 百度广告 -->
+          <!-- <div style="margin-left:10px;">
+            <script type="text/javascript" src="//bdjs.uimg.cn/site/hz2v94.js?l=gyiypovh"></script>
+          </div> -->
+          <!-- 百度广告 -->
+          
+          <!-- 小图 -->
+         
+        </div>
+      </div>
+
+    </div><!-- wrap -->  
+
+    <div class="wrap tagpage cf">
+        <div class="col-main">
+            <div id="article" class="article">
+                <div class="tag-main-mod">
+                </div><!-- main-mod -->
+                <div class="box waterfall main-mod" id="recommend-new-most">
+                    <div class="box-hd cf hd-ml">
+                        <div class="ui-tabs">
+                            <ul>
+                                <li class="ui-nobd current">
+                                    <a name="p-anchor" href="/tag/72/index.htm" target="_self">推荐</a>
+                                </li>
+                                <li >
+                                    <a href="/tag/72/new.htm" target="_self">最新</a>
+                                </li>
+                                <li >
+                                    <a href="/tag/72/hot.htm" target="_self">最多人玩</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="box-hd-act ui-slide cf">
+                            <p class="ui-slide-nums">
+                                <span>1</span>/<span>1</span>
+                            </p>
+                            <i class="ui-slide-btn-left" ></i>
+                            <i class="ui-slide-btn-right"></i>
+                        </div>
+                        <div class="bsmodels">
+                            <a href="javascript:void(0);" class="cur" target="_self"><i class="icon i-small"></i>小图模式</a>
+                            <a href="/tag/bigpic/72/" target="_self"><i class="icon i-big"></i>大图模式</a>
+                        </div>
+                    </div>
+                        <div class="box-bd box-bd-s">
+                            <div class="ui-slide-cont">
+                                <ul class="ui-img-list cf">
+                                <li>
+                                    <a href="/flash/110733.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i5.7k7kimg.cn/cms/cms11/8/0/110733_4191.jpg" alt="麻将单机版" width="76" height="77">
+                                        <span class="ui-li-name">麻将单机版</span>
+                                    </a>
+                                                                                <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/92/">棋牌</a>
+                                            <a href="/tag/1647/">优游原创</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/112466.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i3.7k7kimg.cn/cms/cms11/1/f/112466_7559.jpg" alt="四人打麻将" width="76" height="77">
+                                        <span class="ui-li-name">四人打麻将</span>
+                                    </a>
+                                                                                <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/92/">棋牌</a>
+                                            <a href="/tag/1647/">优游原创</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/24452.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i4.7k7kimg.cn/cms/cms11/a/e/24452_5438.jpg" alt="中国传统麻将" width="76" height="77">
+                                        <span class="ui-li-name">中国传统麻将</span>
+                                    </a>
+                                                                                <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/59472.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i2.7k7kimg.cn/cms/cms11/8/8/59472_4438.jpg" alt="美女麻将2中文版" width="76" height="77">
+                                        <span class="ui-li-name">美女麻将2中文版</span>
+                                    </a>
+                                                                                <a href="/tag/7/">美女</a>
+                                            <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/1804/">中文版</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/8430.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i2.7k7kimg.cn/cms/cms11/4/1/8430_7025.jpg" alt="四川麻将2" width="76" height="77">
+                                        <span class="ui-li-name">四川麻将2</span>
+                                    </a>
+                                                                                <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/92/">棋牌</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/92748.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i4.7k7kimg.cn/cms/cms11/0/a/92748_8832.jpg" alt="美女麻将v1.002" width="76" height="77">
+                                        <span class="ui-li-name">美女麻将v1.002</span>
+                                    </a>
+                                                                                <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/7/">美女</a>
+                                            <a href="/tag/106/">挑战</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/16622.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i1.7k7kimg.cn/cms/cms11/e/3/16622_2448.jpg" alt="二人麻将" width="76" height="77">
+                                        <span class="ui-li-name">二人麻将</span>
+                                    </a>
+                                                                                <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/16089.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i3.7k7kimg.cn/cms/cms11/0/6/16089_1900.jpg" alt="新上海麻将" width="76" height="77">
+                                        <span class="ui-li-name">新上海麻将</span>
+                                    </a>
+                                                                                <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/23939.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i5.7k7kimg.cn/cms/cms11/1/6/23939_3631.jpg" alt="台湾16张麻将" width="76" height="77">
+                                        <span class="ui-li-name">台湾16张麻将</span>
+                                    </a>
+                                                                                <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/92/">棋牌</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/132153.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i5.7k7kimg.cn/cms/cms10/20140509/173850_7786.jpg" alt="四人麻将" width="76" height="77">
+                                        <span class="ui-li-name">四人麻将</span>
+                                    </a>
+                                                                                <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/92/">棋牌</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/13904.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i5.7k7kimg.cn/cms/cms11/6/b/13904_6549.jpg" alt="三国麻将风云" width="76" height="77">
+                                        <span class="ui-li-name">三国麻将风云</span>
+                                    </a>
+                                                                                <a href="/tag/71/">三国</a>
+                                            <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/1647/">优游原创</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/1801.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i3.7k7kimg.cn/cms/cms11/9/f/1801_3228.jpg" alt="北京麻将馆" width="76" height="77">
+                                        <span class="ui-li-name">北京麻将馆</span>
+                                    </a>
+                                                                                <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/132145.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i1.7k7kimg.cn/cms/cms10/20140509/153626_1171.jpg" alt="麻将游戏单机版" width="76" height="77">
+                                        <span class="ui-li-name">麻将游戏单机版</span>
+                                    </a>
+                                                                                <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/92/">�
+b68
+��牌</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/59585.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i5.7k7kimg.cn/cms/cms11/b/8/59585_1441.jpg" alt="麻将连接" width="76" height="77">
+                                        <span class="ui-li-name">麻将连接</span>
+                                    </a>
+                                                                                <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/75889.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i3.7k7kimg.cn/cms/cms11/a/9/75889_3092.jpg" alt="麻将移移看" width="76" height="77">
+                                        <span class="ui-li-name">麻将移移看</span>
+                                    </a>
+                                                                                <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/92/">棋牌</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/14533.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i3.7k7kimg.cn/cms/cms11/3/f/14533_8610.jpg" alt="竹林麻将连连看" width="76" height="77">
+                                        <span class="ui-li-name">竹林麻将连连看</span>
+                                    </a>
+                                                                                <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/1647/">优游原创</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/64600.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i2.7k7kimg.cn/cms/cms11/d/7/64600_4901.jpg" alt="麻雀连连看v1.11" width="76" height="77">
+                                        <span class="ui-li-name">麻雀连连看v1.11</span>
+                                    </a>
+                                                                                <a href="/tag/1/">连连看</a>
+              
+3b88
+                              <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/105436.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i1.7k7kimg.cn/cms/cms11/a/b/105436_2070.jpg" alt="3D旋转麻将连连看" width="76" height="77">
+                                        <span class="ui-li-name">3D旋转麻将连连看</span>
+                                    </a>
+                                                                                <a href="/tag/276/">3D</a>
+                                            <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/106/">挑战</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/112307.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i3.7k7kimg.cn/cms/cms11/2/5/112307_8161.jpg" alt="中国麻将连连看" width="76" height="77">
+                                        <span class="ui-li-name">中国麻将连连看</span>
+                                    </a>
+                                                                                <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/106/">挑战</a>
+                                            <a href="/tag/1647/">优游原创</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/14095.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i5.7k7kimg.cn/cms/cms11/4/a/14095_5523.jpg" alt="鲜花麻将连连看" width="76" height="77">
+                                        <span class="ui-li-name">鲜花麻将连连看</span>
+                                    </a>
+                                                                                <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/1/">连连看</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/133191.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i5.7k7kimg.cn/cms/cms11/8/0/110733_4191.jpg" alt="大众麻将" width="76" height="77">
+                                        <span class="ui-li-name">大众麻将</span>
+                                    </a>
+                                                                                <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                            </ul>
+                            <ul class="ui-img-list cf lazyload-part">
+                                <li>
+                                    <a href="/flash/193009.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i4.7k7kimg.cn/cms/cms10/20190907/205633_6341.jpg" alt="樱花麻将连连看" width="76" height="77">
+                                        <span class="ui-li-name">樱花麻将连连看</span>
+                                    </a>
+                                                                                <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/134/">过关</a>
+                                            <a href="/tag/3271/">html5游戏</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/122559.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i3.7k7kimg.cn/cms/cms10/20131118/164309_6793.jpg" alt="豪华麻将连连看" width="76" height="77">
+                                        <span class="ui-li-name">豪华麻将连连看</span>
+                                    </a>
+                                                                                <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/106/">挑战</a>
+                                            <a href="/tag/134/">过关</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/118993.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i2.7k7kimg.cn/cms/cms10/20130925/190010_9630.jpg" alt="金钻店麻将连连看" width="76" height="77">
+                                        <span class="ui-li-name">金钻店麻将连连看</span>
+                                    </a>
+                                                                                <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/134/">过关</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/96364.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i5.7k7kimg.cn/cms/cms10/20150407/134541_6301.jpg" alt="阿sue麻将" width="76" height="77">
+                                        <span class="ui-li-name">阿sue麻将</span>
+                                    </a>
+                                                                                <a href="/tag/177/">阿sue</a>
+                                            <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/1/">连连看</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/91154.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i3.7k7kimg.cn/cms/cms11/e/2/91154_3444.jpg" alt="麻将连连看" width="76" height="77">
+                                        <span class="ui-li-name">麻将连连看</span>
+                                    </a>
+                                                                                <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/134/">过关</a>
+                                            <a href="/tag/1647/">优游原创</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/40544.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i5.7k7kimg.cn/cms/cms11/a/6/40544_7564.jpg" alt="阿sue麻将连连看" width="76" height="77">
+                                        <span class="ui-li-name">阿sue麻将连连看</span>
+                                    </a>
+                                                                                <a href="/tag/177/">阿sue</a>
+                                            <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/1/">连连看</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/132419.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i4.7k7kimg.cn/cms/cms10/20140516/135257_6450.jpg" alt="麻将塔连连看" width="76" height="77">
+                                        <span class="ui-li-name">麻将塔连连看</span>
+                                    </a>
+                                                                                <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/132415.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i2.7k7kimg.cn/cms/cms10/20140516/133336_3989.jpg" alt="新上海麻将连连看" width="76" height="77">
+                                        <span class="ui-li-name">新上海麻将连连看</span>
+                                    </a>
+                                                                                <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/28744.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i3.7k7kimg.cn/cms/cms11/3/1/28744_7720.jpg" alt="上海麻将连连看" width="76" height="77">
+                                        <span class="ui-li-name">上海麻将连连看</span>
+                                    </a>
+                                                                                <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/10253.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i2.7k7kimg.cn/cms/cms11/b/a/10253_7765.jpg" alt="麻将连连看" width="76" height="77">
+                                        <span class="ui-li-name">麻将连连看</span>
+                                    </a>
+                                                                                <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/42174.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i1.7k7kimg.cn/cms/cms11/1/7/42174_3229.jpg" alt="魔法学院麻将连连看" width="76" height="77">
+                                        <span class="ui-li-name">魔法学院麻将连连看</span>
+                                    </a>
+                                                                                <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/300/">卡通</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/39942.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i5.7k7kimg.cn/cms/cms11/7/6/39942_6477.jpg" alt="怪物麻将中文版" width="76" height="77">
+                                        <span class="ui-li-name">怪物麻将中文版</span>
+                                    </a>
+                                                                                <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/1804/">中文版</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/38886.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i3.7k7kimg.cn/cms/cms11/6/d/38886_5151.jpg" alt="精装麻将连连看" width="76" height="77">
+                                        <span class="ui-li-name">精装麻将连连看</span>
+                                    </a>
+                                                                                <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/38882.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i4.7k7kimg.cn/cms/cms11/9/4/38882_1976.jpg" alt="韩国麻将连连看" width="76" height="77">
+                                        <span class="ui-li-name">韩国麻将连连看</span>
+                                    </a>
+                                                                                <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/38881.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i3.7k7kimg.cn/cms/cms11/3/9/38881_6751.jpg" alt="标志麻将连连看" width="76" height="77">
+                                        <span class="ui-li-name">标志麻将连连看</span>
+                                    </a>
+                                                                                <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/38371.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i4.7k7kimg.cn/cms/cms11/5/8/38371_8086.jpg" alt="卡通麻将连连看" width="76" height="77">
+                                        <span class="ui-li-name">卡通麻将连连看</span>
+                                    </a>
+                                                                                <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/300/">�
+52f4
+�通</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/37586.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i1.7k7kimg.cn/cms/cms11/2/d/37586_8917.jpg" alt="水手麻将连连看" width="76" height="77">
+                                        <span class="ui-li-name">水手麻将连连看</span>
+                                    </a>
+                                                                                <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/1647/">优游原创</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/36831.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i3.7k7kimg.cn/cms/cms11/d/9/36831_4534.jpg" alt="彩玉麻将消消看" width="76" height="77">
+                                        <span class="ui-li-name">彩玉麻将消消看</span>
+                                    </a>
+                                                                                <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/24/">消消看</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/36696.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i1.7k7kimg.cn/cms/cms11/1/f/36696_3739.jpg" alt="神龙麻将牌" width="76" height="77">
+                                        <span class="ui-li-name">神龙麻将牌</span>
+                                    </a>
+                                                                                <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/134/">过关</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/36281.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i1.7k7kimg.cn/cms/cms11/c/b/36281_8890.jpg" alt="古典麻将消消看" width="76" height="77">
+                                        <span class="ui-li-name">古典麻将消消看</span>
+                                    </a>
+                                                                                <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/24/">消消看</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/36064.htm" class="li-top-a" target="_blank">
+                                        <img src="http://i2.7k7kimg.cn/cms/cms11/b/5/36064_7024.jpg" alt="我爱麻将" width="76" height="77">
+                                        <span class="ui-li-name">我爱麻将</span>
+                                    </a>
+                                                                                <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                            </ul>
+                            <ul class="ui-img-list cf lazyload-part">
+                                <li>
+                                    <a href="/flash/35324.htm" class="li-top-a" target="_blank">
+                                        <img lz_src="http://i5.7k7kimg.cn/cms/cms11/b/b/35324_8737.jpg" alt="麻将挑战赛" width="76" height="77">
+                                        <span class="ui-li-name">麻将挑战赛</span>
+                                    </a>
+                                                                                <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/35145.htm" class="li-top-a" target="_blank">
+                                        <img lz_src="http://i1.7k7kimg.cn/cms/cms11/5/d/35145_5503.jpg" alt="2010版麻将连连看" width="76" height="77">
+                                        <span class="ui-li-name">2010版麻将连连看</span>
+                                    </a>
+                                                                                <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/34179.htm" class="li-top-a" target="_blank">
+                                        <img lz_src="http://i4.7k7kimg.cn/cms/cms11/e/2/34179_3910.jpg" alt="超级麻将连连看" width="76" height="77">
+                                        <span class="ui-li-name">超级麻将连连看</span>
+                                    </a>
+                                                                                <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/27/">对对碰</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/33985.htm" class="li-top-a" target="_blank">
+                                        <img lz_src="http://i3.7k7kimg.cn/cms/cms11/7/3/33985_7096.jpg" alt="动物麻将连连看" width="76" height="77">
+                                        <span class="ui-li-name">动物麻将连连看</span>
+                                    </a>
+                                                                                <a href="/tag/227/">小动物</a>
+                                            <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/1/">连连看</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/33949.htm" class="li-top-a" target="_blank">
+                                        <img lz_src="http://i2.7k7kimg.cn/cms/cms11/1/9/33949_7656.jpg" alt="麻将连连看" width="76" height="77">
+                                        <span class="ui-li-name">麻将连连看</span>
+                                    </a>
+                                                                                <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/33600.htm" class="li-top-a" target="_blank">
+                                        <img lz_src="http://i5.7k7kimg.cn/cms/cms11/6/4/33600_3423.jpg" alt="经典麻将连连看" width="76" height="77">
+                                        <span class="ui-li-name">经典麻将连连看</span>
+                                    </a>
+                                                                                <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/65/">经典</a>
+                                            <a href="/tag/1647/">优游原创</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/32755.htm" class="li-top-a" target="_blank">
+                                        <img lz_src="http://i1.7k7kimg.cn/cms/cms11/e/0/32755_9973.jpg" alt="麻将连连看" width="76" height="77">
+                                        <span class="ui-li-name">麻将连连看</span>
+                                    </a>
+                                                                                <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/31778.htm" class="li-top-a" target="_blank">
+                                        <img lz_src="http://i1.7k7kimg.cn/cms/cms11/0/2/31778_7770.jpg" alt="英雄麻将" width="76" height="77">
+                                        <span class="ui-li-name">英雄麻将</span>
+                                    </a>
+                                                                                <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/31353.htm" class="li-top-a" target="_blank">
+                                        <img lz_src="http://i4.7k7kimg.cn/cms/cms11/a/a/31353_3545.jpg" alt="儿童麻将" width="76" height="77">
+                                        <span class="ui-li-name">儿童麻将</span>
+                                    </a>
+                                                                                <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/30402.htm" class="li-top-a" target="_blank">
+                                        <img lz_src="http://i2.7k7kimg.cn/cms/cms11/e/c/30402_8578.jpg" alt="粉红女生麻将" width="76" height="77">
+                                        <span class="ui-li-name">粉红女生麻将</span>
+                                    </a>
+                                                                                <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/30400.htm" class="li-top-a" target="_blank">
+                                        <img lz_src="http://i1.7k7kimg.cn/cms/cms11/1/c/30400_8588.jpg" alt="麻将接龙" width="76" height="77">
+                                        <span class="ui-li-name">麻将接龙</span>
+                                    </a>
+                                                                                <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/29680.htm" class="li-top-a" target="_blank">
+                                        <img lz_src="http://i4.7k7kimg.cn/cms/cms11/9/6/29680_9006.jpg" alt="魔法麻将" width="76" height="77">
+                                        <span class="ui-li-name">魔法麻将</span>
+                                    </a>
+                                                                                <a href="/tag/24/">消消看</a>
+                                            <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/1647/">优游原创</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/28744.htm" class="li-top-a" target="_blank">
+                                        <img lz_src="http://i3.7k7kimg.cn/cms/cms11/3/1/28744_7720.jpg" alt="上海麻将连连看" width="76" height="77">
+                                        <span class="ui-li-name">上海麻将连连看</span>
+                                    </a>
+                                                                                <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/28037.htm" class="li-top-a" target="_blank">
+                                        <img lz_src="http://i4.7k7kimg.cn/cms/cms11/4/d/28037_8719.jpg" alt="男孩历险麻将大陆" width="76" height="77">
+                                        <span class="ui-li-name">男孩历险麻将大陆</span>
+                                    </a>
+                                                                                <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/27830.htm" class="li-top-a" target="_blank">
+                                        <img lz_src="http://i1.7k7kimg.cn/cms/cms11/6/c/27830_7268.jpg" alt="圣诞麻将连连看" width="76" height="77">
+                                        <span class="ui-li-name">圣诞麻将连连看</span>
+                                    </a>
+                                                                                <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/80/">圣诞节</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/27182.htm" class="li-top-a" target="_blank">
+                                        <img lz_src="http://i4.7k7kimg.cn/cms/cms11/4/6/27182_5563.jpg" alt="色彩麻将连连看" width="76" height="77">
+                                        <span class="ui-li-name">色彩麻将连连看</span>
+                                    </a>
+                                                                                <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/26067.htm" class="li-top-a" target="_blank">
+                                        <img lz_src="http://i4.7k7kimg.cn/cms/cms11/b/5/26067_5392.jpg" alt="3D香港麻将" width="76" height="77">
+                                        <span class="ui-li-name">3D香港麻将</span>
+                                    </a>
+                                                                                <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/92/">棋牌</a>
+                                            <a href="/tag/253/">益智</a>
+                                            <a href="/tag/2036/">麻球</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/24424.htm" class="li-top-a" target="_blank">
+                                        <img lz_src="http://i5.7k7kimg.cn/cms/cms11/d/c/24424_5954.jpg" alt="可爱麻将连连看" width="76" height="77">
+                                        <span class="ui-li-name">可爱麻将连连看</span>
+                                    </a>
+                                                                                <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/42/">可爱</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/22938.htm" class="li-top-a" target="_blank">
+                                        <img lz_src="http://i3.7k7kimg.cn/cms/cms11/0/6/22938_3472.jpg" alt="小美女疯狂麻将" width="76" height="77">
+                                        <span class="ui-li-name">小美女疯狂麻将</span>
+                                    </a>
+                                                                                <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/18555.htm" class="li-top-a" target="_blank">
+                                        <img lz_src="http://i1.7k7kimg.cn/cms/cms11/d/0/18555_8878.jpg" alt="龙猫麻将连连看" width="76" height="77">
+                                        <span class="ui-li-name">龙猫麻将连连看</span>
+                                    </a>
+                                                                                <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/16385.htm" class="li-top-a" target="_blank">
+                                        <img lz_src="http://i4.7k7kimg.cn/cms/cms11/9/b/16385_9128.jpg" alt="2008新款麻将消消看" width="76" height="77">
+                                        <span class="ui-li-name">2008新款麻将消消看</span>
+                                    </a>
+                                                                                <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                            </ul>
+                            <ul class="ui-img-list cf lazyload-part">
+                                <li>
+                                    <a href="/flash/15625.htm" class="li-top-a" target="_blank">
+                                        <img lz_src="http://i4.7k7kimg.cn/cms/cms11/3/2/15625_5651.jpg" alt="麻将女生连连看" width="76" height="77">
+                                        <span class="ui-li-name">麻将女生连连看</span>
+                                    </a>
+                                                                                <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/287/">少女</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/14095.htm" class="li-top-a" target="_blank">
+                                        <img lz_src="http://i5.7k7kimg.cn/cms/cms11/4/a/14095_5523.jpg" alt="鲜花麻将连连看" width="76" height="77">
+                                        <span class="ui-li-name">鲜花麻将连连看</span>
+                                    </a>
+                                                                                <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/1/">连连看</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/12637.htm" class="li-top-a" target="_blank">
+                                        <img lz_src="http://i3.7k7kimg.cn/cms/cms11/c/7/12637_7227.jpg" alt="麻将连连看" width="76" heig
+1c84
+ht="77">
+                                        <span class="ui-li-name">麻将连连看</span>
+                                    </a>
+                                                                                <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/12066.htm" class="li-top-a" target="_blank">
+                                        <img lz_src="http://i5.7k7kimg.cn/cms/cms10/20160827/113548_6453.jpg" alt="麻将连连看" width="76" height="77">
+                                        <span class="ui-li-name">麻将连连看</span>
+                                    </a>
+                                                                                <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/1647/">优游原创</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/11678.htm" class="li-top-a" target="_blank">
+                                        <img lz_src="http://i3.7k7kimg.cn/cms/cms11/8/6/11678_9927.jpg" alt="麻将连连看" width="76" height="77">
+                                        <span class="ui-li-name">麻将连连看</span>
+                                    </a>
+                                                                                <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/10253.htm" class="li-top-a" target="_blank">
+                                        <img lz_src="http://i2.7k7kimg.cn/cms/cms11/b/a/10253_7765.jpg" alt="麻将连连看" width="76" height="77">
+                                        <span class="ui-li-name">麻将连连看</span>
+                                    </a>
+                                                                                <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/4966.htm" class="li-top-a" target="_blank">
+                                        <img lz_src="http://i3.7k7kimg.cn/cms/cms11/b/3/4966_3567.jpg" alt="环保麻将" width="76" height="77">
+                                        <span class="ui-li-name">环保麻将</span>
+                                    </a>
+                                                                                <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/92/">棋牌</a>
+                                            <a href="/tag/300/">卡通</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/4432.htm" class="li-top-a" target="_blank">
+                                        <img lz_src="http://i2.7k7kimg.cn/cms/cms11/0/d/4432_3317.jpg" alt="三国麻将风云再次修改版" width="76" height="77">
+                                        <span class="ui-li-name">三国麻将风云再次修改版</span>
+                                    </a>
+                                                                                <a href="/tag/71/">三国</a>
+                                            <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/92/">棋牌</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/4220.htm" class="li-top-a" target="_blank">
+                                        <img lz_src="http://i2.7k7kimg.cn/cms/cms11/a/4/4220_5650.jpg" alt="三国麻将风云" width="76" height="77">
+                                        <span class="ui-li-name">三国麻将风云</span>
+                                    </a>
+                                                                                <a href="/tag/71/">三国</a>
+                                            <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/92/">棋牌</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/1903.htm" class="li-top-a" target="_blank">
+                                        <img lz_src="http://i3.7k7kimg.cn/cms/cms11/b/3/1903_5554.jpg" alt="北京麻将" width="76" height="77">
+                                        <span class="ui-li-name">北京麻将</span>
+                                    </a>
+                                                                                <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                                <li>
+                                    <a href="/flash/1758.htm" class="li-top-a" target="_blank">
+                                        <img lz_src="http://i4.7k7kimg.cn/cms/cms11/b/2/1758_8563.jpg" alt="上海麻将" width="76" height="77">
+                                        <span class="ui-li-name">上海麻将</span>
+                                    </a>
+                                                                                <a href="/tag/72/">麻将</a>
+                                            <a href="/tag/1/">连连看</a>
+                                            <a href="/tag/253/">益智</a>
+                                </li>
+                            </ul>
+                            </div>
+                        </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="col-side">
+            <div class="main-mod">
+
+                <div class="box">
+                    <div class="box-hd hd-ml">
+                        <h2>麻将游戏排行</h2>
+                    </div>
+                    <div class="box-bd">
+                        <ul class="ui-img-list span3 toleft">
+                                            <li>
+                                <a href="/flash/110733.htm" title="麻将单机版">
+                                    <img src="http://i5.7k7kimg.cn/cms/cms11/8/0/110733_4191.jpg" width="76" height="77" class="pic" alt="麻将单机版">
+                                    <span class="ui-li-name">麻将单机版</span>
+                                </a>
+                            </li>
+                                        <li>
+                                <a href="/flash/112466.htm" title="�
+1114
+�人打麻将">
+                                    <img src="http://i3.7k7kimg.cn/cms/cms11/1/f/112466_7559.jpg" width="76" height="77" class="pic" alt="四人打麻将">
+                                    <span class="ui-li-name">四人打麻将</span>
+                                </a>
+                            </li>
+                                        <li>
+                                <a href="/flash/75889.htm" title="麻将移移看">
+                                    <img src="http://i3.7k7kimg.cn/cms/cms11/a/9/75889_3092.jpg" width="76" height="77" class="pic" alt="麻将移移看">
+                                    <span class="ui-li-name">麻将移移看</span>
+                                </a>
+                            </li>
+                                        <li>
+                                <a href="/flash/16622.htm" title="二人麻将">
+                                    <img src="http://i1.7k7kimg.cn/cms/cms11/e/3/16622_2448.jpg" width="76" height="77" class="pic" alt="二人麻将">
+                                    <span class="ui-li-name">二人麻将</span>
+                                </a>
+                            </li>
+                                        <li>
+                                <a href="/flash/112307.htm" title="中国麻将连连看">
+                                    <img src="http://i3.7k7kimg.cn/cms/cms11/2/5/112307_8161.jpg" width="76" height="77" class="pic" alt="中国麻将连连看">
+                                    <span class="ui-li-name">中国麻将连连看</span>
+                                </a>
+                            </li>
+                                        <li>
+                                <a href="/flash/133191.htm" title="大众麻将">
+                                    <img src="http://i5.7k7kimg.cn/cms/cms11/8/0/110733_4191.jpg" width="76" height="77" class="pic" alt="大众麻将">
+                                    <span class="ui-li-name">大众麻将</span>
+                                </a>
+                            </li>
+                                        <li>
+                                <a href="/flash/24452.htm" title="中国传统麻将">
+                                    <img src="http://i4.7k7kimg.cn/cms/cms11/a/e/24452_5438.jpg" width="76" height="77" class="pic" alt="中国传统麻将">
+                                    <span class="ui-li-name">中国传统麻将</span>
+                                </a>
+                            </li>
+                                        <li>
+                                <a href="/flash/132145.htm" title="麻将游戏单机版">
+                                    <img src="http://i1.7k7kimg.cn/cms/cms10/20140509/153626_1171.jpg" width="76" height="77" class="pic" alt="麻将游戏单机版">
+                                    <span class="ui-li-name">麻将游戏单机版</span>
+                                </a>
+                            </li>
+                                        <li>
+                                <a href="/flash/16089.htm" title="新上海麻将">
+                                    <img src="http://i3.7k7kimg.cn/cms/cms11/0/6/16089_1900.jpg" width="76" height="77" class="pic" alt="新上海麻将">
+                                    <span class="ui-li-name">新上海麻将</span>
+                                </a>
+                            </li>
+                                    </ul>
+                    </div>
+                </div> <!-- box -->
+                <div class="box">
+                    <div class="box-hd">
+                        <h2>非玩不可的麻将游戏</h2>
+                    </div>
+                    <div class="box-bd">
+                        <ul class="ui-img-list span3 toleft">
+                                            <li>
+                                <a href="/flash/16622.htm" title="二人麻将">
+                                    <img src="http://i1.7k7kimg.cn/cms/cms11/e/3/16622_2448.jpg" width="76" height="77" class="pic" alt="二人麻将">
+                                    <span class="ui-li-name">二人麻将</span>
+                                </a>
+                            </li>
+                                        <li>
+                     
+7208
+           <a href="/flash/75889.htm" title="麻将移移看">
+                                    <img src="http://i3.7k7kimg.cn/cms/cms11/a/9/75889_3092.jpg" width="76" height="77" class="pic" alt="麻将移移看">
+                                    <span class="ui-li-name">麻将移移看</span>
+                                </a>
+                            </li>
+                                        <li>
+                                <a href="/flash/24452.htm" title="中国传统麻将">
+                                    <img src="http://i4.7k7kimg.cn/cms/cms11/a/e/24452_5438.jpg" width="76" height="77" class="pic" alt="中国传统麻将">
+                                    <span class="ui-li-name">中国传统麻将</span>
+                                </a>
+                            </li>
+                                        <li>
+                                <a href="/flash/14533.htm" title="竹林麻将连连看">
+                                    <img src="http://i3.7k7kimg.cn/cms/cms11/3/f/14533_8610.jpg" width="76" height="77" class="pic" alt="竹林麻将连连看">
+                                    <span class="ui-li-name">竹林麻将连连看</span>
+                                </a>
+                            </li>
+                                        <li>
+                                <a href="/flash/16089.htm" title="新上海麻将">
+                                    <img src="http://i3.7k7kimg.cn/cms/cms11/0/6/16089_1900.jpg" width="76" height="77" class="pic" alt="新上海麻将">
+                                    <span class="ui-li-name">新上海麻将</span>
+                                </a>
+                            </li>
+                                        <li>
+                                <a href="/flash/14095.htm" title="鲜花麻将连连看">
+                                    <img src="http://i5.7k7kimg.cn/cms/cms11/4/a/14095_5523.jpg" width="76" height="77" class="pic" alt="鲜花麻将连连看">
+                                    <span class="ui-li-name">鲜花麻将连连看</span>
+                                </a>
+                            </li>
+                                        <li>
+                                <a href="/flash/110733.htm" title="麻将单机版">
+                                    <img src="http://i5.7k7kimg.cn/cms/cms11/8/0/110733_4191.jpg" width="76" height="77" class="pic" alt="麻将单机版">
+                                    <span class="ui-li-name">麻将单机版</span>
+                                </a>
+                            </li>
+                                        <li>
+                                <a href="/flash/23939.htm" title="台湾16张麻将">
+                                    <img src="http://i5.7k7kimg.cn/cms/cms11/1/6/23939_3631.jpg" width="76" height="77" class="pic" alt="台湾16张麻将">
+                                    <span class="ui-li-name">台湾16张麻将</span>
+                                </a>
+                            </li>
+                                        <li>
+                                <a href="/flash/112466.htm" title="四人打麻将">
+                                    <img src="http://i3.7k7kimg.cn/cms/cms11/1/f/112466_7559.jpg" width="76" height="77" class="pic" alt="四人打麻将">
+                                    <span class="ui-li-name">四人打麻将</span>
+                                </a>
+                            </li>
+                                    </ul>
+                    </div>
+                </div> <!-- box -->
+            </div><!-- main-mod -->
+
+            <div class="ad-content1" id="tag_a5">
+              <!-- 360广告 -->
+              <div id="adbox2" style="margin-bottom:6px;display: none;">
+                <!--<script src="//static.mediav.com/js/mvf_shop_window.js"></script>
+                <script>
+                   SHOP_WINDOW({
+                        size: 'square_300',
+                        showid : 'KhrCUa',
+                        placeholderId: 'adbox2', //渲染位置容器id
+                        onFail : function(){ // 兜底内容
+                          console.log('on Fail run');
+                          $('#adbox2').hide();
+                          $('#baidu-ad2').show();
+                        }
+                    });
+                </script>-->
+              </div>
+              <!-- 360广告 -->
+              <!-- 百度广告 -->
+              <!-- 2021 -->
+                    <!-- <div id="baidu-ad2" style="margin-bottom:6px;"> -->
+                      <!-- 百度反屏蔽代码  -->
+                      <script type="text/javascript" src="//bdjs.uimg.cn/site/js/78147.js?p=kclshjgc"></script>
+                      <!-- 百度反屏蔽代码 -->
+                    <!-- </div> -->
+              <!-- 2021 -->
+            </div>
+
+            <div class="main-mod">
+	<div id="uc-login-in" class="user-card" style="display:none">
+                <div class="user-card-info">
+                    <div class="user-name">
+                        <a href="http://my.7k7k.com">
+                            <span class="qk_vip_name"></span>
+                        </a>
+                        <span vip-marked="1" class="qk_vip_mark"></span>
+                    </div>
+
+                    <ul class="user-data">
+                        <li><a target="_blank" href="http://my.7k7k.com/">
+                            <span class="icon uc-home"></span>
+                            空间
+                        </a></li>
+                        <li><a target="_blank" href="http://my.7k7k.com/message/">
+                            <span class="icon uc-msg"></span>
+                            消息
+                        </a></li>
+                        <li><a target="_blank" href="http://my.7k7k.com/friend">
+                            <span class="icon uc-fri"></span>
+                            好友
+                        </a></li>
+                    </ul>
+                </div><!-- user-card-info -->
+
+                <div class="user-avatar"><a href="http://my.7k7k.com/" target="_blank"><img src="" width="90" height="90" alt=""></a></div>
+
+            </div><!-- user-card -->
+                
+            <div id="uc-login-out" class="user-card">
+                <div class="user-card-info">
+                    <div class="user-login">
+                        <a href="#bottom" class="btn-login">登录</a>
+                        <a target="_blank" href="http://zc.7k7k.com/">注册<i class="icon i-arrow-gray"></i></a>
+                    </div>
+                    <p>登录7k7k发现更多乐趣</p>
+                </div><!-- user-card-info -->
+                <div class="user-avatar"><img width="90" height="90" alt="" src="http://www.7k7kjs.cn/mainsite/images/default.jpg"></div>
+            </div><!-- user-card -->
+
+            <div class="box my-game mb8">
+                <div class="box-hd">
+                    <div class="ui-tabs">
+                        <ul>
+                            <li class="current ui-nobd"><a href="http://my.7k7k.com/game/my/played/" target="_blank">我玩过的</a></li>
+                            <li><a href="http://my.7k7k.com/game/my/faved" target="_blank" id="my-sc">我收藏的</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="box-bd cf" data-recommend="196941|3D坦克|http://web.7k7k.com/games/3dtk/,198167|小小勇士|http://h5.7k7k.com/playGameOnpc/?gid=2d7b8138c4085713e60afa73ae29afa7&tid=15246,196320|战地联盟|http://g.7k7k.com/games/W01953/?tuijian,197405|枪魂|http://g.7k7k.com/games/W02003/?wan,178765|三国杀|http://news.7k7k.com/sgs/?rm,162640|炮炮兵团|http://news.7k7k.com/ppbt/?wan,197188|部落自走棋|http://g.7k7k.com/games/W02007/,179670|天黑请闭眼|http://news.7k7k.com/ssol/?rm,162952|村长征战团|http://news.7k7k.com/czzzt/?wan,179665|三国群雄传|http://news.7k7k.com/sgqxz/?wan,197295|不思议地下城|http://h5.7k7k.com/playGameOnpc/?gid=160d54f3e5e754ccdedac4aa6c1bc509&tid=6399,158867|塔防联盟|http://news.7k7k.com//tflm/?rm,179671|天空之舞|http://news.7k7k.com/mhlw/?wan,197518|飘渺西游|http://g.7k7k.com/games/W01991/,152309|组装金刚侠|/flash/152309.htm,161923|美食大战老鼠|http://news.7k7k.com/msdzls/,188370|皮卡堂洗澡堂|http://news.7k7k.com/pkt/?wan,179674|第一舰队|http://news.7k7k.com/dyjd/?wan,179660|特战英雄|http://news.7k7k.com/tzyx/?wan,168905|完美漂移|http://news.7k7k.com/wmpy/?wan,176452|坦克联盟|http://tklm.7k7k.com/?wan,122751|购物狂进军伦敦|/flash/122751.htm,133469|猜歌王正式版|/flash/133469.htm,141635|千里追女友|/flash/141635.htm,109081|狼牙特种狙击队|/flash/109081.htm,152447|3D超级竞速3|/flash/152447.htm,135115|生化危机行动|/flash/135115.htm,142119|小人冒险4|/flash/142119.htm,148296|幻影车神|/flash/148296.htm,132467|乐高幻影忍者|/flash/132467.htm,64933|植物大战僵尸塔防版|/flash/64933.htm,68962|疯狂过山车2|/flash/68962.htm,197891|火柴人神器之战2|/flash/197891.htm,126321|英勇消防员|/flash/126321.htm,184154|恐龙化石考古挖掘|/flash/184154.htm,199288|画条腿快跑|/flash/199288.htm" id="played-cont">
+                    <div class="his-nothing-tip"></div>
+                    <div class="func-area" id="tab-played">
+                        <div class="ui-slide-trigger3 ui-slide">
+                            <ul class="ui-slide-trigger2">
+                                <li class="current">●</li>
+                                <li class="">●</li>
+                                <li class="">●</li>
+                            </ul>
+                            <i class="ui-slide-btn-left"></i>
+                            <i class="ui-slide-btn-right"></i>
+                        </div>
+
+                        <div class="fr">
+                            <a href="http://my.7k7k.com/game/my/played/" target="_blank"><i class="icon i-more"></i>更多</a>
+                            <a href="#bottom">登录7k7k读取更多记录<i class="icon i-arrow-gray"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div> <!-- box -->
+            </div>
+            
+            <!-- <div class="ad-content" id="tag_a4"></div> -->
+            
+            <div id="fixedBox">
+              <div id="tag-fixed">
+                <div class="nomargin">
+                  <style>
+                    .nomargin .main-mod{
+                      margin-bottom:0;
+                      border:none
+                    }
+                  </style>
+                  <div class="box main-mod mobile-game">
+	<div class="box-hd">
+		<h2>网页游戏</h2>
+	</div>
+	<div class="box-bd lazyload-part-r">
+		<div class="tabs-android">
+			<ul class="ui-img-list span3 toleft">
+											<li>
+					<a href="http://news.7k7k.com/tzyx/" title="7k7k特战英雄" target="_blank">
+						<i class="i-mask7k"></i>
+						<img src="http://www.7k7kjs.cn/zeze/img/common/empty.png" lz_src="http://i4.7k7kimg.cn/cms/cms10/20170401/110936_9335.jpg" height="77" width="76" alt="7k7k特战英雄"> 
+						<span class="ui-li-name">7k7k特战英雄</span>
+					</a>
+				</li>
+												<li>
+					<a href="http://news.7k7k.com/wmpy/" title="完美漂移" target="_blank">
+						<i class="i-mask7k"></i>
+						<img src="http://www.7k7kjs.cn/zeze/img/common/empty.png" lz_src="http://i4.7k7kimg.cn/cms/cms10/20170214/100910_4546.jpg" height="77" width="76" alt="完美漂移"> 
+						<span class="ui-li-name">完美漂移</span>
+					</a>
+				</li>
+												<li>
+					<a href="http://news.7k7k.com/ppbt/" title="炮炮兵团" target="_blank">
+						<i class="i-mask7k"></i>
+						<img src="http://www.7k7kjs.cn/zeze/img/common/empty.png" lz_src="http://i4.7k7kimg.cn/cms/cms10/20170713/173159_6746.jpg" height="77" width="76" alt="炮炮兵团"> 
+						<span class="ui-li-name">炮炮兵团</span>
+					</a>
+				</li>
+												<li>
+					<a href="http://web.7k7k.com/games/mywyb/897645/897645-912831.html" title="魔域永恒" target="_blank">
+						<i class="i-mask7k"></i>
+						<img src="http://www.7k7kjs.cn/zeze/img/common/empty.png" lz_src="http://i1.7k7kimg.cn/cms/cms10/20170905/113152_4252.jpg" height="77" width="76" alt="魔域永恒"> 
+						<span class="ui-li-name">魔域永恒</span>
+					</a>
+				</li>
+												<li>
+					<a href="http://web.7k7k.com/games/W02022/775765/775765-sszt.html" title="盛世遮天" target="_blank">
+						<i class="i-mask7k"></i>
+						<img src="http://www.7k7kjs.cn/zeze/img/common/empty.png" lz_src="http://i1.7k7kimg.cn/cms/cms10/20191112/161327_7877.jpg" height="77" width="76" alt="盛世遮天"> 
+						<span class="ui-li-name">盛世遮天</span>
+					</a>
+				</li>
+												<li>
+					<a href="http://web.7k7k.com/games/srcs/897645/897645-5487545.html" title="散人传说" target="_blank">
+						<i class="i-mask7k"></i>
+						<img src="http://www.7k7kjs.cn/zeze/img/common/empty.png" lz_src="http://i4.7k7kimg.cn/cms/zeze/20171114/113559_6119.jpg" height="77" width="76" alt="散人传说"> 
+						<span class="ui-li-name">散人传说</span>
+					</a>
+				</li>
+												<li>
+					<a href="http://web.7k7k.com/games/jzcq/897645/897645-2341231.html" title="金装传奇" target="_blank">
+						<i class="i-mask7k"></i>
+						<img src="http://www.7k7kjs.cn/zeze/img/common/empty.png" lz_src="http://i2.7k7kimg.cn/cms/zeze/20171027/113155_9707.jpg" height="77" width="76" alt="金装传奇"> 
+						<span class="ui-li-name">金装传奇</span>
+					</a>
+				</li>
+												<li>
+					<a href="http://web.7k7k.com/games/hycs/zz/zz-syyy2.html" title="红月传说" target="_blank">
+						<i class="i-mask7k"></i>
+						<img src="http://www.7k7kjs.cn/zeze/img/common/empty.png" lz_src="http://i4.7k7kimg.cn/cms/cms10/20180705/155656_3393.jpg" height="77" width="76" alt="红月传说"> 
+						<span class="ui-li-name">红月传说</span>
+					</a>
+				</li>
+												<li>
+					<a href="http://web.7k7k.com/games/cqsj/897645/897645-8274353.html" title="传奇世界网页版" target="_blank">
+						<i class="i-mask7k"></i>
+						<img src="http://www.7k7kjs.cn/zeze/img/common/empty.png" lz_src="http://i1.7k7kimg.cn/cms/cms10/20170623/120601_6791.jpg" height="77" width="76" alt="传奇世界网页版"> 
+						<span class="ui-li-name">传奇世界网页版</span>
+					</a>
+				</li>
+							</ul>
+		</div>
+	</div>
+</div>
+                </div>
+                <div style="margin-bottom:6px;background:#fff;">
+                  <style>
+                    .bottom-list{
+                      overflow: hidden;
+                      padding: 15px 0 5px 5px
+                    }
+                    .bottom-list li{
+                      float: left;
+                      width: 125px;
+                      margin-left: 10px;
+                      margin-bottom: 5px;
+                      display: inline;
+                    }
+                    .bottom-list li img{
+                      width: 125px;
+                      height: 80px;
+                    }
+                    .bottom-list li p{
+                      color: #3f3f3f;
+                      text-align: center;
+                      font: normal 12px/24px "microsoft yahei",tahoma,arial,"Hiragino Sans GB","\5b8b\4f53",sans-serif;
+                    }
+                  </style>
+                  <ul class="bottom-list">
+                                          <li> 
+                        <a href="http://news.7k7k.com/ssol/?xxjj-yc" target="_blank">
+                        <a href="http://news.7k7k.com/games/tpbsn/?xxjj-yc" title="天黑请闭眼" target="_blank"> 
+                          <img lz_src="http://i2.7k7kimg.cn/cms/cms10/20180726/103106_6479.jpg" alt="天黑请闭眼" width="125" height="80" src="http://i2.7k7kimg.cn/cms/cms10/20180726/103106_6479.jpg"> 
+                          <p>天黑请闭眼</p> 
+                        </a> 
+                      </li>
+                                          <li> 
+                        <a href="http://news.7k7k.com/lskg/?xxjj-yc" target="_blank">
+                        <a href="http://news.7k7k.com/games/tpbsn/?xxjj-yc" title="就要K歌" target="_blank"> 
+                          <img lz_src="http://i2.7k7kimg.cn/cms/cms10/20191018/152641_2451.jpg" alt="就要K歌" width="125" height="80" src="http://i2.7k7kimg.cn/cms/cms10/20191018/152641_2451.jpg"> 
+                          <p>就要K歌</p> 
+                        </a> 
+                      </li>
+                                      </ul>
+                    <!-- 广告 -->
+                    <!-- <script type="text/javascript" src="//bdjs.uimg.cn/production/33po1.js?yt=lubcbbv"></script> -->
+                    <script type="text/javascript" src="//bdjs.uimg.cn/site/whsn.js?kf=xhbluen"></script>
+                    <!-- 广告 -->
+                </div>
+              </div>
+            </div>
+
+        </div><!-- col-side -->
+    </div><!-- wrap -->
+</div>
+
+</div><!-- end main-box -->
+<!-- <style>
+.copyright{
+    border-top: none;
+}
+.footer-link .friend-link a,.footer-link .friend-link h3 {
+    color: #a2a2a2;
+}
+</style> -->
+<div class="footer">
+    <div class="wrap footer-link cf" id="footer-link" style="position: relative">
+        <div style="position: absolute;left: 904px;top: 102px;">
+            <a href="https://v.yunaq.com/certificate?domain=web.7k7k.com&amp;from=label&amp;code=90020"><img src="https://aqyzmedia.yunaq.com/labels/label_sm_90020.png" style="width: 72px;height:25px;"></a>
+        </div>
+    <div class="sl-w1">
+  <h3><span class="fc-orange">7K7K</span>小游戏</h3>
+  <ul class="ui-img-list">
+    <li>
+      <a href="http://www.7k7k.com/mm.htm">女生小游戏</a>
+    </li>
+    <li>
+      <a href="http://www.7k7k.com/tag/134/">过关小游戏</a>
+    </li>
+    <li>
+      <a href="http://www.7k7k.com/flash_fl/456_1.htm">益智小游戏</a>
+    </li>
+    <li>
+      <a href="http://www.7k7k.com/flash_fl/485_1.htm">休闲小游戏</a>
+    </li>
+    <li>
+      <a href="http://www.7k7k.com/flash_fl/478_1.htm">动作小游戏</a>
+    </li>
+    <li>
+      <a href="http://www.7k7k.com/flash_fl/461_1.htm">冒险小游戏</a>
+    </li>
+    <li>
+      <a href="http://www.7k7k.com/flash_fl/499_1.htm">换装小游戏</a>
+    </li>
+    <li>
+      <a href="http://www.7k7k.com/flash_fl/459_1.htm">射击小游戏</a>
+    </li>
+    <li>
+      <a href="http://www.7k7k.com/flash_fl/491_1.htm">战争小游戏</a>
+    </li>
+    <li>
+      <a href="http://www.7k7k.com/tag/62/">双人小游戏</a>
+    </li>
+    <li>
+      <a href="http://www.7k7k.com/td.html">塔防游戏</a>
+    </li>
+    <li>
+      <a href="http://www.7k7k.com/flash_fl/458_1.htm">赛车游戏</a>
+    </li>
+    <li>
+      <a href="http://www.7k7k.com/chengguang.html">橙光游戏</a>
+    </li>
+    <li>
+      <a href="http://www.7k7k.com/flash_fl/484_1.htm">解谜游戏</a>
+    </li>
+  </ul>
+</div>
+
+<div class="sl-w3">
+  <h3><span class="fc-pink">7K7K</span>网页游戏</h3>
+  <ul class="ui-img-list">
+    <li>
+      <a href="http://web.7k7k.com/games/cqss/">传奇盛世</a>
+    </li>
+    <li>
+      <a href="http://web.7k7k.com/user/login.html">注册帐号</a>
+    </li>
+    <li>
+      <a href="http://web.7k7k.com/games/ddt/">弹弹堂</a>
+    </li>
+    <li>
+      <a href="http://web.7k7k.com/user/">用户中心</a>
+    </li>
+    <li>
+      <a href="http://web.7k7k.com/games/nslm/">女神联盟</a>
+    </li>
+    <li>
+      <a href="http://pay.web.7k7k.com/">充值中心</a>
+    </li>
+    <li>
+      <a href="http://web.7k7k.com/games/lycq/">蓝月传奇</a>
+    </li>
+    <li>
+      <a href="http://web.7k7k.com/kf/">客服中心</a>
+    </li>
+    <li>
+      <a href="http://web.7k7k.com/games/tssj/">天书世界</a>
+    </li>
+    <li>
+      <a href="http://8.7k7k.com/">火爆论坛</a>
+    </li>
+    <li>
+      <a href="http://web.7k7k.com/games/cqby/">传奇霸业</a>
+    </li>
+    <li>
+      <a href="http://web.7k7k.com">网页游戏</a>
+    </li>
+    <li>
+      <a href="http://web.7k7k.com/games/wszzl/">武神赵子龙</a>
+    </li>
+  </ul>
+</div>
+
+<div class="sl-w4">
+  <h3><span class="fc-blue">7K7K</span>儿童游戏</h3>
+  <ul class="ui-img-list">
+    <li>
+      <a href="http://www.7k7k.com/special/roco/">7K7K洛克王国</a>
+    </li>
+    <li>
+      <a href="http://www.7k7k.com/special/xiaohuaxian/">7K7K小花仙</a>
+    </li>
+    <li>
+      <a href="http://www.7k7k.com/special/51seer/">7K7K赛尔号</a>
+    </li>
+    <li>
+      <a href="http://www.7k7k.com/special/aola/">7K7K奥拉星</a>
+    </li>
+    <li>
+      <a href="http://news.7k7k.com/aoqi/">7K7K奥奇传说</a>
+    </li>
+    <li>
+      <a href="http://www.7k7k.com/special/aobi/">7K7K奥比岛</a>
+    </li>
+    <li>
+      <a href="http://news.7k7k.com/lskg/">7k7k恋上K歌</a>
+    </li>
+    <li>
+      <a href="http://news.7k7k.com/ssol/">7k7k推理学院</a>
+    </li>
+    <li>
+      <a href="http://news.7k7k.com/games/tpbsn/">7k逃跑吧少年</a>
+    </li>
+     <li>
+      <a href="http://news.7k7k.com/pkt/">7k7k皮卡堂</a>
+    </li>
+     <li>
+      <a href="http://news.7k7k.com/mhlw/">7k7k天空之舞</a>
+    </li>
+     <li>
+      <a href="http://news.7k7k.com/mnsj/">7k7k迷你世界</a>
+    </li>
+  </ul>
+</div>
+
+<div class="sl-w2">
+  <h3><span class="fc-green">7K7K</span>社区</h3>
+  <ul class="ui-img-list">
+    <li>
+      <a href="http://8.7k7k.com/">K吧</a>
+    </li>
+    <li>
+      <a href="http://shouji.7k7k.com/">手机游戏</a>
+    </li>
+    <li>
+      <a href="http://h.7k7k.com/pc/">H5小游戏</a>
+    </li>
+    <li>
+      <a href="http://g.7k7k.com/">游戏大厅</a>
+    </li>
+    <li>
+      <a href="http://news.7k7k.com/">游戏资讯</a>
+    </li>
+  </ul>
+</div>
+
+<div class="sl-w5">
+  <h3><span class="fc-brown">7K7K</span>出品</h3>
+  <ul class="ui-img-list">
+    <li>
+      <a href="http://news.7k7k.com/tzyx/">特战英雄</a>
+    </li> 
+    <li>
+      <a href="http://news.7k7k.com/wmpy/">完美漂移</a>
+    </li>
+  </ul>
+</div>
+
+<div class="sl-w6">
+  <h3>关注我们</h3>
+  <ul class="ui-img-list">
+    <li>
+      <span class="foot-code"></span>
+      <p class="foot-weixin">微信love7K7K</p>
+    </li>
+    <li>
+      <a href="http://e.weibo.com/lz7k7k" title="新浪微博" class="icon i-weibo" rel="nofollow">新浪微博</a>
+    </li>
+  </ul>
+</div>
+
+<div class="copyright">
+  <div class="a">
+    <a rel="nofollow" href="http://www.7k7k.com/html/about.htm">关于我们</a>
+    |
+    <a rel="nofollow" href="http://www.7k7k.com/html/lianxi.htm">联系方式</a>
+    |
+    <a rel="nofollow" href="http://www.7k7k.com/html/a.htm">广告服务</a>
+    |
+    <a rel="nofollow" href="http://web.7k7k.com/jiazhang/">家长监护工程</a>
+    |
+    <a rel="nofollow" href="http://web.7k7k.com/kf/">纠纷处理</a>
+    |
+    <span>Copyright © 2003-2019 7k7k.com</span>
+  </div>
+  <div class="b">
+    <a rel="nofollow" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802021337" class="gong">京公网安备 11010802021337号</a>
+    <a rel="nofollow" href="http://beian.miit.gov.cn/">ICP证京B2-20191377号</a>
+    <a rel="nofollow" href="http://beian.miit.gov.cn/">京ICP备18058000号-2</a>
+    <a rel="nofollow" href="http://sq.ccm.gov.cn/ccnt/sczr/service/business/emark/toDetail/7D780FC3F7B6EA77E053010A14ACD91E" class="wen">京网文[2018]11363-1047号</a>
+  </div>
+  <div class="b">
+    <span>文明办网、文明上网举报，纠纷处理及不良内容举报电话：400-809-7676</span>　
+    <span>举报邮箱：<a target="_self" href="mailto:jubao@7k7k.com">jubao@7k7k.com</a></span>
+    <span>北京迦游网络科技有限公司</span>
+  </div>
+  <div class="c">游戏作品版权归原作者享有，如无意之中侵犯了您的版权，请您按照<a href="http://www.7k7k.com/html/copyright.htm">《版权保护投诉指引》</a>来信告知，本网站将应您的要求删除。</div>
+  <div class="d">7k7k小游戏温馨提示：适度游戏娱乐，沉迷游戏伤身，合理安排时间，享受快乐生活……</div>    </div>
+    <!--     <div class="friend-link">
+        <h3>友情链接:</h3>
+        <div class="fr-cont-wrap" id="c-link" style="margin:0px">
+        <ul class="fr-cont">
+<li>
+<a href="http://news.7k7k.com/tzyx/" target="_blank">特战英雄</a>
+<a href="http://www.7k7k.com/tag/276/" target="_blank">3d</a>
+<a href="http://www.7k7k.com/2014/ai4/" target="_blank">爱情公寓4</a>
+<a href="http://www.7k7k.com/tag/158/" target="_blank">奥特曼</a>
+<a href="http://www.7k7k.com/flash/20712.htm" target="_blank">斗地主</a>
+<a href="http://www.7k7k.com/special/zhiwu/" target="_blank">植物大战僵尸</a>
+<a href="http://www.7k7k.com/flash/72392.htm" target="_blank">欢乐斗地主</a>
+<a href="http://news.7k7k.com/ttfc/" target="_blank">天天飞车</a>
+<a href="http://news.7k7k.com/xxl/" target="_blank">开心消消乐</a>
+<a href="http://www.7k7k.com/flash/98278.htm" target="_blank">名字测试</a>
+</li>
+<li>
+<a href="http://www.7k7k.com/flash/111027.htm" target="_blank">消灭星星</a>
+<a href="http://www.7k7k.com/tag/3281/" target="_blank">冰雪奇缘</a>
+<a href="http://www.7k7k.com/tag/404/" target="_blank">单机斗地主</a>
+<a href="http://www.7k7k.com/special/51seer/" target="_blank">赛尔号</a>
+<a href="http://www.7k7k.com/special/roco/" target="_blank">洛克王国</a>
+<a href="http://news.7k7k.com/maohelaoshu/" target="_blank">猫和老鼠</a>
+<a href="http://www.7k7k.com/" target="_blank">小游戏</a>
+<a href="http://news.7k7k.com/ttxd/" target="_blank">天天炫斗</a>
+<a href="http://news.7k7k.com/jzds/" target="_blank">节奏大师</a>
+<a href="http://news.7k7k.com/doc/20141021/456829.html" target="_blank">正常的大冒险</a>
+</li>
+<li>
+<a href="http://www.7k7k.com/flash/137429.htm" target="_blank">大头儿子小头爸爸</a>
+<a href="http://www.7k7k.com/special/angrybirds/" target="_blank">愤怒的小鸟</a>
+<a href="http://www.7k7k.com/flash/108290.htm" target="_blank">神庙逃亡2</a>
+<a href="http://www.7k7k.com/tag/2661/" target="_blank">巧虎</a>
+<a href="http://news.7k7k.com/aoqi/" target="_blank">奥奇传说</a>
+<a href="http://www.7k7k.com/special/aola/" target="_blank">奥拉星</a>
+<a href="http://www.7k7k.com/tag/2984/" target="_blank">捕鱼达人</a>
+<a href="http://www.7k7k.com/flash/129167.htm" target="_blank">2048</a>
+<a href="http://www.7k7k.com/tag/1/" target="_blank">连连看</a>
+<a href="http://www.7k7k.com/tag/170/" target="_blank">蜘蛛侠</a>
+</li>
+<li>
+<a href="http://www.7k7k.com/flash/42994.htm" target="_blank">象棋</a>
+<a href="http://web.7k7k.com/" target="_blank">网页游戏</a>
+<a href="http://www.7k7k.com/tag/69/" target="_blank">成人</a>
+<a href="http://www.7k7k.com/flash/119583.htm" target="_blank">天天爱消除</a>
+<a href="http://news.7k7k.com/mishituotao/" target="_blank">逃脱</a>
+<a href="http://www.7k7k.com/android/" target="_blank">安卓游戏</a>
+<a href="http://news.7k7k.com/mt2/" target="_blank">我叫mt2</a>
+<a href="http://www.7k7k.com/tag/10/" target="_blank">拳皇</a>
+<a href="http://www.7k7k.com/chengguang.html" target="_blank">橙光游戏</a>
+<a href="http://www.7k7k.com/flash/85053.htm" target="_blank">会说话的汤姆猫</a>
+</li>
+<li>
+<a href="http://www.7k7k.com/tag/7/" target="_blank">美女小游戏</a>
+<a href="http://www.7k7k.com/flash/114196.htm" target="_blank">保卫萝卜</a>
+<a href="http://www.7k7k.com/tag/404/" target="_blank">斗地主单机版</a>
+<a href="http://www.7k7k.com/tag/76/" target="_blank">密室逃脱</a>
+<a href="http://www.7k7k.com/flash/79733.htm" target="_blank">水果忍者</a>
+<a href="http://www.7k7k.com/android/info/180874.html" target="_blank">疯狂猜成语</a>
+<a href="http://www.7k7k.com/tag/157/" target="_blank">猫和老鼠全集</a>
+<a href="http://www.7k7k.com/flash/14112.htm" target="_blank">美人如画</a>
+<a href="http://www.7k7k.com/special/xiaohuaxian/" target="_blank">小花仙</a>
+<a href="http://www.7k7k.com/tag/44/" target="_blank">cs</a>
+</li>
+<li>
+<a href="http://www.7k7k.com/special/aobi/" target="_blank">奥比岛</a>
+<a href="http://news.7k7k.com/paopaolong/" target="_blank">泡泡龙</a>
+<a href="http://www.7k7k.com/tag/1221/" target="_blank">星际宝贝</a>
+<a href="http://www.7k7k.com/tag/2557/" target="_blank">汤姆猫</a>
+<a href="http://news.7k7k.com/xxl/" target="_blank">消消乐</a>
+<a href="http://news.7k7k.com/kaijiayongshi/" target="_blank">铠甲勇士</a>
+<a href="http://www.7k7k.com/flash/130947.htm" target="_blank">别踩白块儿</a>
+<a href="http://www.7k7k.com/tag/402/" target="_blank">灰姑�
+b60
+�</a>
+<a href="http://www.7k7k.com/tag/101/" target="_blank">蜡笔小新全集</a>
+<a href="http://www.7k7k.com/flash/126163.htm" target="_blank">消灭星星中文版</a>
+</li>
+<li>
+<a href="http://news.7k7k.com/" target="_blank">7k7k小游戏</a>
+<a href="http://www.7k7k.com/flash/111126.htm" target="_blank">小幽灵</a>
+<a href="http://news.7k7k.com/duola/" target="_blank">朵拉</a>
+<a href="http://csbh.7k7k.com/" target="_blank">创世兵魂</a>
+<a href="http://www.7k7k.com/tag/33/" target="_blank">测试</a>
+<a href="http://www.7k7k.com/tag/3160/" target="_blank">柯南</a>
+<a href="http://www.7k7k.com/special/sgs/" target="_blank">三国杀网页版</a>
+<a href="http://www.7k7k.com/chengguang.html" target="_blank">橙光游戏中心</a>
+<a href="http://news.7k7k.com/ttfc/" target="_blank">天天飞车官网</a>
+<a href="http://www.7k7k.com/special/mole/" target="_blank">摩尔庄园</a>
+</li>
+<li>
+<a href="http://www.7k7k.com/tag/61/" target="_blank">超级玛丽</a>
+<a href="http://www.7k7k.com/tag/111/" target="_blank">模拟驾驶</a>
+<a href="http://news.7k7k.com/hejintantou/" target="_blank">合金弹头</a>
+<a href="http://www.7k7k.com/special/sgs/" target="_blank">三国杀online</a>
+<a href="http://www.7k7k.com/tag/154/" target="_blank">大鱼吃小鱼</a>
+<a href="http://www.7k7k.com/tag/13/" target="_blank">魔塔</a>
+<a href="http://www.7k7k.com/tag/156/" target="_blank">芭比娃娃</a>
+<a href="http://www.7k7k.com/tag/115/" target="_blank">俄罗斯方块</a>
+<a href="http://news.7k7k.com/roco/chongwu/lists.html" target="_blank">洛克王国宠物大全</a>
+<a href="http://www.7k7k.com/tag/2359/" target="_blank">切水果</a>
+</li>
+<li>
+<a href="http://www.7k7k.com/flash/18025.htm" target="_blank">宠物连连看</a>
+<a href="http://www.7k7k.com/flash/47374.htm" target="_blank">uno</a>
+<a href="http://www.7k7k.com/tag/104/" target="_blank">拼图</a>
+<a href="http://shouji.7k7k.com/tag/406.html" target="_blank">女性向手游</a>
+<a href="http://www.7k7k.com/iphone/" target="_blank">苹果游戏</a>
+<a href="http://www.7k7k.com/tag/3278/" target="_blank">exo小游戏</a>
+<a href="http://www.7k7k.com/flash/106832.htm" target="_blank">找你妹</a>
+<a href="http://www.7k7k.com/special/zhiwu/" target="_blank">植物大战僵尸2破解版</a>
+<a href="http://touch.7k7k.com/" target="_blank">touch炫舞</a>
+<a href="http://www.7k7k.com/tag/1819/" target="_blank">爱探险的朵拉</a>
+</li>
+<li>
+<a href="http://www.7k7k.com/tag/26/" target="_blank">做蛋糕小游戏</a>
+<a href="http://www.7k7k.com/tag/10/" target="_blank">拳皇97</a>
+<a href="http://www.7k7k.com/tag/20/" target="_blank">海绵宝宝</a>
+<a href="http://shouji.7k7k.com/tag/883.html" target="_blank">卡丁车</a>
+<a href="http://www.7k7k.com/tag/404/" target="_blank">斗地主下载</a>
+<a href="http://www.7k7k.com/flash/141406.h
+2e84
+tm" target="_blank">天天酷跑电脑版</a>
+<a href="http://www.7k7k.com/tag/249/" target="_blank">宝贝</a>
+<a href="http://www.7k7k.com/special/picatown/" target="_blank">皮卡堂</a>
+<a href="http://www.7k7k.com/flash/24935.htm" target="_blank">旋转</a>
+<a href="http://www.7k7k.com/tag/404/" target="_blank">斗地主</a>
+</li>
+</ul>        </div>
+    </div>
+     -->
+        <div class="friend-link">
+        <h3>友情链接:</h3>
+        <div class="fr-cont-wrap" id="c-link" style="margin:0px">
+        <ul class="fr-cont">
+<li>
+<a href="http://news.7k7k.com/tzyx/" target="_blank">特战英雄</a>
+<a href="http://www.7k7k.com/tag/276/" target="_blank">3d</a>
+<a href="http://www.7k7k.com/2014/ai4/" target="_blank">爱情公寓4</a>
+<a href="http://www.7k7k.com/tag/158/" target="_blank">奥特曼</a>
+<a href="http://www.7k7k.com/flash/20712.htm" target="_blank">斗地主</a>
+<a href="http://www.7k7k.com/special/zhiwu/" target="_blank">植物大战僵尸</a>
+<a href="http://www.7k7k.com/flash/72392.htm" target="_blank">欢乐斗地主</a>
+<a href="http://news.7k7k.com/ttfc/" target="_blank">天天飞车</a>
+<a href="http://news.7k7k.com/xxl/" target="_blank">开心消消乐</a>
+<a href="http://www.7k7k.com/flash/98278.htm" target="_blank">名字测试</a>
+</li>
+<li>
+<a href="http://www.7k7k.com/flash/111027.htm" target="_blank">消灭星星</a>
+<a href="http://www.7k7k.com/tag/3281/" target="_blank">冰雪奇缘</a>
+<a href="http://www.7k7k.com/tag/404/" target="_blank">单机斗地主</a>
+<a href="http://www.7k7k.com/special/51seer/" target="_blank">赛尔号</a>
+<a href="http://www.7k7k.com/special/roco/" target="_blank">洛克王国</a>
+<a href="http://news.7k7k.com/maohelaoshu/" target="_blank">猫和老鼠</a>
+<a href="http://www.7k7k.com/" target="_blank">小游戏</a>
+<a href="http://news.7k7k.com/ttxd/" target="_blank">天天炫斗</a>
+<a href="http://news.7k7k.com/jzds/" target="_blank">节奏大师</a>
+<a href="http://news.7k7k.com/doc/20141021/456829.html" target="_blank">正常的大冒险</a>
+</li>
+<li>
+<a href="http://www.7k7k.com/flash/137429.htm" target="_blank">大头儿子小头爸爸</a>
+<a href="http://www.7k7k.com/special/angrybirds/" target="_blank">愤怒的小鸟</a>
+<a href="http://www.7k7k.com/flash/108290.htm" target="_blank">神庙逃亡2</a>
+<a href="http://www.7k7k.com/tag/2661/" target="_blank">巧虎</a>
+<a href="http://news.7k7k.com/aoqi/" target="_blank">奥奇传说</a>
+<a href="http://www.7k7k.com/special/aola/" target="_blank">奥拉星</a>
+<a href="http://www.7k7k.com/tag/2984/" target="_blank">捕鱼达人</a>
+<a href="http://www.7k7k.com/flash/129167.htm" target="_blank">2048</a>
+<a href="http://www.7k7k.com/tag/1/" target="_blank">连连看</a>
+<a href="http://www.7k7k.com/tag/170/" target="_blank">蜘蛛侠</a>
+</li>
+<li>
+<a href="http://www.7k7k.com/flash/42994.htm" target="_blank">象棋</a>
+<a href="http://web.7k7k.com/" target="_blank">网页游戏</a>
+<a href="http://www.7k7k.com/tag/69/" target="_blank">成人</a>
+<a href="http://www.7k7k.com/flash/119583.htm" target="_blank">天天爱消除</a>
+<a href="http://news.7k7k.com/mishituotao/" target="_blank">逃脱</a>
+<a href="http://www.7k7k.com/android/" target="_blank">安卓游戏</a>
+<a href="http://news.7k7k.com/mt2/" target="_blank">我叫mt2</a>
+<a href="http://www.7k7k.com/tag/10/" target="_blank">拳皇</a>
+<a href="http://www.7k7k.com/chengguang.html" target="_blank">橙光游戏</a>
+<a href="http://www.7k7k.com/flash/85053.htm" target="_blank">会说话的汤姆猫</a>
+</li>
+<li>
+<a href="http://www.7k7k.com/tag/7/" target="_blank">美女小游戏</a>
+<a href="http://www.7k7k.com/flash/114196.htm" target="_blank">保卫萝卜</a>
+<a href="http://www.7k7k.com/tag/404/" target="_blank">斗地主单机版</a>
+<a href="http://www.7k7k.com/tag/76/" target="_blank">密室逃脱</a>
+<a href="http://www.7k7k.com/flash/79733.htm" target="_blank">水果忍者</a>
+<a href="http://www.7k7k.com/android/info/180874.html" target="_blank">疯狂猜成语</a>
+<a href="http://www.7k7k.com/tag/157/" target="_blank">猫和老鼠全集</a>
+<a href="http://www.7k7k.com/flash/14112.htm" target="_blank">美人如画</a>
+<a href="http://www.7k7k.com/special/xiaohuaxian/" target="_blank">小花仙</a>
+<a href="http://www.7k7k.com/tag/44/" target="_blank">cs</a>
+</li>
+<li>
+<a href="http://www.7k7k.com/special/aobi/" target="_blank">奥比岛</a>
+<a href="http://news.7k7k.com/paopaolong/" target="_blank">泡泡龙</a>
+<a href="http://www.7k7k.com/tag/1221/" target="_blank">星际宝贝</a>
+<a href="http://www.7k7k.com/tag/2557/" target="_blank">汤姆猫</a>
+<a href="http://news.7k7k.com/xxl/" target="_blank">消消乐</a>
+<a href="http://news.7k7k.com/kaijiayongshi/" target="_blank">铠甲勇士</a>
+<a href="http://www.7k7k.com/flash/130947.htm" target="_blank">别踩白块儿</a>
+<a href="http://www.7k7k.com/tag/402/" target="_blank">灰姑娘</a>
+<a href="http://www.7k7k.com/tag/101/" target="_blank">蜡笔小新全集</a>
+<a href="http://www.7k7k.com/flash/126163.htm" target="_blank">消灭星星中文版</a>
+</li>
+<li>
+<a href="http://news.7k7k.com/" target="_blank">7k7k小游戏</a>
+<a href="http://www.7k7k.com/flash/111126.htm" target="_blank">小幽灵</a>
+<a href="http://news.7k7k.com/duola/" target="_blank">朵拉</a>
+<a href="http://csbh.7k7k.com/" target="_blank">创世兵魂</a>
+<a href="http://www.7k7k.com/tag/33/" target="_blank">测试</a>
+<a href="http://www.7k7k.com/tag/3160/" target="_blank">柯南</a>
+<a href="http://www.7k7k.com/special/sgs/" target="_blank">三国杀网页版</a>
+<a href="http://www.7k7k.com/chengguang.html" target="_blank">橙光游戏中心</a>
+<a href="http://news.7k7k.com/ttfc/" target="_blank">天天飞车官网</a>
+<a href="http://www.7k7k.com/special/mole/" target="_blank">摩尔庄园</a>
+</li>
+<li>
+<a href="http://www.7k7k.com/tag/61/" target="_blank">超级玛丽</a>
+<a href="http://www.7k7k.com/tag/111/" target="_blank">模拟驾驶</a>
+<a href="http://news.7k7k.com/hejintantou/" target="_blank">合金弹头</a>
+<a href="http://www.7k7k.com/special/sgs/" target="_blank">三国杀online</a>
+<a href="http://www.7k7k.com/tag/154/" target="_blank">大鱼吃小鱼</a>
+<a href="http://www.7k7k.com/tag/13/" target="_blank">魔塔</a>
+<a href="http://www.7k7k.com/tag/156/" target="_blank">芭比娃娃</a>
+<a href="http://www.7k7k.com/tag/115/" target="_blank">俄罗斯方块</a>
+<a href="http://news.7k7k.com/roco/chongwu/lists.html" target="_blank">洛克王国宠物大全</a>
+<a href="http://www.7k7k.com/tag/2359/" target="_blank">切水果</a>
+</li>
+<li>
+<a href="http://www.7k7k.com/flash/18025.htm" target="_blank">宠物连连看</a>
+<a href="http://www.7k7k.com/flash/47374.htm" target="_blank">uno</a>
+<a href="http://www.7k7k.com/tag/104/" target="_blank">拼图</a>
+<a href="http://shouji.7k7k.com/tag/406.html" target="_blank">女性向手游</a>
+<a href="http://www.7k7k.com/iphone/" target="_blank">苹果游戏</a>
+<a href="http://www.7k7k.com/tag/3278/" target="_blank">exo小游戏</a>
+<a href="http://www.7k7k.com/flash/106832.htm" target="_blank">找你妹</a>
+<a href="http://www.7k7k.com/special/zhiwu/" target="_blank">植物大战僵尸2破解版</a>
+<a href="http://touch.7k7k.com/" target="_blank">touch炫舞</a>
+<a href="http://www.7k7k.com/tag/1819/" target="_blank">爱探险的朵拉</a>
+</li>
+<li>
+<a href="http://www.7k7k.com/tag/26/" target="_blank">做蛋糕小游戏</a>
+<a href="http://www.7k7k.com/tag/10/" target="_blank">拳皇97</a>
+<a href="http://www.7k7k.com/tag/20/" target="_blank">海绵宝宝</a>
+<a href="http://shouji.7k7k.com/tag/883.html" target="_blank">卡丁车</a>
+<a href="http://www.7k7k.com/tag/404/" target="_blank">斗地主下载</a>
+<a href="http://www.7k7k.com/flash/141406.htm" target="_blank">天天酷跑电脑版</a>
+<a href="http://www.7k7k.com/tag/249/" target="_blank">宝贝</a>
+<a href="http://www.7k7k.com/special/picatown/" target="_blank">皮卡堂</a>
+<a href="http://www.7k7k.com/flash/24935.htm" target="_blank">旋转</a>
+<a href="http://www.7k7k.com/tag/404/" target="_blank">斗地主</a>
+</li>
+</ul>        </div>
+    </div>
+        
+    <span class="foot-cat"></span>
+  </div>
+</div><!-- footer -->
+<a href="javascript:void(0);" target="_self" class="J-back-top back-btn-top"></a>
+  <a href="javascript:void(0);" target="_self" class="zezeShrink J-shrink cur"></a>
+  <a href="http://www.7k7k.com/feedback/" target="_blank" class="btn-feedback"></a>
+<span class="btn-gif-shrink" id="J-btn-gif-shrink"></span>
+</div><!-- page -->
+<script src="http://www.7k7kjs.cn/js/lib/jquery/1.7.2/jquery-min.js"></script>
+<script src="http://www.7k7kjs.cn/mainsite/v3/common.3b64b73449aa.js"></script>
+<script src="http://www.7k7kjs.cn/mainsite/v3/polyfill.4e8f47a5ffef.js"></script>
+<script src="http://www.7k7kjs.cn/mainsite/v3/tag.aea7133c6d22.js" defer async="true"></script>
+<!-- 广告代码 -->
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+    (function(){
+     var iframe = document.createElement("iframe");
+     iframe.src="/aa/tag.htm";
+     iframe.style.display = "none";
+     document.body.appendChild(iframe);
+
+     })();
+    });
+</script>
+<script>
+  (function(){
+    $(window).scroll(function(event){
+      var scrollTop = $(window).scrollTop()
+      var offsetTop = $('#fixedBox').offset().top
+      var parents = $('#fixedBox').parents('.col-side')
+      var height = $('#tag-fixed').height()
+      var footerTop = $('.footer').offset().top
+      if (parents.height() <= $("#article").height()) {
+        if (parseInt(scrollTop + height + 10) > footerTop) {
+          parents.css({
+            'position':'relative',
+            'height':$("#article").height()+'px'
+          })
+          $('#tag-fixed').removeClass('isfixed').addClass('isposition')
+        } else {
+          parents.removeAttr("style")
+          $('#tag-fixed').removeClass('isposition')
+          if (scrollTop > offsetTop - 40) {
+            $('#tag-fixed').addClass('isfixed')
+          } else {
+            $('#tag-fixed').removeClass('isfixed')
+          }
+        }
+      }
+    });
+  })()
+</script>
+<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=4048401" ></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000)
+</script>
+<!-- 百度广告联盟 -->
+<script type="text/javascript" src="https://cpro.baidustatic.com/cpro/ui/c.js" async="async" defer="defer" ></script>
+<div style="display:none;">
+
+<script>var _hmt = _hmt || [];(function() {var hm = document.createElement("script");hm.src = "https://hm.baidu.com/hm.js?4f1beaf39805550dd06b5cac412cd19b";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(hm, s);})();</script>
+<script type="text/javascript">
+//声明_czc对象:
+var _czc = _czc || [];
+//绑定siteid，请用您的siteid替换下方"XXXXXXXX"部分
+_czc.push(["_setAccount", "30008588"]);
+
+</script>
+<script>(function(){var cnzz_s_tag = document.createElement('script');cnzz_s_tag.type = 'text/javascript'; cnzz_s_tag.async = true;cnzz_s_tag.charset = 'utf-8';cnzz_s_tag.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'vvip.cnzz.com/c.php?id=30008588&async=1';var root_s = document.getElementsByTagName('script')[0];root_s.parentNode.insertBefore(cnzz_s_tag, root_s);})();</script>
+</div><script type="text/javascript">uaredirect('http://m.7k7k.com/flash_tag/72/');</script>
+<script src="http://www.7k7k.com/js/bg-img.js"></script>
+<script src="http://www.7k7k.com/js/mini_program.js"></script>
+</body>
+</html>
+
+0
+
+ 
