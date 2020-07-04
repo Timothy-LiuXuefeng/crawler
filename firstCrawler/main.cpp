@@ -19,7 +19,7 @@ using namespace std;
 queue<string> urlQue;
 set<string> visitedUrl;
 set<string> visitedImg;
-string urlStart = "http://www.4399.com/special/270.htm";										//遍历起始地址
+string urlStart = "http://www.4399.com";										//遍历起始地址
 
 
 
@@ -36,13 +36,19 @@ bool ParseURL(const string& url, string& host, string& resource)				//解析出主机
 		pos = urlTmp.find(httpsStr);						//寻找https://
 		if (pos != string::npos) urlTmp = urlTmp.substr(httpStr.length());
 	}
-	//忽略最前面的‘/’
 	size_t igr = 0;
 	while (urlTmp[igr] != '\0' && urlTmp[igr] == '/') ++igr;
 	urlTmp = urlTmp.substr(igr);
-	if ((pos = urlTmp.find_first_of('/')) == string::npos) return false;
-	host = urlTmp.substr(0, pos);
-	resource = urlTmp.substr(pos);
+	if ((pos = urlTmp.find_first_of('/')) == string::npos)
+	{
+		host = urlTmp; 
+		resource = "/"; 
+	}
+	else
+	{
+		host = urlTmp.substr(0, pos);
+		resource = urlTmp.substr(pos);
+	}
 	return true;
 }
 
@@ -155,7 +161,19 @@ string ToFileName(const string& url)						//将地址转换为文件名
 	return fileName;
 }
 
-
+void relativePath(string& url, const string& fatherUrl)									//处理相对地址
+{
+	size_t pos1 = fatherUrl.find_last_of('/'), pos2 = fatherUrl.find_first_of('/'); 
+	if (url[0] == '/')
+	{
+		if (pos2 == string::npos) url = fatherUrl + url;
+		else url = fatherUrl.substr(0, pos2) + url; 
+	}
+	else if (url.find("http") != 0 && pos1 != string::npos)
+	{
+		url = fatherUrl.substr(0, pos1 + 1) + url; 
+	}
+}
 
 
 //没问题
@@ -171,7 +189,7 @@ void HTMLParse(const string& response, vector<string>& imgurls, const string& ur
 		size_t nextQ = response.find('\"', pos);
 		if (nextQ == string::npos) break;
 		string urlTmp = response.substr(pos, nextQ - pos);
-		if (urlTmp[0] == '/') urlTmp = url + urlTmp; 
+		relativePath(urlTmp, url); 
 		if (visitedUrl.find(urlTmp) == visitedUrl.end())			//没有访问过此网站
 		{
 			urlQue.push(response.substr(pos, nextQ - pos));
@@ -203,7 +221,7 @@ void HTMLParse(const string& response, vector<string>& imgurls, const string& ur
 		size_t nextQ = response.find('\"', pos);
 		if (nextQ == string::npos) break;
 		string imgUrlTmp = response.substr(pos, nextQ - pos);
-		if (imgUrlTmp[0] == '/') imgUrlTmp = url + imgUrlTmp; 
+		relativePath(imgUrlTmp, url); 
 		if (visitedImg.find(imgUrlTmp) == visitedImg.end())			//没有此图片
 		{
 			visitedImg.insert(imgUrlTmp);
