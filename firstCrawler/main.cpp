@@ -235,14 +235,15 @@ void HTMLParse(const string& response, vector<string>& imgurls, const string& ur
 void DownLoadImg(const vector<string>& imgUrls, const string& url) //下载图片
 {
 	string foldName = ".\\img\\" + ToFileName(url); 
+	if (foldName.length() > 200) foldName = foldName.substr(0, 195) + "..."; 
 	bool hasCreated = false; 
 	string image;
 	size_t byteRead;
 	for (size_t i = 0; i < imgUrls.size(); ++i)
 	{
-		int pos = imgUrls[i].find_last_of('.');
-		if (pos == string::npos) continue;
-		string ext = imgUrls[i].substr(pos + 1);
+		size_t posd = imgUrls[i].find_last_of('.');
+		if (posd == string::npos) continue;
+		string ext = imgUrls[i].substr(posd + 1);
 		if (ext != "bmp" && ext != "jpg" && ext != "jpeg" && ext != "gif" && ext != "png") continue;
 
 		//下载内容
@@ -266,10 +267,13 @@ void DownLoadImg(const vector<string>& imgUrls, const string& url) //下载图片
 				ofstream fout((foldName + "\\" + imgName).c_str(), ios::binary | ios::out);
 				if (!fout)
 				{
-					fout.clear(); 
-					fout.close(); 
-					cout << (foldName + "\\" + imgName).c_str() << endl; 
-					MessageBox(NULL, (string(foldName + '\\' + imgName + ": File cannot open!")).c_str(), NULL, 0);
+					ofstream ferr("error.txt", ios::app);
+					if (!ferr) MessageBox(NULL, "Cannot attach to file \"error\"! ", NULL, MB_OK | MB_ICONWARNING);
+					else
+					{
+						ferr << "Cannot open the file: " << foldName + '\\' + imgName << "!\n\t->Source URL: " << imgUrls[i] << endl; 
+						ferr.close(); 
+					}
 					continue; 
 				}
 				fout.write(image.c_str() + pos, byteRead - pos);
@@ -302,7 +306,8 @@ void BFS(const string& url)									//处理一个url
 		return;
 	}
 
-	ofstream fout(string(".\\html\\") + ToFileName(url) + string(".txt"), ios::out);
+	string fileName = ToFileName(url) + string(".txt"); 
+	ofstream fout(string(".\\html\\") + fileName, ios::out);
 	if (fout)												//把网页源代码写入文件并保存
 	{
 		fout << response << endl;
@@ -310,9 +315,13 @@ void BFS(const string& url)									//处理一个url
 	}
 	else
 	{
-		cout << "Cannot open the file: " << string(".\\html") + ToFileName(url) << endl;
-		fout.clear();
-		fout.close();
+		ofstream ferr("error.txt", ios::app);
+		if (!ferr) MessageBox(NULL, "Cannot attach to file \"error\"! ", NULL, MB_OK | MB_ICONWARNING);
+		else
+		{
+			ferr << "Cannot open the file: " << string(".\\html\\") + fileName << "\n\t->Source URL: " << url << endl;
+			ferr.close();
+		}
 	}
 
 	vector<string> imgUrls;									//存储图片url
@@ -345,6 +354,11 @@ int main()
 	}
 
 	string urlStart = ::urlStart;							//遍历的起始地址
+
+	cout << "Please input the start adress (input \"-d\" to use default): " << endl; 
+	string input; 
+	getline(cin, input); 
+	if (input != "-d") urlStart = input; 
 
 	visitedUrl.insert(urlStart);
 	urlQue.push(urlStart);
