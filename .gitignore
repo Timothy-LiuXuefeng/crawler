@@ -1,5 +1,7 @@
-*.sln
-/firstCrawler/
+
 !/firstCrawler/*.cpp
 !/firstCrawler/*.c
 !/firstCrawler/*.h
+*.sln
+/firstCrawler/
+
