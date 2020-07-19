@@ -7,6 +7,7 @@
 #include <WinSock2.h>
 #include <ctime>
 #include <cstdlib>
+#include <cassert>
 
 #pragma warning(disable: 4996)
 
@@ -16,6 +17,10 @@
 
 using namespace std;
 
+const string htmlDir("html"); 
+const string imgDir("img"); 
+const string htmlTextDir("htmlText"); 
+
 queue<string> urlQue;
 set<string> visitedUrl;
 set<string> visitedImg;
@@ -24,7 +29,7 @@ string urlStart = "http://www.7k7k.com/tag/72/"; 								//±éÀúÆğÊ¼µØÖ·
 
 
 //Ã»ÎÊÌâ
-bool ParseURL(const string& url, string& host, string& resource)				//½âÎö³öÖ÷»úÃûºÍ×ÊÔ´Ãû
+bool ParseURL(string& url, string& host, string& resource)				//½âÎö³öÖ÷»úÃûºÍ×ÊÔ´Ãû
 {
 	string urlTmp = url;
 	const string httpStr = "http://";
@@ -43,6 +48,7 @@ bool ParseURL(const string& url, string& host, string& resource)				//½âÎö³öÖ÷»ú
 	{
 		host = urlTmp; 
 		resource = "/"; 
+		url += '/'; 
 	}
 	else
 	{
@@ -52,7 +58,7 @@ bool ParseURL(const string& url, string& host, string& resource)				//½âÎö³öÖ÷»ú
 	return true;
 }
 
-bool GetHttpResponse(const string& url, string& response, size_t& bytesRead)	//»ñÈ¡urlÍøÒ³µÄÔ´´úÂë²¢·µ»Ø¶ÁÈëµÄ×Ö½ÚÊı
+bool GetHttpResponse(string& url, string& response, size_t& bytesRead)	//»ñÈ¡urlÍøÒ³µÄÔ´´úÂë²¢·µ»Ø¶ÁÈëµÄ×Ö½ÚÊı
 {
 	string host, resource;
 	cout << "Begin to parse: " << url << "..." << endl;
@@ -83,7 +89,7 @@ bool GetHttpResponse(const string& url, string& response, size_t& bytesRead)	//»
 	sa.sin_family = AF_INET;
 	sa.sin_port = htons(80);								//htons: ½«u_shortÀàĞÍÕûÊı´ÓĞ¡Î²Ë³Ğò(Ğ¡¶Ë¶ÔÆë)±ä³É´óÎ²Ë³Ğò(´ó¶Ë¶ÔÆë)
 	memcpy((void*)&sa.sin_addr, hp->h_addr, 4);
-
+	
 	//½¨Á¢Á¬½Ó
 	cout << "Connecting to " << url << "..." << endl;
 	if (connect(sock, (sockaddr*)&sa, sizeof(sa)))
@@ -101,7 +107,7 @@ bool GetHttpResponse(const string& url, string& response, size_t& bytesRead)	//»
 	if (send(sock, request.c_str(), request.length(), 0) == SOCKET_ERROR)
 	{
 		closesocket(sock);
-		cout << "Faile to send data to " << url << endl;
+		cout << "Fail to send data to " << url << endl;
 		return false;
 	}
 
@@ -164,7 +170,19 @@ string ToFileName(const string& url)						//½«µØÖ·×ª»»ÎªÎÄ¼şÃû
 
 void relativePath(string& url, const string& fatherUrl)									//´¦ÀíÏà¶ÔµØÖ·
 {
-	size_t pos1 = fatherUrl.find_last_of('/'), pos2 = fatherUrl.find_first_of('/'); 
+	size_t pos1 = fatherUrl.find_last_of('/'), pos2; 
+	if (fatherUrl.find("http") == 0)
+	{
+		size_t posTmp = fatherUrl.find(':'); 
+		if (posTmp != string::npos)
+		{
+			posTmp += 1; 
+			while (posTmp < fatherUrl.length() && fatherUrl[posTmp] == '/') ++posTmp; 
+			pos2 = fatherUrl.find_first_of('/', posTmp); 
+		}
+		else pos2 = fatherUrl.find_first_of('/'); 
+	}
+	else pos2 = fatherUrl.find_first_of('/'); 
 	if (url[0] == '/')
 	{
 		if (pos2 == string::npos) url = fatherUrl + url;
@@ -176,6 +194,49 @@ void relativePath(string& url, const string& fatherUrl)									//´¦ÀíÏà¶ÔµØÖ·
 	}
 }
 
+void saveHtmlCorr(const string& buf, const string& url)
+{
+	size_t htmlBegPos = 0; 
+	string att1 = "src=\""; 
+	size_t len = att1.length(); 
+	size_t pos = buf.find(att1, htmlBegPos); 
+	string fileName = ToFileName(url) + string(".html"); 
+	ofstream foutCorr(".\\" + htmlDir + "\\" + fileName, ios::out); 
+	if (!foutCorr)
+	{
+		ofstream ferr("error.txt", ios::app);
+		if (!ferr) MessageBox(NULL, "Cannot attach to file \"error\"! ", NULL, MB_OK | MB_ICONWARNING);
+		else
+		{
+			ferr << "Cannot open the file: " << ".\\" + htmlDir + "\\" + fileName << "\n\t->Source URL: " << url << endl;
+			ferr.close();
+		}
+		return; 
+	}
+
+	////foutCorr << buf; 
+	////return; 
+
+	while (pos != string::npos)
+	{
+		pos += len; 
+		size_t nextQ = buf.find('\"', pos);
+		if (nextQ == string::npos) break; 
+		string srcUrlTmp = buf.substr(pos, nextQ - pos); 
+		relativePath(srcUrlTmp, url); 
+		if (pos >= htmlBegPos)
+		{
+			if (pos != htmlBegPos) foutCorr << buf.substr(htmlBegPos, pos - htmlBegPos); 
+			foutCorr << srcUrlTmp << '\"'; 
+			htmlBegPos = nextQ + 1; 
+		}
+		pos = buf.find(att1, htmlBegPos); 
+	}
+
+	if (htmlBegPos != string::npos) foutCorr << buf.substr(htmlBegPos); 
+	foutCorr.close(); 
+
+}
 
 //Ã»ÎÊÌâ
 void HTMLParse(const string& response, vector<string>& imgurls, const string& url)		//½âÎöHTML£¬Ñ°ÕÒ³¬Á´½ÓºÍÍ¼Æ¬Á´½Ó
@@ -183,6 +244,9 @@ void HTMLParse(const string& response, vector<string>& imgurls, const string& ur
 	string tagHref = "href=\"";
 	size_t pos = response.find(tagHref);
 	ofstream fout("url.txt", ios::app);
+	ostringstream sout; 
+	size_t htmlBegPos = response.find("\r\n\r\n"); 
+	if (htmlBegPos != string::npos) htmlBegPos += strlen("\r\n\r\n"); 
 	if (!fout) MessageBox(NULL, "Cannot open url.txt!", NULL, MB_ICONWARNING | MB_OK);
 	while (pos != string::npos)
 	{
@@ -197,10 +261,18 @@ void HTMLParse(const string& response, vector<string>& imgurls, const string& ur
 			visitedUrl.insert(urlTmp); 
 			fout << urlTmp << endl;
 		}
+		if (pos >= htmlBegPos)
+		{
+			if (pos != htmlBegPos) sout << response.substr(htmlBegPos, pos - htmlBegPos); 
+			sout << urlTmp << '\"'; 
+			htmlBegPos = nextQ + 1; 
+		}
 		pos = response.find(tagHref, nextQ);
 	}
 	fout << endl << endl;
 	fout.close();
+	if (htmlBegPos != string::npos) sout << response.substr(htmlBegPos); 
+	saveHtmlCorr(sout.str(), url); 
 
 	string tagImg = "<img";
 	string att1 = "src=\"";
@@ -232,9 +304,9 @@ void HTMLParse(const string& response, vector<string>& imgurls, const string& ur
 		pos0 = response.find(tagImg, nextQ);
 	}
 }
-void DownLoadImg(const vector<string>& imgUrls, const string& url) //ÏÂÔØÍ¼Æ¬
+void DownLoadImg(vector<string>& imgUrls, const string& url) //ÏÂÔØÍ¼Æ¬
 {
-	string foldName = ".\\img\\" + ToFileName(url); 
+	string foldName = ".\\" + imgDir + "\\" + ToFileName(url); 
 	if (foldName.length() > 200) foldName = foldName.substr(0, 195) + "..."; 
 	bool hasCreated = false; 
 	string image;
@@ -295,7 +367,7 @@ void DownLoadImg(const vector<string>& imgUrls, const string& url) //ÏÂÔØÍ¼Æ¬
 	}
 }
 
-void BFS(const string& url)									//´¦ÀíÒ»¸öurl
+void BFS(string& url)									//´¦ÀíÒ»¸öurl
 {
 	string response;											//¼ÇÂ¼ÍøÕ¾ÄÚÈİ
 	size_t bytes;
@@ -307,7 +379,7 @@ void BFS(const string& url)									//´¦ÀíÒ»¸öurl
 	}
 
 	string fileName = ToFileName(url) + string(".txt"); 
-	ofstream fout(string(".\\html\\") + fileName, ios::out);
+	ofstream fout(".\\" + htmlTextDir + "\\" + fileName, ios::out);
 	if (fout)												//°ÑÍøÒ³Ô´´úÂëĞ´ÈëÎÄ¼ş²¢±£´æ
 	{
 		fout << response << endl;
@@ -319,7 +391,7 @@ void BFS(const string& url)									//´¦ÀíÒ»¸öurl
 		if (!ferr) MessageBox(NULL, "Cannot attach to file \"error\"! ", NULL, MB_OK | MB_ICONWARNING);
 		else
 		{
-			ferr << "Cannot open the file: " << string(".\\html\\") + fileName << "\n\t->Source URL: " << url << endl;
+			ferr << "Cannot open the file: " << ".\\" + htmlTextDir + "\\" + fileName << "\n\t->Source URL: " << url << endl;
 			ferr.close();
 		}
 	}
@@ -337,12 +409,17 @@ int main()
 {
 	WSADATA wsaData;
 
-	if (!CreateDirectory(".\\img", NULL))					//´´½¨imgÎÄ¼ş¼Ğ£¬´æ´¢ÅÀ³öÀ´µÄimg
+	if (!CreateDirectory((".\\" + imgDir).c_str(), NULL))					//´´½¨imgÎÄ¼ş¼Ğ£¬´æ´¢ÅÀ³öÀ´µÄimg
 	{
 		cout << "Warning: Directory img create failed!" << endl;
 	}
 
-	if (!CreateDirectory(".\\html", NULL))					//´´½¨htmlÎÄ¼ş¼Ğ£¬´æ´¢¾­¹ıµÄurlµÄÍøÒ³ÄÚÈİ
+	if (!CreateDirectory((".\\" + htmlTextDir).c_str(), NULL))				//´´½¨htmlTextÎÄ¼ş¼Ğ£¬´æ´¢¾­¹ıµÄurlµÄÍøÒ³ÄÚÈİ
+	{
+		cout << "Warning: Directory htmlText create failed!" << endl;
+	}
+
+	if (!CreateDirectory((".\\" + htmlDir).c_str(), NULL))					//´´½¨htmlÎÄ¼ş¼Ğ£¬´æ´¢ĞŞ¸Ä¹ıµÄhtmlÎÄ¼ş
 	{
 		cout << "Warning: Directory html create failed!" << endl;
 	}
@@ -358,7 +435,11 @@ int main()
 	cout << "Please input the start adress (input \"-d\" to use default): " << endl; 
 	string input; 
 	getline(cin, input); 
-	if (input != "-d") urlStart = input; 
+	if (input != "-d")
+	{
+		if (input.find("http") != 0) input = "http://" + input; 
+		urlStart = input; 
+	}
 
 	visitedUrl.insert(urlStart);
 	urlQue.push(urlStart);
